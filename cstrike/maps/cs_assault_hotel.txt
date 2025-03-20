@@ -1,0 +1,27 @@
+cs_assault_hotel - Hostage Rescue
+by Plaxic (Xfire username: plaxic)
+[This is my 2nd map] - Created 8/14/07
+
+Based on cs_assault by CryptR (lmuur@dlc.fi)
+
+Changes from cs_assault:
+
+-CT Tower is slanted and with ventilation tops
+-Middle tower is accessible by series of ladders
+-Small tower on left side of spawn
+-Building next to bridge is now a hotel
+	-Hotel is accessed from bridge
+	-Has 5 floors, 3 of which are open to entrance
+	-Stairs go between the floors
+	-5th (top) floor connects with the hostage room
+	-Hostages can be rescued this way (break window)
+-Hostage room is larger and connects with Hotel
+-There is a roof above Hotel and Hostages accessible
+	by ladder from bridge or by vents
+-Roof above Hostages has vent entrance connecting with
+	the central vent system
+-2 extra ladders inside, one at front, one at back
+-3rd ladder leads to small extra vent, which leads to
+	the top of the blue containers at backdoor
+-2nd backdoor leads into darker storage room which gives
+	access to the inside of the warehouse

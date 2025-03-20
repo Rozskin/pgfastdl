@@ -1,0 +1,14 @@
+// overview description file for cs_deathmatch.bsp  (by d-o-Maxx@borgnet.de)
+
+global 
+{
+	ZOOM	3.80
+	ORIGIN	216.00    -122.00   -413.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_deathmatch.bmp"
+	HEIGHT	-413.00
+}
