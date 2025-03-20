@@ -1,0 +1,25 @@
+[en]
+MAX_LEVEL = [Rubaka] You Have Reached Max Level!
+NOT_ENOUGH_EXP = [Rubaka] You Don't Have Enough Experience!
+NO_RESET = [Rubaka] Nothing To Reset!
+NO_DROP_FLAG = [Rubaka] No Flag To Drop!
+DESCR_RESET = Reset your level and skills.^nYou will loose %i%% of your experience.
+DESCR_LJ = Hold “A” or “D” and press jump button.^nDon't work with flag.
+DESCR_PTM = Needed to learn Magic Orb. Give 70 HP.
+DESCR_HP = Give 100 HP. Reduce speed with flag.
+DESCR_DAM = Instant killing.
+DESCR_SPEED = Increase your speed, but reduce your HP. 
+DESCR_HA = Aura, that heals you and^nyour teammates in some radius.  
+DESCR_MA = Aura, that regenerate MP in some radius.  
+DESCR_U5 = Increase your experience.
+DESCR_VAMP = Regenerate HP when strike an enemy.
+DESCR_MIND = A powerfull blast of energy.^nHeal when used on a friendly target.
+DESCR_GROUND = Smash enemies around you.^nExtra power gained from jumping.
+DESCR_FLY = Extra "jump" in the air.
+DESCR_ATTR = Attract enemies in some radius.
+DESCR_MG = Strike an enemie distantly.^nMana cap available.
+DESCR_HEAD = Crush enemies when standing at their head. 
+DESCR_INV = Silent walk & Invisibility.^n Full invis when standing for a moment.
+DESCR_TELE = See enemy HP, mana and class.^nShow position of the flag to teammates.
+DESCR_RES = Resist to Ground Strike.
+DESCR_RESP = No time penalty after death.

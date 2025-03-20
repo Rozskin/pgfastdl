@@ -1,0 +1,500 @@
+L 03/12/2025 - 00:01:39: -------- Mapchange to crazycar_v2 --------
+L 03/12/2025 - 00:01:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 00:01:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1127.4ms.
+L 03/12/2025 - 00:20:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 00:21:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 03/12/2025 - 00:22:49: -------- Mapchange to he_tennis --------
+L 03/12/2025 - 00:22:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 00:22:50: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.6ms.
+L 03/12/2025 - 00:41:50: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 00:42:14: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 03/12/2025 - 00:42:31: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 00:42:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 00:43:58: [polymorph.amxx] performance issue. Function plugin_end executed more than 22.5ms.
+L 03/12/2025 - 00:43:59: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 00:43:59: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 00:44:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1096.6ms.
+L 03/12/2025 - 01:01:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 01:01:24: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/12/2025 - 01:03:08: -------- Mapchange to de_chateau --------
+L 03/12/2025 - 01:03:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 01:03:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1101.8ms.
+L 03/12/2025 - 01:20:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 01:20:34: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 01:22:18: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 01:22:18: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 01:22:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1093.3ms.
+L 03/12/2025 - 01:39:20: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 01:39:44: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 03/12/2025 - 01:40:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 01:40:24: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 03/12/2025 - 01:41:28: -------- Mapchange to as_oilrig --------
+L 03/12/2025 - 01:41:28: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 01:41:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1096.9ms.
+L 03/12/2025 - 02:04:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 02:04:53: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 03/12/2025 - 02:06:37: -------- Mapchange to as_crazytank3 --------
+L 03/12/2025 - 02:06:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 02:06:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1093.8ms.
+L 03/12/2025 - 02:29:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 02:30:03: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 03/12/2025 - 02:31:47: -------- Mapchange to as_oilrig --------
+L 03/12/2025 - 02:31:47: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 02:31:48: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1110.8ms.
+L 03/12/2025 - 02:54:49: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 02:55:13: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 03/12/2025 - 02:55:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 02:55:53: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 02:56:57: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 02:56:57: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 02:56:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1112.5ms.
+L 03/12/2025 - 03:14:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 03:15:22: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 03/12/2025 - 03:17:07: -------- Mapchange to de_inferno --------
+L 03/12/2025 - 03:17:07: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 03:17:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1098.7ms.
+L 03/12/2025 - 03:35:08: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 03:35:32: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 03:37:16: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 03:37:16: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 03:37:18: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1098.0ms.
+L 03/12/2025 - 03:55:18: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 03:55:42: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Rubaka
+L 03/12/2025 - 03:55:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 03:56:22: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be rubaka_2forts
+L 03/12/2025 - 03:57:26: -------- Mapchange to rubaka_2forts --------
+L 03/12/2025 - 03:57:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 03:57:27: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1112.8ms.
+L 03/12/2025 - 04:18:28: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 04:18:52: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be rubaka_arena
+L 03/12/2025 - 04:19:09: -------- Mapchange to rubaka_arena --------
+L 03/12/2025 - 04:19:09: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 04:19:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.3ms.
+L 03/12/2025 - 04:40:10: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 04:40:34: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrace
+L 03/12/2025 - 04:40:51: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 04:40:51: -------- Mapchange to deathrace_brio --------
+L 03/12/2025 - 04:40:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 04:40:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1093.8ms.
+L 03/12/2025 - 04:59:53: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 05:00:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_dangerous
+L 03/12/2025 - 05:02:03: -------- Mapchange to deathrace_dangerous --------
+L 03/12/2025 - 05:02:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 05:02:05: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1092.6ms.
+L 03/12/2025 - 05:21:05: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 05:21:29: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 03/12/2025 - 05:21:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 05:22:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 05:23:15: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 05:23:15: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 05:23:17: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1094.5ms.
+L 03/12/2025 - 05:44:17: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 05:44:41: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 03/12/2025 - 05:46:25: -------- Mapchange to de_aztec --------
+L 03/12/2025 - 05:46:25: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 05:46:26: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1110.4ms.
+L 03/12/2025 - 06:07:27: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 06:07:51: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 03/12/2025 - 06:08:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 06:08:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 03/12/2025 - 06:09:35: -------- Mapchange to as_oilrig --------
+L 03/12/2025 - 06:09:35: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 06:09:36: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.6ms.
+L 03/12/2025 - 06:32:36: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 06:33:00: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 03/12/2025 - 06:34:44: -------- Mapchange to as_crazytank3 --------
+L 03/12/2025 - 06:34:44: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 06:34:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1098.3ms.
+L 03/12/2025 - 06:57:46: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 06:58:10: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 03/12/2025 - 06:59:54: -------- Mapchange to as_oilrig --------
+L 03/12/2025 - 06:59:54: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 06:59:56: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1122.7ms.
+L 03/12/2025 - 07:22:56: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 07:23:20: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 03/12/2025 - 07:23:36: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 07:24:00: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 07:25:04: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 07:25:04: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 07:25:05: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.9ms.
+L 03/12/2025 - 07:42:06: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 07:42:30: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/12/2025 - 07:44:14: -------- Mapchange to de_chateau --------
+L 03/12/2025 - 07:44:14: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 07:44:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1106.5ms.
+L 03/12/2025 - 08:01:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 08:01:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 08:03:23: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 08:03:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 08:03:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1119.9ms.
+L 03/12/2025 - 08:20:25: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 08:20:49: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 03/12/2025 - 08:21:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 08:21:29: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 08:22:33: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 08:22:33: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 08:22:33: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.9ms.
+L 03/12/2025 - 08:22:33: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 08:22:35: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.5ms.
+L 03/12/2025 - 08:22:35: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.5ms.
+L 03/12/2025 - 08:22:35: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 08:22:38: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Free-For-<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 08:22:39: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.6ms.
+L 03/12/2025 - 08:40:35: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 08:40:59: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bkz_goldbhop
+L 03/12/2025 - 08:42:43: -------- Mapchange to bkz_goldbhop --------
+L 03/12/2025 - 08:42:43: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 08:42:43: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.8ms.
+L 03/12/2025 - 08:42:43: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 08:42:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.9ms.
+L 03/12/2025 - 08:42:44: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 03/12/2025 - 08:42:44: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 08:42:48: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 08:42:49: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 5.6ms.
+L 03/12/2025 - 09:00:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 09:01:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_xj_brickjump
+L 03/12/2025 - 09:02:53: -------- Mapchange to kz_xj_brickjump --------
+L 03/12/2025 - 09:02:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 09:02:53: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.8ms.
+L 03/12/2025 - 09:02:53: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 09:02:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1094.1ms.
+L 03/12/2025 - 09:02:54: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.5ms.
+L 03/12/2025 - 09:02:54: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 09:02:58: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 09:02:59: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.4ms.
+L 03/12/2025 - 09:20:55: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 09:21:19: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 03/12/2025 - 09:21:35: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 09:21:59: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust4ever
+L 03/12/2025 - 09:23:03: -------- Mapchange to de_dust4ever --------
+L 03/12/2025 - 09:23:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 09:23:04: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1114.5ms.
+L 03/12/2025 - 09:41:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 09:41:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 09:43:13: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 09:43:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 09:43:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.5ms.
+L 03/12/2025 - 10:01:14: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 10:01:38: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 03/12/2025 - 10:01:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 10:02:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 10:03:22: [polymorph.amxx] performance issue. Function plugin_end executed more than 22.4ms.
+L 03/12/2025 - 10:03:22: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 10:03:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 10:03:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.3ms.
+L 03/12/2025 - 10:20:24: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 10:20:48: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/12/2025 - 10:22:32: -------- Mapchange to de_chateau --------
+L 03/12/2025 - 10:22:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 10:22:33: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1092.7ms.
+L 03/12/2025 - 10:39:34: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 10:39:58: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 10:41:42: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 10:41:42: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 10:41:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1102.3ms.
+L 03/12/2025 - 10:58:43: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 10:59:07: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 03/12/2025 - 10:59:23: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 10:59:47: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 11:00:51: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 11:00:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 11:00:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1095.2ms.
+L 03/12/2025 - 11:18:53: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 11:19:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 03/12/2025 - 11:21:01: -------- Mapchange to de_inferno --------
+L 03/12/2025 - 11:21:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 11:21:02: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1094.2ms.
+L 03/12/2025 - 11:39:03: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 11:39:27: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 11:41:11: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 11:41:11: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 11:41:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1119.0ms.
+L 03/12/2025 - 11:59:12: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 11:59:36: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 03/12/2025 - 11:59:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 12:00:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 12:01:20: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 12:01:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 12:01:21: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.9ms.
+L 03/12/2025 - 12:01:21: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 12:01:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1096.3ms.
+L 03/12/2025 - 12:01:22: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.7ms.
+L 03/12/2025 - 12:01:22: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 12:01:25: [admincmd.amxx] Cmd: "PerGAmes MultiModos - CScout MO<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 12:01:26: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.5ms.
+L 03/12/2025 - 12:19:22: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 12:19:46: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_xj_brickjump
+L 03/12/2025 - 12:21:30: -------- Mapchange to kz_xj_brickjump --------
+L 03/12/2025 - 12:21:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 12:21:30: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.7ms.
+L 03/12/2025 - 12:21:31: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 12:21:32: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.3ms.
+L 03/12/2025 - 12:21:32: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 03/12/2025 - 12:21:32: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 12:21:35: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 12:21:36: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.8ms.
+L 03/12/2025 - 12:39:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 12:39:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 12:41:40: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 12:41:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 12:41:40: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.0ms.
+L 03/12/2025 - 12:41:40: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 12:41:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.8ms.
+L 03/12/2025 - 12:41:41: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.5ms.
+L 03/12/2025 - 12:41:41: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 12:41:45: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 12:41:46: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.6ms.
+L 03/12/2025 - 12:59:42: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 13:00:06: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be BaseBuilder
+L 03/12/2025 - 13:00:22: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 13:00:46: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bb_tournament4
+L 03/12/2025 - 13:01:50: -------- Mapchange to bb_tournament4 --------
+L 03/12/2025 - 13:01:50: [AMXX] Plugin "anti-channel.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 03/12/2025 - 13:01:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 13:01:50: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 3.9ms.
+L 03/12/2025 - 13:01:50: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 4.1ms.
+L 03/12/2025 - 13:01:50: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 3.3ms.
+L 03/12/2025 - 13:01:50: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 4.9ms.
+L 03/12/2025 - 13:01:50: [bb_classes65.amxx] performance issue. Function plugin_precache executed more than 16.3ms.
+L 03/12/2025 - 13:01:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.9ms.
+L 03/12/2025 - 13:24:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 13:25:16: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bb_colours
+L 03/12/2025 - 13:27:00: -------- Mapchange to bb_colours --------
+L 03/12/2025 - 13:27:00: [AMXX] Plugin "anti-channel.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 03/12/2025 - 13:27:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 13:27:00: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 3.9ms.
+L 03/12/2025 - 13:27:00: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 4.1ms.
+L 03/12/2025 - 13:27:00: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 3.3ms.
+L 03/12/2025 - 13:27:00: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 4.8ms.
+L 03/12/2025 - 13:27:00: [bb_classes65.amxx] performance issue. Function plugin_precache executed more than 16.2ms.
+L 03/12/2025 - 13:27:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1094.1ms.
+L 03/12/2025 - 13:50:02: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 13:50:26: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 03/12/2025 - 13:50:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 13:51:06: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 13:52:10: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 13:52:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 13:52:10: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.9ms.
+L 03/12/2025 - 13:52:10: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 13:52:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1101.2ms.
+L 03/12/2025 - 13:52:11: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.5ms.
+L 03/12/2025 - 13:52:11: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 13:52:14: [admincmd.amxx] Cmd: "PerGAmes MultiModos - BaseBuild<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 13:52:15: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.8ms.
+L 03/12/2025 - 14:10:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 14:10:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bkz_goldbhop
+L 03/12/2025 - 14:12:19: -------- Mapchange to bkz_goldbhop --------
+L 03/12/2025 - 14:12:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 14:12:20: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.8ms.
+L 03/12/2025 - 14:12:20: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 14:12:21: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1098.9ms.
+L 03/12/2025 - 14:12:21: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 03/12/2025 - 14:12:21: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 14:12:24: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 14:12:25: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.7ms.
+L 03/12/2025 - 14:30:21: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 14:30:45: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 14:32:29: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 14:32:29: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 14:32:30: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.1ms.
+L 03/12/2025 - 14:32:30: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 14:32:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1095.0ms.
+L 03/12/2025 - 14:32:31: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.4ms.
+L 03/12/2025 - 14:32:31: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 14:32:34: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 14:32:35: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.5ms.
+L 03/12/2025 - 14:50:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 14:50:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 03/12/2025 - 14:51:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 14:51:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 03/12/2025 - 14:52:40: -------- Mapchange to de_train --------
+L 03/12/2025 - 14:52:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 14:52:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.3ms.
+L 03/12/2025 - 15:10:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 15:11:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 15:12:49: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 15:12:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 15:12:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1098.4ms.
+L 03/12/2025 - 15:30:51: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 15:31:15: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 03/12/2025 - 15:32:59: -------- Mapchange to de_inferno --------
+L 03/12/2025 - 15:32:59: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 15:33:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1142.5ms.
+L 03/12/2025 - 15:51:01: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 15:51:25: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 03/12/2025 - 15:51:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 15:52:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 15:53:09: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 15:53:09: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 15:53:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.8ms.
+L 03/12/2025 - 16:14:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 16:14:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 03/12/2025 - 16:16:19: -------- Mapchange to de_aztec --------
+L 03/12/2025 - 16:16:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 16:16:20: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.3ms.
+L 03/12/2025 - 16:37:20: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 16:37:44: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 03/12/2025 - 16:38:01: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 16:38:25: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 03/12/2025 - 16:39:29: -------- Mapchange to cs_estate --------
+L 03/12/2025 - 16:39:29: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 16:39:30: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.2ms.
+L 03/12/2025 - 16:39:30: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 16:54:30: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 16:54:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 03/12/2025 - 16:56:38: -------- Mapchange to de_dust --------
+L 03/12/2025 - 16:56:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 16:56:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1091.2ms.
+L 03/12/2025 - 16:56:40: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 17:11:40: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 17:12:04: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 03/12/2025 - 17:12:20: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 17:12:44: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 17:13:48: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 17:13:48: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 17:13:50: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.0ms.
+L 03/12/2025 - 17:31:50: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 17:32:14: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 03/12/2025 - 17:33:58: -------- Mapchange to de_inferno --------
+L 03/12/2025 - 17:33:58: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 17:33:59: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.9ms.
+L 03/12/2025 - 17:52:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 17:52:24: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 17:54:08: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 17:54:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 17:54:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1096.9ms.
+L 03/12/2025 - 18:12:09: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 18:12:33: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 03/12/2025 - 18:12:50: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 18:13:14: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 03/12/2025 - 18:14:17: -------- Mapchange to cs_estate --------
+L 03/12/2025 - 18:14:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 18:14:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1101.8ms.
+L 03/12/2025 - 18:14:19: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 18:29:19: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 18:29:43: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 03/12/2025 - 18:31:27: -------- Mapchange to de_dust --------
+L 03/12/2025 - 18:31:27: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 18:31:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1102.4ms.
+L 03/12/2025 - 18:31:29: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 18:46:29: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 18:46:53: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 03/12/2025 - 18:47:09: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 18:47:33: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 18:48:37: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 18:48:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 18:48:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1118.1ms.
+L 03/12/2025 - 19:05:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 19:06:03: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/12/2025 - 19:07:47: -------- Mapchange to de_chateau --------
+L 03/12/2025 - 19:07:47: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 19:07:48: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1106.9ms.
+L 03/12/2025 - 19:24:49: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 19:25:13: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 19:26:57: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 19:26:57: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 19:26:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.1ms.
+L 03/12/2025 - 19:43:58: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 19:44:22: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 03/12/2025 - 19:44:38: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 19:45:02: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 19:46:06: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 19:46:06: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 19:46:06: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 4.9ms.
+L 03/12/2025 - 19:46:07: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 19:46:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1095.3ms.
+L 03/12/2025 - 19:46:08: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.7ms.
+L 03/12/2025 - 19:46:08: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 19:46:11: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Free-For-<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 19:46:12: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.6ms.
+L 03/12/2025 - 20:04:08: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 20:04:32: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_xj_brickjump
+L 03/12/2025 - 20:06:16: -------- Mapchange to kz_xj_brickjump --------
+L 03/12/2025 - 20:06:16: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 20:06:16: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.1ms.
+L 03/12/2025 - 20:06:16: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 20:06:18: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1106.5ms.
+L 03/12/2025 - 20:06:18: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 03/12/2025 - 20:06:18: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 20:06:22: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 20:06:23: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.7ms.
+L 03/12/2025 - 20:24:19: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 20:24:43: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 03/12/2025 - 20:26:27: -------- Mapchange to kz_arsacid --------
+L 03/12/2025 - 20:26:27: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 20:26:27: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.1ms.
+L 03/12/2025 - 20:26:27: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 03/12/2025 - 20:26:28: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1142.5ms.
+L 03/12/2025 - 20:26:29: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 32.3ms.
+L 03/12/2025 - 20:26:29: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 20:26:32: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 03/12/2025 - 20:26:33: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.7ms.
+L 03/12/2025 - 20:44:29: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 20:44:53: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 03/12/2025 - 20:45:09: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 20:45:33: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 03/12/2025 - 20:46:37: -------- Mapchange to de_dust --------
+L 03/12/2025 - 20:46:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 20:46:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.7ms.
+L 03/12/2025 - 21:05:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 21:06:03: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 21:07:47: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 21:07:47: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 21:07:49: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.9ms.
+L 03/12/2025 - 21:26:49: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 21:27:13: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 03/12/2025 - 21:27:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 21:27:53: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 21:28:57: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 21:28:57: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 21:28:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1091.4ms.
+L 03/12/2025 - 21:45:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 21:46:22: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/12/2025 - 21:48:07: -------- Mapchange to de_chateau --------
+L 03/12/2025 - 21:48:07: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 21:48:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.1ms.
+L 03/12/2025 - 22:05:08: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 22:05:32: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/12/2025 - 22:07:16: -------- Mapchange to cs_assault --------
+L 03/12/2025 - 22:07:16: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 22:07:18: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.3ms.
+L 03/12/2025 - 22:24:18: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 22:24:42: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 03/12/2025 - 22:24:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 22:25:22: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 03/12/2025 - 22:26:26: -------- Mapchange to cs_estate --------
+L 03/12/2025 - 22:26:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 22:26:27: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1094.4ms.
+L 03/12/2025 - 22:26:27: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 22:41:28: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 22:41:52: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 03/12/2025 - 22:43:36: -------- Mapchange to de_dust --------
+L 03/12/2025 - 22:43:36: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 22:43:37: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1093.3ms.
+L 03/12/2025 - 22:43:37: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 22:58:38: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 22:59:02: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 03/12/2025 - 22:59:18: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 22:59:42: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 03/12/2025 - 23:00:46: -------- Mapchange to de_dust2 --------
+L 03/12/2025 - 23:00:46: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 23:00:47: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.6ms.
+L 03/12/2025 - 23:18:47: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 23:19:12: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 03/12/2025 - 23:20:55: -------- Mapchange to surf_iceday_remake --------
+L 03/12/2025 - 23:20:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 23:20:57: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1140.3ms.
+L 03/12/2025 - 23:38:57: [polymorph.amxx] Vote: Voting for the next mod started
+L 03/12/2025 - 23:39:21: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 03/12/2025 - 23:39:37: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 23:40:01: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 03/12/2025 - 23:41:05: -------- Mapchange to cs_estate --------
+L 03/12/2025 - 23:41:05: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 23:41:07: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.1ms.
+L 03/12/2025 - 23:41:07: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 03/12/2025 - 23:56:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/12/2025 - 23:56:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 03/12/2025 - 23:58:15: -------- Mapchange to de_dust --------
+L 03/12/2025 - 23:58:15: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/12/2025 - 23:58:17: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1134.5ms.
+L 03/12/2025 - 23:58:17: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx

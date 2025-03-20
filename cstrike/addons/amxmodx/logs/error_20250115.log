@@ -1,0 +1,304 @@
+L 01/15/2025 - 02:35:38: Start of error session.
+L 01/15/2025 - 02:35:38: Info (map "bomberman_final") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 02:35:38: Invalid index 0 (count: 0)
+L 01/15/2025 - 02:35:38: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 02:35:38: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 02:35:38: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 02:35:38: [AMXX]    [1] polymorph.sma::checkModVotes (line 1202)
+L 01/15/2025 - 02:37:22: Start of error session.
+L 01/15/2025 - 02:37:22: Info (map "fy_titanic") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 02:37:22: [AMXX] Plugin ("bomberman_mod.amxx") is setting itself as failed.
+L 01/15/2025 - 02:37:22: [AMXX] Plugin says: Not in bomberman map.
+L 01/15/2025 - 02:37:22: [AMXX] Run time error 1 (plugin "bomberman_mod.amxx") - forced exit
+L 01/15/2025 - 18:38:55: Start of error session.
+L 01/15/2025 - 18:38:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:38:55: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:38:55: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:38:55: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:38:55: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:38:55: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 18:39:54: Start of error session.
+L 01/15/2025 - 18:39:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:39:54: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:39:54: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:39:54: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:39:54: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:39:54: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 18:39:55: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:39:55: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:39:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:42:36: Start of error session.
+L 01/15/2025 - 18:42:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:42:36: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:42:36: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:42:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:42:51: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:42:51: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:42:51: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:42:51: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:42:51: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 18:43:02: Start of error session.
+L 01/15/2025 - 18:43:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:43:02: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:43:02: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:43:02: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:43:02: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:43:02: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 18:43:03: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:43:03: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:43:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:58:14: Start of error session.
+L 01/15/2025 - 18:58:14: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:58:14: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 18:58:14: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 18:58:14: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 18:58:14: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:58:14: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 18:58:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:58:16: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:58:16: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:58:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:58:28: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:58:28: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:58:28: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:58:28: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:58:28: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 18:58:36: Start of error session.
+L 01/15/2025 - 18:58:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:58:36: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 18:58:36: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 18:58:36: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 18:58:36: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:58:36: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 18:58:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:58:37: Invalid index 0 (count: 0)
+L 01/15/2025 - 18:58:37: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 18:58:37: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 18:58:37: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 18:58:37: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 18:58:37: Player 3 is not in game.
+L 01/15/2025 - 18:58:37: [AMXX] Run time error 10 (plugin "menu_principalpg.amxx") (native "menu_display") - debug not enabled!
+L 01/15/2025 - 18:58:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:58:38: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:58:38: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:58:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 18:59:14: Start of error session.
+L 01/15/2025 - 18:59:14: Info (map "fy_iceworld") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 18:59:14: Called dynanative into a paused plugin.
+L 01/15/2025 - 18:59:14: [AMXX] Run time error 10 (plugin "CsBattleRoyaleHud.amxx") (native "GetRemainingTeams") - debug not enabled!
+L 01/15/2025 - 18:59:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:05:12: Start of error session.
+L 01/15/2025 - 19:05:12: Info (map "fy_marioworld") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:05:12: [AMXX] Plugin ("Ultimatesurf.amxx") is setting itself as failed.
+L 01/15/2025 - 19:05:12: [AMXX] Plugin says: UltimateSurf will only run on surf maps.
+L 01/15/2025 - 19:05:12: [AMXX] Run time error 1 (plugin "Ultimatesurf.amxx") - forced exit
+L 01/15/2025 - 19:05:22: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:05:22: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:05:22: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:05:22: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:05:22: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 19:08:47: Start of error session.
+L 01/15/2025 - 19:08:47: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:08:47: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:08:47: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:08:47: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:08:47: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:08:47: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:08:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:10:59: Start of error session.
+L 01/15/2025 - 19:10:59: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:10:59: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:10:59: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:10:59: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:10:59: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:10:59: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:10:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:11:59: Start of error session.
+L 01/15/2025 - 19:11:59: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:11:59: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:11:59: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:11:59: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:11:59: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:11:59: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:11:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:12:46: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:12:46: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:12:46: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:12:46: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:12:46: [AMXX]    [1] polymorph.sma::checkModVotes (line 1202)
+L 01/15/2025 - 19:13:46: Start of error session.
+L 01/15/2025 - 19:13:46: Info (map "de_chateau") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:13:46: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:13:46: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:13:46: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:13:46: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:13:46: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:13:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:15:05: Start of error session.
+L 01/15/2025 - 19:15:05: Info (map "cc_fck_hav") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:15:05: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:15:05: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:15:05: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:15:05: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:15:05: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:15:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:15:05: [AMXX] Plugin ("Ultimatesurf.amxx") is setting itself as failed.
+L 01/15/2025 - 19:15:05: [AMXX] Plugin says: UltimateSurf will only run on surf maps.
+L 01/15/2025 - 19:15:05: [AMXX] Run time error 1 (plugin "Ultimatesurf.amxx") - forced exit
+L 01/15/2025 - 19:15:54: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:15:54: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:15:54: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:15:54: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:15:54: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 19:16:02: Start of error session.
+L 01/15/2025 - 19:16:02: Info (map "cc_fck_hav") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:16:02: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:16:02: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:16:02: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:16:02: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:16:02: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:16:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 19:16:43: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:16:43: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:16:43: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:16:43: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:16:43: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 19:17:29: Start of error session.
+L 01/15/2025 - 19:17:29: Info (map "cc_multicolor") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:17:29: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:17:29: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:17:29: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:17:29: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:17:29: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 19:19:57: Start of error session.
+L 01/15/2025 - 19:19:57: Info (map "cc_small") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:19:57: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:19:57: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:19:57: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:19:57: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:19:57: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 19:20:05: Start of error session.
+L 01/15/2025 - 19:20:05: Info (map "fy_colorumble") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:20:05: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:20:05: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:20:05: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:20:05: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:20:05: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 19:21:37: Start of error session.
+L 01/15/2025 - 19:21:37: Info (map "fy_docs") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:21:37: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:21:37: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:21:37: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:21:37: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:21:37: [AMXX]    [1] polymorph.sma::cmdSetNextmod (line 803)
+L 01/15/2025 - 19:21:44: Start of error session.
+L 01/15/2025 - 19:21:44: Info (map "fy_killworld") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:21:44: Invalid index 0 (count: 0)
+L 01/15/2025 - 19:21:44: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/15/2025 - 19:21:44: [AMXX] Run time error 10: native error (native "ArrayGetString")
+L 01/15/2025 - 19:21:44: [AMXX]    [0] polymorph.sma::setDefaultNextmap (line 1756)
+L 01/15/2025 - 19:21:44: [AMXX]    [1] polymorph.sma::plugin_cfg (line 271)
+L 01/15/2025 - 19:42:53: Start of error session.
+L 01/15/2025 - 19:42:53: Info (map "cs_siege") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 19:42:53: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 19:42:53: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 19:42:53: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 19:42:53: Called dynanative into a paused plugin.
+L 01/15/2025 - 19:42:53: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 19:42:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 20:04:03: Start of error session.
+L 01/15/2025 - 20:04:03: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 20:04:03: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 20:04:03: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 20:04:03: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 20:04:03: Called dynanative into a paused plugin.
+L 01/15/2025 - 20:04:03: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 20:04:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 20:24:15: Start of error session.
+L 01/15/2025 - 20:24:15: Info (map "kz_xj_brickjump") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 20:24:15: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 20:24:15: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 20:24:15: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 20:24:15: Called dynanative into a paused plugin.
+L 01/15/2025 - 20:24:15: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 20:24:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 20:44:24: Start of error session.
+L 01/15/2025 - 20:44:24: Info (map "bkz_goldbhop") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 20:44:24: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 20:44:24: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 20:44:24: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 20:44:24: Called dynanative into a paused plugin.
+L 01/15/2025 - 20:44:24: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 20:44:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 21:04:34: Start of error session.
+L 01/15/2025 - 21:04:34: Info (map "ze_freezy_xmas_b2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 21:04:34: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 21:04:34: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 21:04:34: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 21:04:34: Called dynanative into a paused plugin.
+L 01/15/2025 - 21:04:34: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 21:04:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 21:24:44: Start of error session.
+L 01/15/2025 - 21:24:44: Info (map "ze_deadspace_v2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 21:24:44: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 21:24:44: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 21:24:44: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 21:24:44: Called dynanative into a paused plugin.
+L 01/15/2025 - 21:24:44: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 21:24:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 21:44:54: Start of error session.
+L 01/15/2025 - 21:44:54: Info (map "ze_remesa_old_final") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 21:44:54: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 21:44:54: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 21:44:54: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 21:44:54: Called dynanative into a paused plugin.
+L 01/15/2025 - 21:44:54: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 21:44:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 22:05:04: Start of error session.
+L 01/15/2025 - 22:05:04: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 22:05:04: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 22:05:04: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 22:05:04: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 22:05:04: Called dynanative into a paused plugin.
+L 01/15/2025 - 22:05:04: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 22:05:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 22:25:14: Start of error session.
+L 01/15/2025 - 22:25:14: Info (map "surf_iceday_remake") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 22:25:14: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 22:25:14: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 22:25:14: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 22:25:14: Called dynanative into a paused plugin.
+L 01/15/2025 - 22:25:14: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 22:25:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 22:45:24: Start of error session.
+L 01/15/2025 - 22:45:24: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 22:45:24: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 22:45:24: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 22:45:24: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 22:45:24: Called dynanative into a paused plugin.
+L 01/15/2025 - 22:45:24: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 22:45:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 23:06:34: Start of error session.
+L 01/15/2025 - 23:06:34: Info (map "zm_toronto") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 23:06:34: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 23:06:34: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 23:06:34: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 23:06:34: Called dynanative into a paused plugin.
+L 01/15/2025 - 23:06:34: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 23:06:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 23:27:44: Start of error session.
+L 01/15/2025 - 23:27:44: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 23:27:44: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 23:27:44: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 23:27:44: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 23:27:44: Called dynanative into a paused plugin.
+L 01/15/2025 - 23:27:44: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 23:27:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/15/2025 - 23:48:54: Start of error session.
+L 01/15/2025 - 23:48:54: Info (map "rubaka_2forts") (file "addons/amxmodx/logs/error_20250115.log")
+L 01/15/2025 - 23:48:54: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 01/15/2025 - 23:48:54: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 01/15/2025 - 23:48:54: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 01/15/2025 - 23:48:54: Called dynanative into a paused plugin.
+L 01/15/2025 - 23:48:54: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 01/15/2025 - 23:48:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,113 @@
+[en]
+ROUND_MESSAGE = ^4[PG] ^1Welcome to Pergames Multimodos
+
+WIN_ZOMBIE = Zombies Win!
+WIN_BUILDER = Builders Win!
+
+DEATH_ZOMBIE = You've died!^nYou will respawn in %d seconds...
+DEATH_HUMAN = You have been infected!^nYou will respawn in %d seconds...
+
+BUILD_TIMER = Build Time
+PREP_TIMER = Prep Time
+
+SWAP_ANNOUNCE = The teams have been swapped
+PREP_ANNOUNCE = The survivors have been respawned to test their bases
+RELEASE_ANNOUNCE = The zombies have been released!
+INFECT_ANNOUNCE = The infection coarses through %s's blood
+
+ADMIN_REVIVE = An admin has respawned you
+ADMIN_GUNS = An admin has re-opened your guns menu
+ADMIN_BUILDBAN = An admin has %s your building privileges
+ADMIN_SWAP = An admin has swapped your team
+
+FAIL_KNIFE = You can only use your knife during the build phase
+FAIL_DROP = You cannot drop weapons
+FAIL_BUY = You aren't allowed to buy anything
+FAIL_SPAWN = You can't respawn right now!
+FAIL_ACCESS = You don't have access to this command
+FAIL_NAME = You have entered an invalid name
+FAIL_DEAD = The targeted player is dead
+FAIL_LOCK = You cannot lock/unlock blocks after the round has started
+
+COLOR_PICKED = Your color has been randomly chosen as
+COLOR_NONE = There is currently no one using
+COLOR_YOURS = Your color is
+COLOR_RANDOM = Your color has been randomly chosen as
+
+BUILD_SPAM = Please stop spamming the build command!
+BUILD_BANNED = You have been banned from building!
+BUILD_CLAIM_NEW = You have successfully claimed this object
+BUILD_CLAIM_MAX = You have already claimed the max (%d) objects
+BUILD_CLAIM_LOST = An object of yours has been unclaimed
+BUILD_CLAIM_FAIL = You cannot claim objects that have already been claimed
+BUILD_NOTIME = You can't move objects after the build time!
+
+OBJECT_MAX = 
+OBJECT_PUSH = pushing...
+OBJECT_MIN =
+OBJECT_PULL = pulling...
+
+CLASS_CURRENT = This is already your current class
+CLASS_NO_ACCESS = Sorry, you don't have access to use this class
+CLASS_RESPAWN = Your new class will load when you respawn
+
+HUD_HEALTH = Health
+HUD_CLASS = Class
+HUD_GOAL = Credit Goal
+
+[es]
+ROUND_MESSAGE = ^4[PG] ^1Bienvenido a Pergames Multimodos
+
+WIN_ZOMBIE = Zombies Ganan!
+WIN_BUILDER = Builders Ganan!
+
+DEATH_ZOMBIE = Moriste!^nRespawnearas en  %d segundos...
+DEATH_HUMAN = Fuiste infectado!^nRespawnearas en  %d segundos...
+
+BUILD_TIMER = Tiempo de Construiccion
+PREP_TIMER = Tiempo de Preparacion
+
+SWAP_ANNOUNCE = Los equipos han sido cambiados
+PREP_ANNOUNCE = Los supervivientes han sido respawneados
+RELEASE_ANNOUNCE = Los zombies han sido liberados!
+INFECT_ANNOUNCE = La infeccion corre a travez de la sangre de %s
+
+ADMIN_REVIVE = Un admin te ha revivido
+ADMIN_GUNS = Un admin ha abierto tu menu de armas
+ADMIN_BUILDBAN = Un admin ha %s tus privilegios
+ADMIN_SWAP = Un admin te ha cambiado de equipo
+
+FAIL_KNIFE = Solo puedes usar cuchillo mientras estas construyendo
+FAIL_DROP = No puedes tirar tus armas
+FAIL_BUY = No puedes comprar nada
+FAIL_SPAWN = No puedes respawnear ahora!
+FAIL_ACCESS = No tienes acceso a este comando
+FAIL_NAME = Has ingresado un comando invalido
+FAIL_DEAD = El jugador esta muerto
+FAIL_LOCK = No puedes bloquear/desbloquear tus bloques despues de que la ronda ha empezado
+
+COLOR_PICKED = Tu color es
+COLOR_NONE = Nadie ha elegido ese color
+COLOR_YOURS = Tu color es
+COLOR_RANDOM = Tu color es
+
+BUILD_SPAM = Deja de spammear, mierda!
+BUILD_BANNED = Has sido baneado de constuir!
+BUILD_CLAIM_NEW = Has bloqueado este objeto
+BUILD_CLAIM_MAX = Has llegado al maximo de objetos bloqueados: (%d)
+BUILD_CLAIM_LOST = Uno de tus objetos ha sido desbloqueado
+BUILD_CLAIM_FAIL = No puedes bloquear objetos de otros jugadores
+BUILD_NOTIME = No puedes mover objetos luego del tiempo de construccion!
+
+OBJECT_MAX =
+OBJECT_PUSH = empujando...
+OBJECT_MIN =
+OBJECT_PULL = jalando...
+
+CLASS_CURRENT = Esta es tu clase actual
+CLASS_NO_ACCESS = No tienes acceso a esta clase
+CLASS_RESPAWN = Tu nueva clase será activada al respawnear
+
+HUD_HEALTH = Vida
+HUD_CLASS = Clase
+HUD_GOAL = Objetivo

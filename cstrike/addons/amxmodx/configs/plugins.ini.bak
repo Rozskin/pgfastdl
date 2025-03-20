@@ -1,0 +1,138 @@
+; AMX Mod X plugins
+
+; Admin Base - Always one has to be activated
+admin.amxx		; admin base (required for any admin-related)
+;admin_sql.amxx		; admin base - SQL version (comment admin.amxx)
+
+; Basic
+admincmd.amxx		; basic admin console commands
+adminhelp.amxx		; help command for admin console commands
+adminslots.amxx		; slot reservation
+multilingual.amxx	; Multi-Lingual management
+
+; Menus
+menufront.amxx		; front-end for admin menus
+cmdmenu.amxx		; command menu (speech, settings)
+plmenu.amxx		; players menu (kick, ban, client cmds.)
+;telemenu.amxx		; teleport menu (Fun Module required!)
+mapsmenu.amxx		; maps menu (vote, changelevel)
+pluginmenu.amxx		; Menus for commands/cvars organized by plugin
+
+; Chat / Messages
+adminchat.amxx		; console chat commands
+antiflood.amxx		; prevent clients from chat-flooding the server
+scrollmsg.amxx		; displays a scrolling message
+imessage.amxx		; displays information messages
+adminvote.amxx		; vote commands
+
+; Map related
+nextmap.amxx		; displays next map in mapcycle
+;mapchooser.amxx		; allows to vote for next map
+timeleft.amxx		; displays time left on map
+
+; Configuration
+pausecfg.amxx		; allows to pause and unpause some plugins
+statscfg.amxx		; allows to manage stats plugins via menu and commands
+
+; Counter-Strike
+restmenu.amxx		; restrict weapons menu
+statsx.amxx		; stats on death or round end (CSX Module required!)
+;miscstats.amxx		; bunch of events announcement for Counter-Strike
+;stats_logging.amxx	; weapons stats logging (CSX Module required!)
+
+; Enable to use AMX Mod plugins
+;amxmod_compat.amxx	; AMX Mod backwards compatibility layer
+
+menu_principalpg.amxx
+menuextra.amxx
+;noclminmodel.amxx
+;menusuperadmin_pg.amxx
+models10pgconcamuflajebugpb.amxx
+connectmessagepgedit.amxx
+;all_admins_status.amxx
+admin_check1.amxx
+;vipsonline.amxx
+bienvenida.amxx
+Prechace_generic_Bad.amxx
+precached.amxx
+precache.amxx
+high_ping_kicker.amxx
+;tutor_msg_shower.amxx
+mensajes.amxx
+cam.amxx
+rates.amxx
+disco.amxx
+musicproyecto.amxx
+superss.amxx
+antispam.amxx
+antispaml.amxx
+gagrusia.amxx
+;amx_super.amxx
+;amx_super_menu.amxx
+;amx_super_nospeed.amxx
+;amx_ejectcd.amxx
+;admin_chat_colors.amxx
+;laddermaker.amxx
+;jumpcrouser.amxx
+;wall_text.amxx
+;adminprefixes.amxx
+;admin_prefixesv2.amxx
+admin_chat_colors.amxx
+amx_ip.amxx
+mutefix.amxx 
+polymorph.amxx debug
+first_person_death.amxx
+bulletdamage.amxx
+status_monitor.amxx
+mapeditor.amxx
+blockspray.amxx
+;anti-channel.amxx
+;clockmaker.amxx
+glowmenu.amxx
+exec.amxx
+resetscore.amxx
+;rspg.amxx
+destrabar.amxx
+;fixsound.amxx
+;binocular.amxx
+fixsoundpg.amxx
+;reglasdelserver.amxx
+;RegisterSystem.amxx
+;RegisterSystem.amxx
+;pg123.amxx
+;pdm.amxx
+;participar.amxx
+;fakeslots.amxx
+;bhopmenu.amxx
+;velocimetro.amxx
+;menubb.amxx
+;weaponpg.amxx
+;adminpg.amxx
+;ffarealarmas.amxx
+;gameMenu.amxx
+;gamepg.amxx
+;GHW_GHR.amxx
+;revivircscontrol.amxx
+;fenmaster.amxx
+;extender_ultima_ronda.amxx
+;AdminMenu.amxx
+;potti.amxx
+;oni.amxx
+;admin_allinone.amxx
+;zp_give_ammo.amxx
+;pingfaker.amxx
+;anti_dd_scroll.amxx
+;weaponmenu.amxx
+
+;GHW_GHR.amxx
+sys_timing.amxx
+
+discord.amxx
+
+menuconm.amxx
+dummy.amxx
+dummy2.amxx
+
+hitbox.amxx
+
+; Custom - Add 3rd party plugins here

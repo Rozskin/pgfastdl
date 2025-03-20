@@ -1,0 +1,51 @@
+[en] -- OciXCrom
+ADVMUTE_CANT_MUTE = You ^3can't ^1mute this player due to his ^4immunity^1.
+ADVMUTE_MENU_HEADER = \yChoose a player to toggle his \rmute status\y:\d
+ADVMUTE_MUTE_ALL = \yMute all players
+ADVMUTE_UNMUTE_ALL = \yUnmute all players
+ADVMUTE_NEXT_PAGE = \yNext page
+ADVMUTE_PREVIOUS_PAGE = \yPrevious page
+ADVMUTE_EXIT = \yClose the \rMute Menu
+ADVMUTE_MUTED_ALL = You have ^3muted ^4all players^1.
+ADVMUTE_UNMUTED_ALL = You have ^3unmuted ^4all players^1.
+ADVMUTE_MUTED_PLAYER = You have ^3muted ^4%s^1.
+ADVMUTE_UNMUTED_PLAYER = You have ^3unmuted ^4%s^1.
+
+[mk] -- OciXCrom
+ADVMUTE_CANT_MUTE = ^3Ne mozesh ^1da go mjutnesh ovoj igrach zatoa shto ima ^4imunitet^1.
+ADVMUTE_MENU_HEADER = \yIzberi igrach za \rmjut\y:\d
+ADVMUTE_MUTE_ALL = \yMjutni gi site igrachi
+ADVMUTE_UNMUTE_ALL = \yOdmjutni gi site igrachi
+ADVMUTE_NEXT_PAGE = \ySledna stranica
+ADVMUTE_PREVIOUS_PAGE = \yPrethodna stranica
+ADVMUTE_EXIT = \yZatvori go \rMjut Menito
+ADVMUTE_MUTED_ALL = Gi ^3mjutna ^4site igrachi^1.
+ADVMUTE_UNMUTED_ALL = Gi ^3odmjutna ^4site igrachi^1
+ADVMUTE_MUTED_PLAYER = Go ^3mjutna ^4%s^1.
+ADVMUTE_UNMUTED_PLAYER = Go ^3odmjutna ^4%s^1.
+
+[ru] -- Kin[g]
+ADVMUTE_CANT_MUTE = Вы ^3не можете ^1отключить звук этого игрока из-за его ^4иммунитета^1.
+ADVMUTE_MENU_HEADER = \yВыберите игрока, чтобы переключить его \rmute статус\y: \d
+ADVMUTE_MUTE_ALL = \yОтключить всех игроков
+ADVMUTE_UNMUTE_ALL = \yОтключить всех игроков
+ADVMUTE_NEXT_PAGE = \yСледующая страница
+ADVMUTE_PREVIOUS_PAGE = \yПредыдущая страница
+ADVMUTE_EXIT = \yЗакрыть \rМеню отключения звука
+ADVMUTE_MUTED_ALL = У вас ^3мутировали & ^4все игроки & ^1.
+ADVMUTE_UNMUTED_ALL = У вас есть ^3unmuted ^4all игроков^1.
+ADVMUTE_MUTED_PLAYER = У вас ^3muted ^4%s^1.
+ADVMUTE_UNMUTED_PLAYER = У вас есть ^3unmuted ^4%s^1.
+
+[es] -- OciXCrom
+ADVMUTE_CANT_MUTE =  ^3No ^1puedes mutear a este jugador debido a su ^4immunidad^1.
+ADVMUTE_MENU_HEADER = \yElige a un jugador para cambiar su \restado\y:\d
+ADVMUTE_MUTE_ALL = \yMutear a todos
+ADVMUTE_UNMUTE_ALL = \yDesmutear a todos
+ADVMUTE_NEXT_PAGE = \yPagina siguiente
+ADVMUTE_PREVIOUS_PAGE = \yPagina anterior
+ADVMUTE_EXIT = \yCerrar
+ADVMUTE_MUTED_ALL = Has ^3muteado^1 a ^4todos los jugadores^1.
+ADVMUTE_UNMUTED_ALL = Has ^3desmuteado^1 a ^4 todos los jugadores^1.
+ADVMUTE_MUTED_PLAYER = Has ^3muteado^1 a ^4%s^1.
+ADVMUTE_UNMUTED_PLAYER = Has ^3desmuteado^1 a ^4%s^1.

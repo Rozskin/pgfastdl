@@ -1,0 +1,33 @@
+[en]
+SLENDER_DEATH = ^4%s ^3%s ^1fue asesinado por Slenderman.
+SLENDER_CHOICE = ^4%s ^3%s ^1es ahora el Slenderman.
+SLENDER_DELAY = ^4%s ^1Tienes que esperar ^3%i ^1segundos para poder tepearte.
+SLENDER_PGEN = ^4%s^1 Page^3 %i^1 has been generated.
+SLENDER_NOLOC =  ^4%s ^1Location File not found.
+SLENDER_PFOUND = ^4%s ^3%s ^1ha encontrado una pagina. %i/%i encontradas.
+SLENDER_COLLECT = Encuentra las %i paginas
+SLENDER_SPAWNSAVE = Save current Location
+SLENDER_SPAWNSHOW = Show all Locations on Map
+SLENDER_SPAWNREMOVE = Remove all Locations on Map
+SLENDER_NOTICE_SLENDERMAN_WIN = SLENDERMAN WIN!
+SLENDER_NOTICE_HUMANS_WIN = HAN ENCONTRADO TODAS LAS PAGINAS!
+SLENDER_SLENDERMAN_TELEPORT_COOLDOWN = Espera %d segundos para poder teletransportarte!
+SLENDER_SLENDERMAN_TELEPORT_HINT = Presiona F para teletransportarte!
+SLENDER_HUMAN_HUD_INFO = Paginas Encontradas: %i/%i
+
+[es]
+SLENDER_DEATH = ^4%s ^3%s ^1fue asesinado por Slenderman.
+SLENDER_CHOICE = ^4%s ^3%s ^1es ahora el Slenderman.
+SLENDER_DELAY = ^4%s ^1Tienes que esperar ^3%i ^1segundos para poder tepearte.
+SLENDER_PGEN = ^4%s^1 Página^3 %i^1 ha sido generada.
+SLENDER_NOLOC = ^4%s ^1Localización Archivo no encontrado.
+SLENDER_PFOUND = ^4%s ^3%s ^1ha encontrado una página. %i/%i encontradas.
+SLENDER_COLLECT = Encuentra las %i paginas
+SLENDER_SPAWNSAVE = Guarda la ubicación actual
+SLENDER_SPAWNSHOW = Mostrar todas las Localizaciones en el Mapa
+SLENDER_SPAWNREMOVE = Quitar todas las localizaciones del mapa
+SLENDER_NOTICE_SLENDERMAN_WIN = ¡SLENDERMAN GANA!
+SLENDER_NOTICE_HUMANS_WIN = ¡HAN ENCONTRADO TODAS LAS PAGINAS!
+SLENDER_SLENDERMAN_TELEPORT_COOLDOWN = ¡Espera %d segundos para poder teletransportarte!
+SLENDER_SLENDERMAN_TELEPORT_HINT = ¡Presiona F para teletransportarte!
+SLENDER_HUMAN_HUD_INFO = Páginas Encontradas: %i/%i

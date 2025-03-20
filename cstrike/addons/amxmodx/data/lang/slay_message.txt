@@ -1,0 +1,103 @@
+﻿[en]
+SLAYALL_CASE2 = !yADMIN !g%s !yused command slayall on !tall !yalive players
+SLAYALL_CASE1 = !yADMIN used command slayall on !tall !yalive players
+SLAYT_CASE2 = !yADMIN !g%s !yused command slayall on !tTERRORIST !yTeam
+SLAYT_CASE1 = !yADMIN used command slayall on !tTERRORIST !yTeam
+SLAYCT_CASE2 = !yADMIN !g%s !yused command slayall on !tCounter-Terrorist !yTeam
+SLAYCT_CASE1 = !yADMIN used command slayall on !tCounter-Terrorist !yTeam
+
+[ro]
+SLAYALL_CASE2 = !yADMIN !g%s !ya folsit comanda slayall pe !ttoti !yjucatorii
+SLAYALL_CASE1 = !yUn ADMIN a folosit comanda slayall pe !ttoti !yjucatorii
+SLAYT_CASE2 = !yADMIN !g%s !ya folosit comanda slayall pe echipa !tTeroristilor
+SLAYT_CASE1 = !yUn ADMIN a folosit comanda slayall pe echipa !tTeroristilor
+SLAYCT_CASE2 = !yADMIN !g%s !ya folosit comanda slayall pe echipa !tCounter-ilor
+SLAYCT_CASE1 = !yUn ADMIN a folosit comanda slayall pe echipa !tCounter-ilor
+
+[nl]
+SLAYALL_CASE2 = !yADMIN !g%s !ygebruikte commando slayall op !talle !ylevende spelers
+SLAYALL_CASE1 = !yADMIN gebruikte commando slayall op !talle !ylevende spelers
+SLAYT_CASE2 = !yADMIN !g%s !ygebruikte het commando slayall op het !tTERRORIST !yTeam
+SLAYT_CASE1 = !yADMIN gebruikte het commando slayall op het !tTERRORIST !yTeam
+SLAYCT_CASE2 = !yADMIN !g%s !ygebruikte het commando slayall op het !tCounter-Terrorist !yTeam
+SLAYCT_CASE1 = !yADMIN gebruikte het commando slayall op het !tCounter-Terrorist !yTeam 
+
+[fr]
+SLAYALL_CASE2 = !yADMIN !g%s !y a utilise la commande slayall sur !ttous les !yjoueurs vivants
+SLAYALL_CASE1 = !yADMIN a utilise la commande slayall on sur !ttous les !yjoueurs vivants
+SLAYT_CASE2 = !yADMIN !g%s !ya utilise la commande slayall sur !yl'Equipe !tTERRORISTE
+SLAYT_CASE1 = !yADMIN a utilise la commande slayall sur !yl'Equipe !tTERRORISTE
+SLAYCT_CASE2 = !yADMIN !g%s !ya utilise la commande slayall sur !yl'Equipe !tANTI-TERRORISTE
+SLAYCT_CASE1 = !yADMIN a utilise la commande slayall on !yl'Equipe !tANTI-TERRORISTE
+
+[de]
+SLAYALL_CASE2 = !yADMIN !g%s !ybenutzte den SlayAll-Befehl bei !tallen !ylebenden Spielern
+SLAYALL_CASE1 = !yADMIN benutzte den SlayAll-Befehl bei !tallen !ylebenden Spielern
+SLAYT_CASE2 = !yADMIN !g%s !ybenutzte den SlayAll-Befehl beim !tTERRORIST !yTeam
+SLAYT_CASE1 = !yADMIN benutzte den SlayAll-Befehl beim !tTERRORIST !yTeam
+SLAYCT_CASE2 = !yADMIN !g%s !ybenutzte den SlayAll-Befehl beim !tCounter-Terrorist !yTeam
+SLAYCT_CASE1 = !yADMIN benutzte den SlayAll-Befehl beim !tCounter-Terrorist !yTeam
+
+[es]
+SLAYALL_CASE2 = !yADMIN !g%s !yuso el comando slayall en !todos !ylos jugadores vivos
+SLAYALL_CASE1 = !yADMIN uso el comando slayall en !todos !y los jugadores vivos
+SLAYT_CASE2 = !yADMIN !g%s !yuso el comando slayall en el equipo!tTERRORISTA
+SLAYT_CASE1 = !yADMIN uso el comando slayall en el equipo !tTERRORISTA 
+SLAYCT_CASE2 = !yADMIN !g%s !yuso el comando slayall en el equipo!tCT
+SLAYCT_CASE1 = !yADMIN uso el comando slayall en el equipo !tCT
+
+[sv]
+SLAYALL_CASE2 = !yADMIN !g%s !yanv'a'nde kommand slayall pa !talla !ylevande spelare
+SLAYALL_CASE1 = !yADMIN anv'a'nde kommand slayall pa !talla !ylevande spelare
+SLAYT_CASE2 = !yADMIN !g%s !yanv'a'nde kommand slayall pa !tTERRORIST !yLaget
+SLAYT_CASE1 = !yADMIN anv'a'nde kommand slayall pa !tTERRORIST !yLaget
+SLAYCT_CASE2 = !yADMIN !g%s !yanv'a'nde kommand slayall pa !tCounter-Terrorist !yLaget
+SLAYCT_CASE1 = !yADMIN anv'a'nde kommand slayall pa !tCounter-Terrorist !yLaget
+
+[lt]
+SLAYALL_CASE2 = !yADMINAS !g%s !ypanaudojo komanda slayall !tvisiems !ygyviems zaidejams
+SLAYALL_CASE1 = !yADMINAS panaudojo komanda slayall !tvisiems !ygyviems zaidejams
+SLAYT_CASE2 = !yADMINAS !g%s !ypanaudojo komanda slayall !tTERORISTU !ykomandai
+SLAYT_CASE1 = !yADMINAS panaudojo komanda slayall !tTERORISTU !ykomandai
+SLAYCT_CASE2 = !yADMINAS !g%s !ypanaudojo komanda slayall !tCounter-Teroristu !ykomandai
+SLAYCT_CASE1 = !yADMINAS panaudojo komanda slayall !tCounter-Teroristu !ykomandai
+
+[ru]
+SLAYALL_CASE2 = !yРђРґРјРёРЅ !g%s !yРёСЃРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° !tРІСЃРµС… !yР¶РёРІС‹С… РёРіСЂРѕРєР°С…
+SLAYALL_CASE1 = !yРђРґРјРёРЅ РёРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° !tРІСЃРµС… !yР¶РёРІС‹С… РёРіСЂРѕРєР°С…
+SLAYT_CASE2 = !yРђРґРјРёРЅ !g%s !yРёСЃРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° РєРѕРјРјР°РЅРґРµ !tРўР•Р*Р*РћР*Р˜РЎРўРћР’
+SLAYT_CASE1 = !yРђРґРјРёРЅ !yРёСЃРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° РєРѕРјРјР°РЅРґРµ !tРўР•Р*Р*РћР*Р˜РЎРўРћР’
+SLAYCT_CASE2 = !yРђРґРјРёРЅ !g%s !yРёСЃРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° РєРѕРјРјР°РЅРґРµ !tРљРћРќРўР*-РўР•Р*Р*РћР*Р˜РЎРўРћР’
+SLAYCT_CASE1 = !yРђРґРјРёРЅ !yРёСЃРїРѕР»СЊР·РѕРІР°Р» РєРѕРјРјР°РЅРґСѓ 'СѓР±РёС‚СЊ РІСЃРµС…' РЅР° РєРѕРјРјР°РЅРґРµ !tРљРћРќРўР*-РўР•Р*Р*РћР*Р˜РЎРўРћР’
+
+[pl]
+SLAYALL_CASE2 = !yADMIN !g%s !yuzyl komendy zabij wszystkich na !twszystkich !yzyjacych graczach
+SLAYALL_CASE1 = !yADMIN uzyl komendy zabij wszystkich na !twszystkich !yzyjacych graczach
+SLAYT_CASE2 = !yADMIN !g%s !yuzyl komendy zabij wszystkich na !yDruzynie !tTERRORYSTOW
+SLAYT_CASE1 = !yADMIN uzyl komendy zabij wszystkich na !yDruzynie !tTERRORYSTOW
+SLAYCT_CASE2 = !yADMIN !g%s !yuzyl komendy zabij wszystkich na !yDruzynie !tAnty-terrorystow
+SLAYCT_CASE1 = !yADMIN uzyl komendy zabij wszystkich na !yDruzynie !tAnty-terrorystow
+
+[bg]
+SLAYALL_CASE2 = !yADMINA !g%s !yizpolzva comandata slayall vurhu !tvsi4ki !yjivi igra4i
+SLAYALL_CASE1 = !yADMINA izpolzva comandata slayall vurhu !tvsi4ki !yjivi igra4i
+SLAYT_CASE2 = !yADMINA !g%s !yizpolzva comandata slayall vurhu !tTERRORIST !yOtbora
+SLAYT_CASE1 = !yADMINA izpolzva comandata slayall vurhu !tTERRORIST !yOtbora
+SLAYCT_CASE2 = !yADMINA !g%s !yizpolzva comandata slayall vurhu !tCounter-Terrorist !yOtbora
+SLAYCT_CASE1 = !yADMINA izpolzva comandata slayall vurhu !tCounter-Terrorist !yOtbora
+
+[tr]
+SLAYALL_CASE2 = !yADMIN !g%s !ySpeactor Takimi !tall !yslaylandi
+SLAYALL_CASE1 = !yADMIN tum izleyicileri slayladi !tall !yizleyici oyuncular
+SLAYT_CASE2 = !yADMIN !g%s !yTerorist takimi !tTERRORIST !ySlaylandi
+SLAYT_CASE1 = !yADMIN tum takimi slayladi !tTERRORIST !ySlaylandi
+SLAYCT_CASE2 = !yADMIN !g%s !yCt Takimi !tCounter-Terrorist !ySlaylandi
+SLAYCT_CASE1 = !yADMIN tum takim slaylandi !tCounter-Terrorist !ySlaylandi 
+
+[cz]
+SLAYALL_CASE2 = !yADMIN !g%s !ypouzil prikaz slayall na !tvsechny !yzive hrace
+SLAYALL_CASE1 = !yADMIN pouzil prikaz slayall na !tall !yzive hrace
+SLAYT_CASE2 = !yADMIN !g%s !ypouzil prikaz slayall na !tTERRORIST !yTeam
+SLAYT_CASE1 = !yADMIN pouzil prikaz slayall na !tTERRORIST !yTeam
+SLAYCT_CASE2 = !yADMIN !g%s !ypouzil prikaz slayall na !tCounter-Terrorist !yTeam
+SLAYCT_CASE1 = !yADMIN pouzil prikaz slayall na !tCounter-Terrorist !yTeam

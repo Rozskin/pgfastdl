@@ -1,0 +1,245 @@
+[ru]
+NRL_PRINT_USE = Нажмите /gПравую кнопку мыши /yдля активации /gракетной установки /y
+NRL_PRINT_BUY = Чтобы купить /gРакеты/y, нажмите/g [T]
+NRL_PRINT_HELP = Нажмите /gТ /yдля покупки ракет
+
+NRL_STATUS_TEXT = Ракеты:
+
+NRL_MENU1_TITLE = Меню ракетницы:
+NRL_MENU1_ITEM1 = Ракетная установка из %d ракет
+NRL_MENU1_ITEM2 = Купить ракету
+NRL_MENU1_ITEM3 = Помощь
+
+NRL_MENU2_TITLE = Информация:
+NRL_MENU2_ITEM1 = General
+NRL_MENU2_ITEM2 = How to get this Gun
+NRL_MENU2_ITEM3 = Gun Usage
+NRL_MENU2_ITEM4 = Current Configuration
+
+NRL_MENU_EXIT = Выход
+
+NRL_ADMIN_MSG = You are admin, some cost have been changed
+NRL_ALREADY_HAS = You already have a Rocket Launcher!
+NRL_NEED_NRL = First you need a Rocket Launcher
+NRL_OPTION_DISABLED = This option is Disabled!
+
+NRL_HUDMSG_USE = Нажмите Правую кнопку мыши^nЧтобы взять ракетницу
+NRL_HUDMSG_BUY = Чтобы купить^nРакеты, нажмите [T]
+NRL_HUDMSG_HELP =  Нажмите Т для покупки ракет
+
+NRL_CPRINT_HEALTH = Убито: %d, ХП Бонус: %d
+NRL_CPRINT_NOROCKETS = У вас нет ракет
+
+NRL_CHANGED_TO_NRL = Выбрана базука
+NRL_CHANGED_TO_KNIFE = Выбран обычный режим
+
+NRL_MOTD_TITLE1 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#CC3300\"><b>%s %s by %s :</b> is a Zombie Plague addon, which adds a very cool gun for Nemesis: <b>the Rocket Launcher</b>. This plugin comes with a lot of features that can be modified, this is one of the most plugins that people are looking for.
+NRL_MOTD_SUBTITLE1_A = <br><br><u>Some Information:</u>
+NRL_MOTD_INFO1_A = <br>- You gain <b>%d</b> amount of health for each kill with your Rocket Launcher.
+NRL_MOTD_INFO1_B = <br>- Buy rockets in the Main Menu: <b>%L</b>.
+NRL_MOTD_INFO1_C = <br>- You must wait approximately <b>%d</b> seconds to fire each rocket.
+NRL_MOTD_INFO1_D = <br>- Admin Features (modified prices and default rockets): <b>%L</b>.
+NRL_MOTD_INFO1_E = <br>- Players receive <b>%d</b> Rockets when get a Rocket Launcher.
+NRL_MOTD_INFO1_E2 = (Admins receive <b>%d</b> Rockets)
+NRL_MOTD_SUBTITLE1_B = <br><br><u>Prices for Players:</u>
+NRL_MOTD_SUBTITLE1_C = <br><br><u>Prices for Admins (actually <b>%L</b>):</u>
+NRL_MOTD_INFO1_F = <br>- Ammo packs required for a Rocket Launcher: <b>%d</b>
+NRL_MOTD_INFO1_G = <br>- Ammo packs required for each Rocket: <b>%d</b>
+
+NRL_MOTD_TITLE2 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#CC3300\"><u>How to get a Rocket Launcher:</u>
+NRL_MOTD_INFO2_A = <br>- You must be a <b>Nemesis</b>, is impossible to get a <b>Rocket Launcher</b> if you aren't a Nemesis (because this Rocket Launcher addon is only for Nemesis).
+NRL_MOTD_INFO2_B = <br>- When you are turned to a Nemesis: <b>%L</b>
+NRL_MOTD_INFO2_B1 = You get free this gun.
+NRL_MOTD_INFO2_B2 = You are enable to buy this gun saying /nrlshop in chat, or pressing Spray button.
+NRL_MOTD_INFO2_C = <br><br> <b>***</b> You can see the prices in the "General" help menu. <b>***</b>
+
+NRL_MOTD_TITLE3 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#CC3300\"><u>Rocket Launcher Usage:</u>
+NRL_MOTD_INFO3_A = <br>- To launch a Rocket, you must press <b>+attack1/fire</b> button.
+NRL_MOTD_INFO3_B = <br>- To change your Claws/Knife into a Rocket Launcher, or change your Rocket Launcher into your Claws/Knife, you must press <b>+attack2/alt-fire</b> button.
+NRL_MOTD_INFO3_C = <br>- To open the main menu you must press <b>Spray</b> button or <b>say /nrlshop</b> in chat. In that menu you can buy a Rocket Launcher, buy more rockets, or open (again) the help menu.
+
+NRL_MOTD_TITLE4 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#CC3300\"><u>Current Configuration:</u>
+NRL_MOTD_INFO4_A = <br>- Value of Radius for each Explosion: <b>%d</b>
+NRL_MOTD_INFO4_B = <br>- Max amount of damage caused with a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_C = <br>- Ring effect on Explosion: <b>%L</b>
+NRL_MOTD_INFO4_D = <br>- Light sparkle effect on Explosion: <b>%L</b><br>
+NRL_MOTD_INFO4_E = <br>- Victim's screen fades in a red color when receives Damage: <b>%L</b>
+NRL_MOTD_INFO4_F = <br>- Victim's screen shakes when receives Damage: <b>%L</b><br>
+NRL_MOTD_INFO4_G = <br>- Amount of speed in a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_H = <br>- Rocket has a Trail: <b>%L</b>
+NRL_MOTD_INFO4_I = <br>- Rocket has Glow: <b>%L</b>
+NRL_MOTD_INFO4_J = <br>- Rocket has Aura: <b>%L</b>
+NRL_MOTD_INFO4_K = <br>- Rocket has a Flare: <b>%L</b>
+NRL_MOTD_INFO4_L = <br>- Rocket obeys to the Gravity: <b>%L</b>
+
+NRL_MOTD_ENABLED = Enabled
+NRL_MOTD_DISABLED = Disabled
+
+NRL_CFGFILE_ERROR = Cannot load config file %s, using default config...
+NRL_NOT_ACCESS = You can't access here
+NRL_NOT_ENOUGH_AMMO = You dont have enough ammo packs
+NRL_AMMOPACKS = Евро
+
+[es]
+NRL_PRINT_USE = Pulsa /gBotón derecho del ratón /para activar /gLanzamisiles /y
+NRL_PRINT_BUY = Para comprar /gMisiles/y, pulsa /g[T].
+NRL_PRINT_HELP = Para comprar /gMisiles/y, pulsa /g[T].
+
+NRL_STATUS_TEXT = Misiles:
+
+NRL_MENU1_TITLE = Menú lanzacohetes:
+NRL_MENU1_ITEM1 = Lanzacohetes de %d cohetes
+NRL_MENU1_ITEM2 = Comprar Lanzacohetes
+NRL_MENU1_ITEM3 = Ayuda
+
+NRL_MENU2_TITLE = Información:
+NRL_MENU2_ITEM1 = General
+NRL_MENU2_ITEM2 = Cómo conseguir esta pistola
+NRL_MENU2_ITEM3 = Uso del Arma
+NRL_MENU2_ITEM4 = Configuración Actual
+
+NRL_MENU_EXIT = Salir
+
+NRL_ADMIN_MSG = Eres admin, algunos costes han sido cambiados
+NRL_ALREADY_HAS = ¡Ya tienes un Lanzacohetes!
+NRL_NEED_NRL = Primero necesitas un Lanzacohetes
+NRL_OPTION_DISABLED = ¡Esta opción está deshabilitada!
+
+NRL_HUDMSG_USE = Pulsa el Botón Derecho del Ratón^nPara Obtener un Lanzacohetes
+NRL_HUDMSG_BUY = Para comprar^n Cohetes, pulsa [T]
+NRL_HUDMSG_HELP = Pulsa T para comprar misiles
+
+NRL_CPRINT_HEALTH = Muerto: %d, Bonificación HP: %d
+NRL_CPRINT_NOROCKETS = No tienes cohetes
+
+NRL_CHANGED_TO_NRL = Bazooka seleccionada.
+NRL_CHANGED_TO_KNIFE = Se selecciona el modo normal.
+
+NRL_MOTD_TITLE1 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><b>%s %s by %s :</b> is a Zombie Plague addon, which adds a very cool gun for Nemesis: <b>the Rocket Launcher</b>. This plugin comes with a lot of features that can be modified, this is one of the most plugins that people are looking for.
+NRL_MOTD_SUBTITLE1_A = <br><br><u>Some Information:</u>
+NRL_MOTD_INFO1_A = <br>- You gain <b>%d</b> amount of health for each kill with your Rocket Launcher.
+NRL_MOTD_INFO1_B = <br>- Buy rockets in the Main Menu: <b>%L</b>.
+NRL_MOTD_INFO1_C = <br>- You must wait approximately <b>%d</b> seconds to fire each rocket.
+NRL_MOTD_INFO1_D = <br>- Admin Features (modified prices and default rockets): <b>%L</b>.
+NRL_MOTD_INFO1_E = <br>- Players receive <b>%d</b> Rockets when get a Rocket Launcher.
+NRL_MOTD_INFO1_E2 = (Admins receive <b>%d</b> Rockets)
+NRL_MOTD_SUBTITLE1_B = <br><br><u>Prices for Players:</u>
+NRL_MOTD_SUBTITLE1_C = <br><br><u>Prices for Admins (actually <b>%L</b>):</u>
+NRL_MOTD_INFO1_F = <br>- Ammo packs required for a Rocket Launcher: <b>%d</b>
+NRL_MOTD_INFO1_G = <br>- Ammo packs required for each Rocket: <b>%d</b>
+
+NRL_MOTD_TITLE2 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>How to get a Rocket Launcher:</u>
+NRL_MOTD_INFO2_A = <br>- You must be a <b>Nemesis</b>, is impossible to get a <b>Rocket Launcher</b> if you aren't a Nemesis (because this Rocket Launcher addon is only for Nemesis).
+NRL_MOTD_INFO2_B = <br>- When you are turned to a Nemesis: <b>%L</b>
+NRL_MOTD_INFO2_B1 = You get free this gun.
+NRL_MOTD_INFO2_B2 = You are enable to buy this gun saying /nrlshop in chat, or pressing Spray button.
+NRL_MOTD_INFO2_C = <br><br> <b>***</b> You can see the prices in the «General» help menu. <b>***</b>
+
+NRL_MOTD_TITLE3 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>Rocket Launcher Usage:</u>
+NRL_MOTD_INFO3_A = <br>- To launch a Rocket, you must press <b>+attack1/fire</b> button.
+NRL_MOTD_INFO3_B = <br>- To change your Claws/Knife into a Rocket Launcher, or change your Rocket Launcher into your Claws/Knife, you must press <b>+attack2/alt-fire</b> button.
+NRL_MOTD_INFO3_C = <br>- To open the main menu you must press <b>Spray</b> button or <b>say /nrlshop</b> in chat. In that menu you can buy a Rocket Launcher, buy more rockets, or open (again) the help menu.
+
+NRL_MOTD_TITLE4 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>Current Configuration:</u>
+NRL_MOTD_INFO4_A = <br>- Value of Radius for each Explosion: <b>%d</b>
+NRL_MOTD_INFO4_B = <br>- Max amount of damage caused with a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_C = <br>- Ring effect on Explosion: <b>%L</b>
+NRL_MOTD_INFO4_D = <br>- Light sparkle effect on Explosion: <b>%L</b><br>
+NRL_MOTD_INFO4_E = <br>- Victim's screen fades in a red color when receives Damage: <b>%L</b>
+NRL_MOTD_INFO4_F = <br>- Victim's screen shakes when receives Damage: <b>%L</b><br>
+NRL_MOTD_INFO4_G = <br>- Amount of speed in a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_H = <br>- Rocket has a Trail: <b>%L</b>
+NRL_MOTD_INFO4_I = <br>- Rocket has Glow: <b>%L</b>
+NRL_MOTD_INFO4_J = <br>- Rocket has Aura: <b>%L</b>
+NRL_MOTD_INFO4_K = <br>- Rocket has a Flare: <b>%L</b>
+NRL_MOTD_INFO4_L = <br>- Rocket obeys to the Gravity: <b>%L</b>
+
+NRL_MOTD_ENABLED = Activado
+NRL_MOTD_DISABLED = Desactivado
+
+NRL_CFGFILE_ERROR = No se puede cargar el archivo de configuración %s, usando la configuración por defecto...
+NRL_NOT_ACCESS = No puede acceder aquí
+NRL_NOT_ENOUGH_AMMO = No tienes suficientes ammo packs
+NRL_AMMOPACKS = Packs
+
+[en]
+NRL_PRINT_USE = Press /gRight mouse button /to activate /gMissile launcher /y
+NRL_PRINT_BUY = To buy /gMissiles/y, press /g[T].
+NRL_PRINT_HELP = To buy /gMissiles/y, press /g[T].
+
+NRL_STATUS_TEXT = Missiles:
+
+NRL_MENU1_TITLE = Rocket launcher menu:
+NRL_MENU1_ITEM1 = Rocket launcher of %d rockets.
+NRL_MENU1_ITEM2 = Purchase Rocket Launcher
+NRL_MENU1_ITEM3 = Help
+
+NRL_MENU2_ITEM2 = Information:
+NRL_MENU2_ITEM1 = General
+NRL_MENU2_ITEM2 = How to get this gun
+NRL_MENU2_ITEM3 = Use of the Weapon
+NRL_MENU2_ITEM4 = Current Configuration
+
+NRL_MENU_EXIT = Exit = Exit
+
+NRL_ADMIN_MSG = You are admin, some costs have been changed
+NRL_ALREADY_HAS = You already have a Rocket Launcher!
+NRL_NEED_NRL = You need a Rocket Launcher first
+NRL_OPTION_DISABLED = This option is disabled!
+
+NRL_HUDMSG_USE = Press the Right Mouse Button^nTo Get a Rocket Launcher
+NRL_HUDMSG_BUY = To buy Rockets, press [T].
+NRL_HUDMSG_HELP = Press T to buy missiles
+
+NRL_CPRINT_HEALTH = Killed: %d, Bonus HP: %d
+NRL_CPRINT_NOROCKETS = No tienes cohetes
+
+NRL_CHANGED_TO_NRL = Bazooka seleccionada.
+NRL_CHANGED_TO_KNIFE = Se selecciona el modo normal.
+
+NRL_MOTD_TITLE1 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><b>%s %s by %s :</b> is a Zombie Plague addon, which adds a very cool gun for Nemesis: <b>the Rocket Launcher</b>. This plugin comes with a lot of features that can be modified, this is one of the most plugins that people are looking for.
+NRL_MOTD_SUBTITLE1_A = <br><br><u>Some Information:</u>
+NRL_MOTD_INFO1_A = <br>- You gain <b>%d</b> amount of health for each kill with your Rocket Launcher.
+NRL_MOTD_INFO1_B = <br>- Buy rockets in the Main Menu: <b>%L</b>.
+NRL_MOTD_INFO1_C = <br>- You must wait approximately <b>%d</b> seconds to fire each rocket.
+NRL_MOTD_INFO1_D = <br>- Admin Features (modified prices and default rockets): <b>%L</b>.
+NRL_MOTD_INFO1_E = <br>- Players receive <b>%d</b> Rockets when get a Rocket Launcher.
+NRL_MOTD_INFO1_E2 = (Admins receive <b>%d</b> Rockets)
+NRL_MOTD_SUBTITLE1_B = <br><br><u>Prices for Players:</u>
+NRL_MOTD_SUBTITLE1_C = <br><br><u>Prices for Admins (actually <b>%L</b>):</u>
+NRL_MOTD_INFO1_F = <br>- Ammo packs required for a Rocket Launcher: <b>%d</b>
+NRL_MOTD_INFO1_G = <br>- Ammo packs required for each Rocket: <b>%d</b>
+
+NRL_MOTD_TITLE2 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>How to get a Rocket Launcher:</u>
+NRL_MOTD_INFO2_A = <br>- You must be a <b>Nemesis</b>, is impossible to get a <b>Rocket Launcher</b> if you aren't a Nemesis (because this Rocket Launcher addon is only for Nemesis).
+NRL_MOTD_INFO2_B = <br>- When you are turned to a Nemesis: <b>%L</b>
+NRL_MOTD_INFO2_B1 = You get free this gun.
+NRL_MOTD_INFO2_B2 = You are enable to buy this gun saying /nrlshop in chat, or pressing Spray button.
+NRL_MOTD_INFO2_C = <br><br> <b>***</b> You can see the prices in the «General» help menu. <b>***</b>
+
+NRL_MOTD_TITLE3 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>Rocket Launcher Usage:</u>
+NRL_MOTD_INFO3_A = <br>- To launch a Rocket, you must press <b>+attack1/fire</b> button.
+NRL_MOTD_INFO3_B = <br>- To change your Claws/Knife into a Rocket Launcher, or change your Rocket Launcher into your Claws/Knife, you must press <b>+attack2/alt-fire</b> button.
+NRL_MOTD_INFO3_C = <br>- To open the main menu you must press <b>Spray</b> button or <b>say /nrlshop</b> in chat. In that menu you can buy a Rocket Launcher, buy more rockets, or open (again) the help menu.
+
+NRL_MOTD_TITLE4 = <meta charset=UTF-8><body bgcolor=\«#000000\»><font color=\«#CC3300\»><u>Current Configuration:</u>
+NRL_MOTD_INFO4_A = <br>- Value of Radius for each Explosion: <b>%d</b>
+NRL_MOTD_INFO4_B = <br>- Max amount of damage caused with a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_C = <br>- Ring effect on Explosion: <b>%L</b>
+NRL_MOTD_INFO4_D = <br>- Light sparkle effect on Explosion: <b>%L</b><br>
+NRL_MOTD_INFO4_E = <br>- Victim's screen fades in a red color when receives Damage: <b>%L</b>
+NRL_MOTD_INFO4_F = <br>- Victim's screen shakes when receives Damage: <b>%L</b><br>
+NRL_MOTD_INFO4_G = <br>- Amount of speed in a Rocket: <b>%d</b>
+NRL_MOTD_INFO4_H = <br>- Rocket has a Trail: <b>%L</b>
+NRL_MOTD_INFO4_I = <br>- Rocket has Glow: <b>%L</b>
+NRL_MOTD_INFO4_J = <br>- Rocket has Aura: <b>%L</b>
+NRL_MOTD_INFO4_K = <br>- Rocket has a Flare: <b>%L</b>
+NRL_MOTD_INFO4_L = <br>- Rocket obeys to the Gravity: <b>%L</b>
+
+NRL_MOTD_ENABLED = Activado
+NRL_MOTD_DISABLED = Desactivado
+
+NRL_CFGFILE_ERROR = No se puede cargar el archivo de configuración %s, usando la configuración por defecto...
+NRL_NOT_ACCESS = No puede acceder aquí
+NRL_NOT_ENOUGH_AMMO = No tienes suficientes ammo packs
+NRL_AMMOPACKS = Packs

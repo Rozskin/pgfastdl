@@ -1,0 +1,1143 @@
+L 01/04/2025 - 00:11:56: [gungame.amxx] Starting a map vote from Nextmap Chooser
+L 01/04/2025 - 00:11:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 00:12:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 00:12:51: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 00:12:52: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:12:56: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4029.4ms.
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "Okz :)<11><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "Frost<13><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "Ñev<15><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "_M_<14><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "Narco$$$<16><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:12:58: [admin.amxx] Login: "andleo<12><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abi") (address "38.250.131.73")
+L 01/04/2025 - 00:13:01: [admin.amxx] Login: "Ñev<25><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:13:01: [admin.amxx] Login: "Narco$$$<24><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:13:01: [admin.amxx] Login: "_M_<26><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:13:36: [admincmd.amxx] Cmd: "Ñev<25><STEAM_0:1:458940899><>" changelevel "fy_chavo"
+L 01/04/2025 - 00:13:37: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/04/2025 - 00:13:38: -------- Mapchange to fy_chavo --------
+L 01/04/2025 - 00:13:39: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:13:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3365.2ms.
+L 01/04/2025 - 00:13:44: [admin.amxx] Login: "Okz :)<11><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:13:44: [admin.amxx] Login: "Frost<13><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:13:44: [admin.amxx] Login: "Ñev<25><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:13:44: [admin.amxx] Login: "Narco$$$<24><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:13:44: [admin.amxx] Login: "andleo<12><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abi") (address "38.250.131.73")
+L 01/04/2025 - 00:13:47: [admin.amxx] Login: "Okz :)<29><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:13:47: [admin.amxx] Login: "andleo<30><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abi") (address "38.250.131.73")
+L 01/04/2025 - 00:13:47: [admin.amxx] Login: "Frost<31><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:13:48: [admin.amxx] Login: "Narco$$$<33><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:13:49: [admin.amxx] Login: "Ñev<35><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:13:49: [admin.amxx] Login: "_M_<26><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:13:51: [admin.amxx] Login: "_M_<37><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:30:22: [gungame.amxx] Starting a map vote from Nextmap Chooser
+L 01/04/2025 - 00:30:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 00:30:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 01/04/2025 - 00:33:05: -------- Mapchange to de_nuke --------
+L 01/04/2025 - 00:33:06: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:33:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4251.4ms.
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "Okz :)<29><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "Ñev<35><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "Frost<31><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "_M_<37><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "Narco$$$<33><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:33:12: [admin.amxx] Login: "andleo<30><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abi") (address "38.250.131.73")
+L 01/04/2025 - 00:33:15: [admin.amxx] Login: "Okz :)<43><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:33:15: [admin.amxx] Login: "Ñev<44><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:33:15: [admin.amxx] Login: "Frost<46><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:33:15: [admin.amxx] Login: "_M_<45><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:33:15: [admin.amxx] Login: "Narco$$$<47><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:33:18: [admin.amxx] Login: "andleo<50><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abi") (address "38.250.131.73")
+L 01/04/2025 - 00:33:37: [admincmd.amxx] Cmd: "Ñev<44><STEAM_0:1:458940899><>" changelevel "mini_dust2"
+L 01/04/2025 - 00:33:39: -------- Mapchange to mini_dust2 --------
+L 01/04/2025 - 00:33:40: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:33:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3362.3ms.
+L 01/04/2025 - 00:33:45: [admin.amxx] Login: "Frost<46><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:33:45: [admin.amxx] Login: "Ñev<44><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:33:45: [admin.amxx] Login: "Narco$$$<47><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:33:45: [admin.amxx] Login: "_M_<45><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:33:45: [admin.amxx] Login: "Okz :)<43><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:33:47: [admin.amxx] Login: "Ñev<51><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:33:48: [admin.amxx] Login: "Frost<52><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:33:48: [admin.amxx] Login: "Narco$$$<53><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:33:48: [admin.amxx] Login: "_M_<55><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:33:49: [admin.amxx] Login: "Okz :)<58><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:34:33: [admincmd.amxx] Cmd: "Ñev<51><STEAM_0:1:458940899><>" changelevel "mini_dust2"
+L 01/04/2025 - 00:34:35: -------- Mapchange to mini_dust2 --------
+L 01/04/2025 - 00:34:36: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:34:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3713.8ms.
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "Okz :)<58><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "Frost<52><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "_M_<55><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "Ñev<51><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "Narco$$$<53><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "_M_<59><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:34:42: [admin.amxx] Login: "Narco$$$<60><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:34:44: [admin.amxx] Login: "Ñev<62><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:39:31: [adminchat.amxx] Chat: "Frost<52><STEAM_0:1:167856899><>" tsay "xd+}"
+L 01/04/2025 - 00:44:48: [admincmd.amxx] Cmd: "_M_<59><STEAM_0:1:106132448><>" set cvar (name "sys_ticrate") (value "1000")
+L 01/04/2025 - 00:50:23: [gungame.amxx] Starting a map vote from Nextmap Chooser
+L 01/04/2025 - 00:50:23: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 00:50:38: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 01/04/2025 - 00:53:54: [admin.amxx] Login: "Okz :)<68><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:54:28: -------- Mapchange to de_nuke --------
+L 01/04/2025 - 00:54:29: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:54:33: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3661.0ms.
+L 01/04/2025 - 00:54:35: [admin.amxx] Login: "Okz :)<68><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:54:35: [admin.amxx] Login: "Ñev<62><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:54:35: [admin.amxx] Login: "_M_<59><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:54:35: [admin.amxx] Login: "Narco$$$<60><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:54:35: [admin.amxx] Login: "Frost<52><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:54:38: [admin.amxx] Login: "Ñev<71><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:55:00: [admincmd.amxx] Cmd: "Ñev<71><STEAM_0:1:458940899><>" changelevel "mini_dust_pro"
+L 01/04/2025 - 00:55:03: -------- Mapchange to mini_dust_pro --------
+L 01/04/2025 - 00:55:04: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 00:55:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5324.4ms.
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "Ñev<71><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "Narco$$$<60><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "_M_<59><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "Frost<52><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "Okz :)<68><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:55:12: [admin.amxx] Login: "_M_<72><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:55:15: [admin.amxx] Login: "Ñev<75><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:55:15: [admin.amxx] Login: "Narco$$$<76><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:55:16: [admin.amxx] Login: "_M_<78><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:55:16: [admin.amxx] Login: "Frost<79><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:55:16: [admin.amxx] Login: "Okz :)<80><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:55:39: [adminvote.amxx] Vote: "Ñev<75><STEAM_0:1:458940899><>" vote custom (question "sale rtv") (option#1 "c") (option#2 "n")
+L 01/04/2025 - 00:55:51: [adminvote.amxx] Vote: Voting successful (got "6") (needed "1") (result "sale rtv - c")
+L 01/04/2025 - 00:56:02: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 00:56:02: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.1ms.
+L 01/04/2025 - 00:56:03: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/04/2025 - 00:56:04: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/04/2025 - 00:56:05: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.8ms.
+L 01/04/2025 - 00:56:06: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/04/2025 - 00:56:07: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.4ms.
+L 01/04/2025 - 00:56:08: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/04/2025 - 00:56:09: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:10: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/04/2025 - 00:56:11: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.5ms.
+L 01/04/2025 - 00:56:12: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/04/2025 - 00:56:13: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 00:56:14: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/04/2025 - 00:56:15: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.5ms.
+L 01/04/2025 - 00:56:16: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 00:56:17: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:18: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.2ms.
+L 01/04/2025 - 00:56:19: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:20: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 00:56:21: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 00:56:22: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.4ms.
+L 01/04/2025 - 00:56:23: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:24: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 00:56:25: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.8ms.
+L 01/04/2025 - 00:56:26: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:26: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Soccerjam
+L 01/04/2025 - 00:56:26: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 01/04/2025 - 00:56:27: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 00:56:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 00:56:42: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 3.4ms.
+L 01/04/2025 - 00:56:43: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 00:56:44: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 00:56:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:46: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/04/2025 - 00:56:47: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/04/2025 - 00:56:48: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/04/2025 - 00:56:49: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/04/2025 - 00:56:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:51: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/04/2025 - 00:56:52: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.1ms.
+L 01/04/2025 - 00:56:53: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:54: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.6ms.
+L 01/04/2025 - 00:56:55: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 00:56:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.9ms.
+L 01/04/2025 - 00:56:57: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/04/2025 - 00:56:58: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/04/2025 - 00:56:59: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/04/2025 - 00:57:00: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.2ms.
+L 01/04/2025 - 00:57:01: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.7ms.
+L 01/04/2025 - 00:57:02: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 00:57:03: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 00:57:04: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 00:57:05: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.6ms.
+L 01/04/2025 - 00:57:06: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/04/2025 - 00:57:06: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be sj_trix_zone
+L 01/04/2025 - 00:57:07: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 00:57:26: -------- Mapchange to sj_trix_zone --------
+L 01/04/2025 - 00:57:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 00:57:27: [soccerjam.amxx] performance issue. Function plugin_precache executed more than 44.2ms.
+L 01/04/2025 - 00:57:27: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 24.5ms.
+L 01/04/2025 - 00:57:27: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 6.9ms.
+L 01/04/2025 - 00:57:27: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 6.5ms.
+L 01/04/2025 - 00:57:27: [soccerjam.amxx] performance issue. Function plugin_init executed more than 16.5ms.
+L 01/04/2025 - 00:57:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3624.4ms.
+L 01/04/2025 - 00:57:33: [admin.amxx] Login: "Okz :)<80><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:57:33: [admin.amxx] Login: "Frost<79><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:57:33: [admin.amxx] Login: "Ñev<75><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:57:33: [admin.amxx] Login: "_M_<78><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:57:33: [admin.amxx] Login: "Narco$$$<76><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:57:36: [admin.amxx] Login: "Okz :)<84><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 00:57:36: [admin.amxx] Login: "Frost<85><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 00:57:36: [admin.amxx] Login: "_M_<86><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 00:57:37: [admin.amxx] Login: "Narco$$$<87><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 00:57:37: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.4ms.
+L 01/04/2025 - 00:57:40: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.0ms.
+L 01/04/2025 - 00:57:40: [admin.amxx] Login: "Ñev<89><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/04/2025 - 00:57:43: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 3.9ms.
+L 01/04/2025 - 00:57:47: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 2.7ms.
+L 01/04/2025 - 00:57:58: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.3ms.
+L 01/04/2025 - 00:58:11: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 00:58:20: [soccerjam.amxx] performance issue. Function statusDisplay executed more than 1.4ms.
+L 01/04/2025 - 00:58:25: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 00:58:25: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 00:58:46: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 00:58:46: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 00:58:46: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 00:58:57: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 1.8ms.
+L 01/04/2025 - 00:58:59: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.5ms.
+L 01/04/2025 - 00:58:59: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 00:59:03: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.1ms.
+L 01/04/2025 - 00:59:25: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 00:59:25: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.1ms.
+L 01/04/2025 - 00:59:47: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 00:59:52: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 2.0ms.
+L 01/04/2025 - 01:00:01: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.7ms.
+L 01/04/2025 - 01:00:07: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:00:07: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:00:12: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 2.6ms.
+L 01/04/2025 - 01:00:16: [soccerjam.amxx] performance issue. Function statusDisplay executed more than 2.1ms.
+L 01/04/2025 - 01:00:38: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:00:40: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.7ms.
+L 01/04/2025 - 01:00:40: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.3ms.
+L 01/04/2025 - 01:01:03: [soccerjam.amxx] performance issue. Function meter executed more than 1.1ms.
+L 01/04/2025 - 01:01:06: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:01:17: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.1ms.
+L 01/04/2025 - 01:01:17: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.5ms.
+L 01/04/2025 - 01:01:17: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:01:19: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:01:19: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:01:37: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:01:43: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:01:43: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:01:54: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.3ms.
+L 01/04/2025 - 01:01:57: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:01:57: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:02:32: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.3ms.
+L 01/04/2025 - 01:02:34: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:02:34: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:03:00: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.1ms.
+L 01/04/2025 - 01:03:02: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:03:02: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:03:02: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 5.1ms.
+L 01/04/2025 - 01:03:03: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 2.7ms.
+L 01/04/2025 - 01:03:03: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 6.3ms.
+L 01/04/2025 - 01:03:19: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:03:29: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:03:42: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:03:42: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.5ms.
+L 01/04/2025 - 01:03:55: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:04:08: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:04:08: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:04:20: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.4ms.
+L 01/04/2025 - 01:04:21: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.6ms.
+L 01/04/2025 - 01:04:25: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.1ms.
+L 01/04/2025 - 01:04:27: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:04:27: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.3ms.
+L 01/04/2025 - 01:04:32: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:04:40: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:04:40: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:04:47: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:04:49: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:04:49: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:04:51: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:04:51: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:05:02: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.0ms.
+L 01/04/2025 - 01:05:03: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:05:05: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:05:07: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.7ms.
+L 01/04/2025 - 01:05:13: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.4ms.
+L 01/04/2025 - 01:05:16: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:05:16: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 2.0ms.
+L 01/04/2025 - 01:05:17: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.5ms.
+L 01/04/2025 - 01:05:17: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.9ms.
+L 01/04/2025 - 01:05:17: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 2.0ms.
+L 01/04/2025 - 01:05:19: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.5ms.
+L 01/04/2025 - 01:05:31: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:05:31: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:05:39: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:05:39: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:05:55: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:05:57: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:06:01: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:06:01: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:06:03: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:06:03: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.6ms.
+L 01/04/2025 - 01:06:05: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:06:05: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:06:06: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.5ms.
+L 01/04/2025 - 01:06:08: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 2.8ms.
+L 01/04/2025 - 01:06:16: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:06:16: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:06:21: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.8ms.
+L 01/04/2025 - 01:06:21: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:06:24: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:06:33: [admin.amxx] Login: "Narco Baresi$$$<87><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 01:06:33: [soccerjam.amxx] performance issue. Function client_infochanged executed more than 1.1ms.
+L 01/04/2025 - 01:06:51: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.4ms.
+L 01/04/2025 - 01:06:51: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:06:51: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:06:52: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:06:53: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:06:53: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:06:54: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:06:54: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:07:08: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.2ms.
+L 01/04/2025 - 01:07:20: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:07:21: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.2ms.
+L 01/04/2025 - 01:07:22: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:07:22: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:07:23: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.3ms.
+L 01/04/2025 - 01:07:30: [adminchat.amxx] Chat: "Narco Baresi$$$<87><STEAM_0:0:88013412><>" tsay "fodido"
+L 01/04/2025 - 01:07:34: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:07:39: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:08:00: [soccerjam.amxx] performance issue. Function meter executed more than 2.1ms.
+L 01/04/2025 - 01:08:13: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:08:39: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:08:40: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.4ms.
+L 01/04/2025 - 01:08:41: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:08:43: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 01/04/2025 - 01:08:55: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:09:01: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 34.9ms.
+L 01/04/2025 - 01:09:01: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 16.1ms.
+L 01/04/2025 - 01:09:03: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 31.9ms.
+L 01/04/2025 - 01:09:03: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 20.0ms.
+L 01/04/2025 - 01:09:14: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:09:14: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:09:31: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:09:34: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:09:37: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:09:37: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.5ms.
+L 01/04/2025 - 01:09:37: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:09:38: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.5ms.
+L 01/04/2025 - 01:09:38: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:09:44: [soccerjam.amxx] performance issue. Function statusDisplay executed more than 1.6ms.
+L 01/04/2025 - 01:09:46: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:09:46: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.3ms.
+L 01/04/2025 - 01:10:01: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.2ms.
+L 01/04/2025 - 01:10:10: [soccerjam.amxx] performance issue. Function meter executed more than 1.6ms.
+L 01/04/2025 - 01:10:22: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 2.0ms.
+L 01/04/2025 - 01:10:30: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 1.0ms.
+L 01/04/2025 - 01:10:31: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.2ms.
+L 01/04/2025 - 01:10:37: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.1ms.
+L 01/04/2025 - 01:10:40: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:10:40: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:10:55: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:10:55: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:11:02: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 3.5ms.
+L 01/04/2025 - 01:11:04: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:11:04: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:11:10: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.4ms.
+L 01/04/2025 - 01:11:16: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:11:16: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:11:17: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.0ms.
+L 01/04/2025 - 01:11:18: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:11:20: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:11:20: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:11:37: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:11:42: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.7ms.
+L 01/04/2025 - 01:11:49: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.0ms.
+L 01/04/2025 - 01:11:57: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:11:58: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:12:01: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:12:01: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.5ms.
+L 01/04/2025 - 01:12:09: [admin.amxx] Login: "Narkimmich$$$<87><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 01:12:22: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 01/04/2025 - 01:12:32: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:12:35: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:12:44: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:12:44: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:12:46: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:12:47: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.3ms.
+L 01/04/2025 - 01:12:50: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:12:55: [soccerjam.amxx] performance issue. Function meter executed more than 1.0ms.
+L 01/04/2025 - 01:13:19: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:13:36: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:13:45: [soccerjam.amxx] performance issue. Function meter executed more than 1.3ms.
+L 01/04/2025 - 01:14:13: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:14:13: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.6ms.
+L 01/04/2025 - 01:14:21: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:14:21: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:14:23: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:14:27: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:14:27: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:14:45: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:14:48: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:14:48: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:15:03: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 41.3ms.
+L 01/04/2025 - 01:15:08: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.4ms.
+L 01/04/2025 - 01:15:08: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.4ms.
+L 01/04/2025 - 01:15:10: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:15:11: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:15:15: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:15:30: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:15:33: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:15:34: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.3ms.
+L 01/04/2025 - 01:15:39: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:15:39: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.4ms.
+L 01/04/2025 - 01:15:47: [soccerjam.amxx] performance issue. Function meter executed more than 1.4ms.
+L 01/04/2025 - 01:15:59: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 1.3ms.
+L 01/04/2025 - 01:16:07: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:16:07: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:16:19: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:16:43: [soccerjam.amxx] performance issue. Function meter executed more than 1.1ms.
+L 01/04/2025 - 01:16:44: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.2ms.
+L 01/04/2025 - 01:16:47: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.6ms.
+L 01/04/2025 - 01:17:03: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.4ms.
+L 01/04/2025 - 01:17:03: [soccerjam.amxx] performance issue. Function Event_StartRound executed more than 11.3ms.
+L 01/04/2025 - 01:17:19: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:17:25: [soccerjam.amxx] performance issue. Function meter executed more than 1.0ms.
+L 01/04/2025 - 01:17:41: [soccerjam.amxx] performance issue. Function touchWorld executed more than 1.2ms.
+L 01/04/2025 - 01:17:48: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:17:53: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:18:07: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 3.2ms.
+L 01/04/2025 - 01:18:16: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:18:57: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:19:02: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 13.8ms.
+L 01/04/2025 - 01:19:02: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 26.4ms.
+L 01/04/2025 - 01:19:03: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.6ms.
+L 01/04/2025 - 01:19:03: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.1ms.
+L 01/04/2025 - 01:19:05: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:19:05: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:19:08: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:19:53: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.6ms.
+L 01/04/2025 - 01:19:53: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:20:06: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 2.8ms.
+L 01/04/2025 - 01:20:15: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 1.1ms.
+L 01/04/2025 - 01:20:16: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:20:17: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.3ms.
+L 01/04/2025 - 01:20:44: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.1ms.
+L 01/04/2025 - 01:21:16: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:21:46: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.2ms.
+L 01/04/2025 - 01:21:57: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:21:59: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:22:01: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 13.2ms.
+L 01/04/2025 - 01:22:02: [soccerjam.amxx] performance issue. Function PostResetHud executed more than 19.0ms.
+L 01/04/2025 - 01:22:30: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:22:30: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.2ms.
+L 01/04/2025 - 01:22:34: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:22:40: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.2ms.
+L 01/04/2025 - 01:23:07: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 01/04/2025 - 01:23:08: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.1ms.
+L 01/04/2025 - 01:23:09: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:23:12: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.8ms.
+L 01/04/2025 - 01:23:12: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:23:45: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:24:00: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.3ms.
+L 01/04/2025 - 01:24:04: [soccerjam.amxx] performance issue. Function glow_del_player executed more than 2.0ms.
+L 01/04/2025 - 01:24:07: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 20.7ms.
+L 01/04/2025 - 01:24:08: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.0ms.
+L 01/04/2025 - 01:24:11: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.0ms.
+L 01/04/2025 - 01:24:57: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.1ms.
+L 01/04/2025 - 01:25:06: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:25:08: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 4.3ms.
+L 01/04/2025 - 01:25:08: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 01/04/2025 - 01:25:08: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.0ms.
+L 01/04/2025 - 01:25:10: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.6ms.
+L 01/04/2025 - 01:25:12: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 01/04/2025 - 01:25:12: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:25:42: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.4ms.
+L 01/04/2025 - 01:25:42: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 01/04/2025 - 01:25:48: [soccerjam.amxx] performance issue. Function touchNet executed more than 1.3ms.
+L 01/04/2025 - 01:25:49: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 01:25:49: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 01:25:55: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 01:25:56: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 01:25:57: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/04/2025 - 01:25:59: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:00: [admin.amxx] Login: "perrito<86><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:26:01: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 01:26:06: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 01:26:08: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/04/2025 - 01:26:09: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:10: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 01:26:11: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/04/2025 - 01:26:12: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/04/2025 - 01:26:13: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Jailbreak
+L 01/04/2025 - 01:26:14: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/04/2025 - 01:26:19: [admincmd.amxx] Cmd: "perrito<86><STEAM_0:1:106132448><>" set cvar (name "poly_revote") (value "1")
+L 01/04/2025 - 01:26:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 01:26:29: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/04/2025 - 01:26:30: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 01:26:31: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:35: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:36: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 1.6ms.
+L 01/04/2025 - 01:26:38: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 01:26:38: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.2ms.
+L 01/04/2025 - 01:26:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/04/2025 - 01:26:41: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 01:26:47: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:48: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 01:26:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 01:26:51: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 01:26:52: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 01:26:53: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_flexible_amazon
+L 01/04/2025 - 01:26:53: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.2ms.
+L 01/04/2025 - 01:27:13: -------- Mapchange to jail_flexible_amazon --------
+L 01/04/2025 - 01:27:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 01:27:13: [jbextreme1.amxx] performance issue. Function plugin_precache executed more than 39.3ms.
+L 01/04/2025 - 01:27:13: [re_dookie.amxx] performance issue. Function plugin_precache executed more than 14.5ms.
+L 01/04/2025 - 01:27:14: [jbextreme1.amxx] performance issue. Function plugin_init executed more than 4.8ms.
+L 01/04/2025 - 01:27:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/cachear.txt
+L 01/04/2025 - 01:27:17: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3436.5ms.
+L 01/04/2025 - 01:27:19: [admin.amxx] Login: "perrito<86><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:27:19: [admin.amxx] Login: "Narkimmich$$$<87><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 01:27:19: [admin.amxx] Login: "Frost<85><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 01:27:22: [admin.amxx] Login: "perrito<92><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:27:25: [admin.amxx] Login: "Narkimmich$$$<93><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abi") (address "190.237.204.190")
+L 01/04/2025 - 01:27:32: [admin.amxx] Login: "Frost<94><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 01:29:11: [admincmd.amxx] Cmd: "perrito<92><STEAM_0:1:106132448><>" changelevel "jail_piedras_gordas_pg"
+L 01/04/2025 - 01:29:13: -------- Mapchange to jail_piedras_gordas_pg --------
+L 01/04/2025 - 01:29:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 01:29:13: [jbextreme1.amxx] performance issue. Function plugin_precache executed more than 24.2ms.
+L 01/04/2025 - 01:29:13: [pisspg.amxx] performance issue. Function plugin_precache executed more than 31.7ms.
+L 01/04/2025 - 01:29:13: [re_dookie.amxx] performance issue. Function plugin_precache executed more than 21.6ms.
+L 01/04/2025 - 01:29:14: [jbextreme1.amxx] performance issue. Function plugin_init executed more than 1.4ms.
+L 01/04/2025 - 01:29:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/cachear.txt
+L 01/04/2025 - 01:29:18: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3620.6ms.
+L 01/04/2025 - 01:29:19: [admin.amxx] Login: "perrito<92><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:29:19: [admin.amxx] Login: "Frost<94><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 01:29:22: [admin.amxx] Login: "perrito<95><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:29:23: [admin.amxx] Login: "Frost<96><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "190.42.120.38")
+L 01/04/2025 - 01:29:24: [admin.amxx] Login: "Okz :)<97><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 01:29:27: [admin.amxx] Login: "Okz :)<98><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/04/2025 - 01:29:28: [jbextreme1.amxx] performance issue. Function team_select executed more than 8.4ms.
+L 01/04/2025 - 01:29:28: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.2ms.
+L 01/04/2025 - 01:29:29: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.3ms.
+L 01/04/2025 - 01:29:33: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.3ms.
+L 01/04/2025 - 01:30:00: [admincmd.amxx] Cmd: "perrito<95><STEAM_0:1:106132448><>" ask for players list
+L 01/04/2025 - 01:30:23: [jbextreme1.amxx] performance issue. Function voice_listening executed more than 1.1ms.
+L 01/04/2025 - 01:31:49: [jbextreme1.amxx] performance issue. Function round_end executed more than 2.2ms.
+L 01/04/2025 - 01:31:54: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.3ms.
+L 01/04/2025 - 01:31:54: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.2ms.
+L 01/04/2025 - 01:31:54: [jbextreme1.amxx] performance issue. Function player_spawn executed more than 1.1ms.
+L 01/04/2025 - 01:40:54: [admin.amxx] Login: "_M_<99><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:41:43: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Jailbreak<0><><>" changelevel "de_dust2"
+L 01/04/2025 - 01:41:45: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 01:41:45: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 01:41:49: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3588.4ms.
+L 01/04/2025 - 01:42:03: [admin.amxx] Login: "_M_<102><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:42:50: [admin.amxx] Login: "_M_<103><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:48:15: [admin.amxx] Login: "_M_<104><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:53:39: [admin.amxx] Login: "_M_<105><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:53:45: [admin.amxx] Login: "_M_<106><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:57:43: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/04/2025 - 01:57:44: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 01:57:44: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 269.6ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 11.4ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 18.8ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 15.1ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 13.7ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 12.7ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 18.3ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 7.2ms.
+L 01/04/2025 - 01:57:45: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 16.6ms.
+L 01/04/2025 - 01:57:46: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 01/04/2025 - 01:57:46: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 21.3ms.
+L 01/04/2025 - 01:57:49: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3354.9ms.
+L 01/04/2025 - 01:58:01: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/04/2025 - 01:58:01: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 01:58:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 191.2ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 10.1ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 15.4ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 11.6ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 8.4ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.0ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 18.0ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.3ms.
+L 01/04/2025 - 01:58:02: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 14.5ms.
+L 01/04/2025 - 01:58:03: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 42.3ms.
+L 01/04/2025 - 01:58:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4231.2ms.
+L 01/04/2025 - 01:59:05: [admincmd.amxx] Cmd: "PerGAmes # MultiModos - Zombie <0><><>" changelevel "de_dust2"
+L 01/04/2025 - 01:59:07: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 01:59:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 01:59:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3316.8ms.
+L 01/04/2025 - 01:59:19: [admin.amxx] Login: "_M_<1><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 01:59:40: [admin.amxx] Login: "_M_<2><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:13:00: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.9ms.
+L 01/04/2025 - 02:14:16: [admin.amxx] Login: "_M_<3><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:14:19: [admin.amxx] Login: "_M_<4><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:16:52: [admin.amxx] Login: "_M_<5><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:17:00: [admin.amxx] Login: "_M_<6><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:17:16: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/04/2025 - 02:17:30: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 01/04/2025 - 02:17:39: [admincmd.amxx] Cmd: "_M_<6><STEAM_0:1:106132448><>" changelevel "de_dust2"
+L 01/04/2025 - 02:17:41: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 02:17:42: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 02:17:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3603.1ms.
+L 01/04/2025 - 02:17:48: [admin.amxx] Login: "_M_<6><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:18:52: [gungame.amxx] Starting a map vote from Nextmap Chooser
+L 01/04/2025 - 02:18:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 02:19:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be bomberman_final
+L 01/04/2025 - 02:20:41: [admincmd.amxx] Cmd: "_M_<6><STEAM_0:1:106132448><>" changelevel "mini_dust_pro"
+L 01/04/2025 - 02:20:43: -------- Mapchange to mini_dust_pro --------
+L 01/04/2025 - 02:20:44: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 02:20:47: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3493.7ms.
+L 01/04/2025 - 02:20:49: [admin.amxx] Login: "_M_<6><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:20:55: [admin.amxx] Login: "_M_<7><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:21:05: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/04/2025 - 02:23:02: [admincmd.amxx] Cmd: "_M_<7><STEAM_0:1:106132448><>" changelevel "mini_dust_pro"
+L 01/04/2025 - 02:23:04: -------- Mapchange to mini_dust_pro --------
+L 01/04/2025 - 02:23:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 02:23:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4304.5ms.
+L 01/04/2025 - 02:23:12: [admin.amxx] Login: "_M_<7><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:24:01: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/04/2025 - 02:24:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 02:24:07: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 02:24:26: [polymorph.amxx] Vote: Voting for the nextmap finished. Map mini_dust_pro will be extended to next 15 minutes
+L 01/04/2025 - 02:28:47: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 02:28:47: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 02:29:06: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 01/04/2025 - 02:29:11: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 01/04/2025 - 02:29:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 02:29:38: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/04/2025 - 02:29:51: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_day
+L 01/04/2025 - 02:30:11: -------- Mapchange to fy_pool_day --------
+L 01/04/2025 - 02:30:12: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 02:30:16: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4048.7ms.
+L 01/04/2025 - 02:30:18: [admin.amxx] Login: "_M_<7><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:30:26: [admin.amxx] Login: "_M_<8><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "190.233.86.52")
+L 01/04/2025 - 02:31:05: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/04/2025 - 02:31:06: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 02:31:46: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 02:31:54: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/04/2025 - 02:32:10: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be mini_dust_pro
+L 01/04/2025 - 03:13:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 03:13:18: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 03:13:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be mini_dust_pro
+L 01/04/2025 - 03:13:42: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Plague
+L 01/04/2025 - 03:13:42: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.2ms.
+L 01/04/2025 - 03:13:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 03:15:27: -------- Mapchange to zm_ice_attack --------
+L 01/04/2025 - 03:15:27: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 181.7ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 10.7ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 20.6ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 16.7ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.9ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 13.7ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 20.3ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 7.7ms.
+L 01/04/2025 - 03:15:27: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 17.4ms.
+L 01/04/2025 - 03:15:28: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 11.7ms.
+L 01/04/2025 - 03:15:32: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3462.6ms.
+L 01/04/2025 - 03:34:34: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 03:34:58: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 01/04/2025 - 03:34:58: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 01/04/2025 - 03:35:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 03:35:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/04/2025 - 03:36:42: -------- Mapchange to as_oilrig --------
+L 01/04/2025 - 03:36:42: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 03:36:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3291.2ms.
+L 01/04/2025 - 03:59:48: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 04:00:12: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/04/2025 - 04:01:56: -------- Mapchange to as_crazytank3 --------
+L 01/04/2025 - 04:01:56: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 04:02:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3522.5ms.
+L 01/04/2025 - 04:25:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 04:25:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/04/2025 - 04:27:10: -------- Mapchange to as_oilrig --------
+L 01/04/2025 - 04:27:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 04:27:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3316.4ms.
+L 01/04/2025 - 04:50:16: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 04:50:40: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 01/04/2025 - 04:50:40: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.7ms.
+L 01/04/2025 - 04:50:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 04:51:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/04/2025 - 04:52:24: -------- Mapchange to as_crazytank3 --------
+L 01/04/2025 - 04:52:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 04:52:28: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3235.6ms.
+L 01/04/2025 - 05:15:30: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 05:15:30: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 05:15:54: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/04/2025 - 05:17:38: -------- Mapchange to as_oilrig --------
+L 01/04/2025 - 05:17:38: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 05:17:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3834.6ms.
+L 01/04/2025 - 05:40:44: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 05:41:08: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/04/2025 - 05:42:53: -------- Mapchange to as_crazytank3 --------
+L 01/04/2025 - 05:42:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 05:42:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4180.6ms.
+L 01/04/2025 - 06:05:59: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 06:06:23: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 06:06:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 06:07:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 06:08:08: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 06:08:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 06:08:09: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/04/2025 - 06:08:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3528.8ms.
+L 01/04/2025 - 06:26:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 06:26:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 06:28:23: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 06:28:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 06:28:28: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3126.8ms.
+L 01/04/2025 - 06:46:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 06:46:29: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 06:46:54: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 06:48:38: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 06:48:38: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 06:48:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3545.3ms.
+L 01/04/2025 - 07:06:45: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 07:07:09: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/04/2025 - 07:07:09: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 01/04/2025 - 07:07:25: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 07:07:25: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/04/2025 - 07:07:49: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 07:08:53: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 07:08:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 07:08:57: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3410.8ms.
+L 01/04/2025 - 07:26:59: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 07:27:23: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/04/2025 - 07:29:07: -------- Mapchange to surf_iceday_remake --------
+L 01/04/2025 - 07:29:07: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 07:29:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3817.9ms.
+L 01/04/2025 - 07:47:14: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 07:47:38: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 07:47:38: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 01/04/2025 - 07:47:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 07:48:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 07:49:22: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 07:49:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 07:49:27: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3461.5ms.
+L 01/04/2025 - 08:07:29: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 08:07:53: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 08:07:53: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.2ms.
+L 01/04/2025 - 08:09:37: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 08:09:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 08:09:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3725.1ms.
+L 01/04/2025 - 08:27:44: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 08:28:08: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 08:29:52: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 08:29:52: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 08:29:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3772.7ms.
+L 01/04/2025 - 08:48:00: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 08:48:24: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 08:48:24: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 01/04/2025 - 08:48:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 08:49:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 08:50:08: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 08:50:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 08:50:10: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/04/2025 - 08:50:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3862.2ms.
+L 01/04/2025 - 09:08:16: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 09:08:16: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 09:08:40: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 09:08:41: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/04/2025 - 09:10:24: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 09:10:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 09:10:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3944.2ms.
+L 01/04/2025 - 09:28:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 09:28:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 09:30:40: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 09:30:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 09:30:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3778.4ms.
+L 01/04/2025 - 09:31:06: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 3.0ms.
+L 01/04/2025 - 09:48:47: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 09:48:47: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/04/2025 - 09:49:11: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/04/2025 - 09:49:11: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 01/04/2025 - 09:49:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 09:49:51: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 09:50:55: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 09:50:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 09:50:56: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/04/2025 - 09:50:56: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/04/2025 - 09:51:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3741.9ms.
+L 01/04/2025 - 10:12:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 10:12:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/04/2025 - 10:14:10: -------- Mapchange to de_aztec --------
+L 01/04/2025 - 10:14:11: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 10:14:12: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/04/2025 - 10:14:12: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/04/2025 - 10:14:16: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4154.4ms.
+L 01/04/2025 - 10:35:17: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 10:35:41: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 01/04/2025 - 10:35:57: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 10:36:21: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/04/2025 - 10:37:26: -------- Mapchange to as_oilrig --------
+L 01/04/2025 - 10:37:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 10:37:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4048.4ms.
+L 01/04/2025 - 11:00:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 11:00:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/04/2025 - 11:02:40: -------- Mapchange to as_crazytank3 --------
+L 01/04/2025 - 11:02:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 11:02:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3771.9ms.
+L 01/04/2025 - 11:25:47: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 11:25:47: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 11:26:11: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/04/2025 - 11:27:55: -------- Mapchange to as_oilrig --------
+L 01/04/2025 - 11:27:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 11:27:59: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3569.1ms.
+L 01/04/2025 - 11:51:02: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 11:51:25: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/04/2025 - 11:51:25: [polymorph.amxx] performance issue. Function checkModVotes executed more than 2.0ms.
+L 01/04/2025 - 11:51:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 11:51:42: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.2ms.
+L 01/04/2025 - 11:52:06: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 11:53:10: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 11:53:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 11:53:11: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 01/04/2025 - 11:53:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3986.4ms.
+L 01/04/2025 - 12:11:16: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 12:11:40: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/04/2025 - 12:13:24: -------- Mapchange to surf_iceday_remake --------
+L 01/04/2025 - 12:13:25: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 12:13:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3854.2ms.
+L 01/04/2025 - 12:31:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 12:31:31: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 3.2ms.
+L 01/04/2025 - 12:31:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/04/2025 - 12:31:55: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.0ms.
+L 01/04/2025 - 12:32:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 12:32:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 12:33:39: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 12:33:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 12:33:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4943.5ms.
+L 01/04/2025 - 12:51:47: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 12:52:11: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/04/2025 - 12:53:55: -------- Mapchange to surf_iceday_remake --------
+L 01/04/2025 - 12:53:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 12:54:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3823.1ms.
+L 01/04/2025 - 13:12:03: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 13:12:27: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/04/2025 - 13:12:27: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 01/04/2025 - 13:12:43: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 13:12:55: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/04/2025 - 13:13:07: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 13:14:12: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 13:14:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 13:14:16: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3571.2ms.
+L 01/04/2025 - 13:32:18: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 13:32:42: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/04/2025 - 13:34:26: -------- Mapchange to surf_iceday_remake --------
+L 01/04/2025 - 13:34:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 13:34:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3807.6ms.
+L 01/04/2025 - 13:52:33: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 13:52:57: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 13:52:57: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 01/04/2025 - 13:53:13: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 13:53:37: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 13:54:41: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 13:54:41: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 13:54:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3544.0ms.
+L 01/04/2025 - 14:12:48: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 14:13:12: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 14:14:57: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 14:14:57: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 14:15:04: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5990.8ms.
+L 01/04/2025 - 14:33:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 14:33:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 14:35:16: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 14:35:16: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 14:35:21: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4159.3ms.
+L 01/04/2025 - 14:53:24: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 14:53:24: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/04/2025 - 14:53:48: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/04/2025 - 14:53:48: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 01/04/2025 - 14:54:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 14:54:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/04/2025 - 14:55:32: -------- Mapchange to crazycar_v2 --------
+L 01/04/2025 - 14:55:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 14:55:33: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 01/04/2025 - 14:55:37: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3876.4ms.
+L 01/04/2025 - 15:12:43: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 15:12:43: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 15:13:07: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 01/04/2025 - 15:13:23: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 15:13:23: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/04/2025 - 15:13:47: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 01/04/2025 - 15:14:08: -------- Mapchange to kz_arsacid --------
+L 01/04/2025 - 15:14:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 15:14:08: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 25.8ms.
+L 01/04/2025 - 15:14:09: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/04/2025 - 15:14:09: [kz_jumpplugin.amxx] performance issue. Function plugin_init executed more than 9.8ms.
+L 01/04/2025 - 15:14:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3945.3ms.
+L 01/04/2025 - 15:14:13: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 21.6ms.
+L 01/04/2025 - 15:14:13: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/04/2025 - 15:14:18: [admincmd.amxx] Cmd: "PerGAmes MultiModos - MapasRaro<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/04/2025 - 15:14:19: [kz_jumpplugin.amxx] performance issue. Function client_putinserver executed more than 1.6ms.
+L 01/04/2025 - 15:14:19: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 10.0ms.
+L 01/04/2025 - 15:14:50: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.6ms.
+L 01/04/2025 - 15:15:04: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.8ms.
+L 01/04/2025 - 15:15:14: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:15:52: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:16:30: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.5ms.
+L 01/04/2025 - 15:17:10: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.0ms.
+L 01/04/2025 - 15:18:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPostThink executed more than 1.2ms.
+L 01/04/2025 - 15:18:06: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.7ms.
+L 01/04/2025 - 15:18:07: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.6ms.
+L 01/04/2025 - 15:18:07: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 8.9ms.
+L 01/04/2025 - 15:18:36: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:19:04: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.3ms.
+L 01/04/2025 - 15:19:11: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.2ms.
+L 01/04/2025 - 15:19:20: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:20:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.8ms.
+L 01/04/2025 - 15:20:14: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.8ms.
+L 01/04/2025 - 15:20:26: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.8ms.
+L 01/04/2025 - 15:20:27: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.0ms.
+L 01/04/2025 - 15:20:48: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.4ms.
+L 01/04/2025 - 15:20:49: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.2ms.
+L 01/04/2025 - 15:20:53: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.4ms.
+L 01/04/2025 - 15:21:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 31.6ms.
+L 01/04/2025 - 15:21:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 8.3ms.
+L 01/04/2025 - 15:21:08: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 7.3ms.
+L 01/04/2025 - 15:22:01: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 12.5ms.
+L 01/04/2025 - 15:22:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 11.3ms.
+L 01/04/2025 - 15:22:37: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.5ms.
+L 01/04/2025 - 15:22:59: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.4ms.
+L 01/04/2025 - 15:23:01: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.0ms.
+L 01/04/2025 - 15:23:05: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.7ms.
+L 01/04/2025 - 15:23:37: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/04/2025 - 15:23:43: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.3ms.
+L 01/04/2025 - 15:24:04: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.0ms.
+L 01/04/2025 - 15:24:08: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.2ms.
+L 01/04/2025 - 15:24:08: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.7ms.
+L 01/04/2025 - 15:25:08: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.1ms.
+L 01/04/2025 - 15:25:55: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.9ms.
+L 01/04/2025 - 15:26:00: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/04/2025 - 15:26:18: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.5ms.
+L 01/04/2025 - 15:26:19: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 4.2ms.
+L 01/04/2025 - 15:26:34: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:27:02: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.2ms.
+L 01/04/2025 - 15:27:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.3ms.
+L 01/04/2025 - 15:27:07: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.2ms.
+L 01/04/2025 - 15:27:07: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 12.8ms.
+L 01/04/2025 - 15:27:08: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.8ms.
+L 01/04/2025 - 15:27:21: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.7ms.
+L 01/04/2025 - 15:28:01: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.4ms.
+L 01/04/2025 - 15:29:05: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.5ms.
+L 01/04/2025 - 15:29:11: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.3ms.
+L 01/04/2025 - 15:30:04: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 6.4ms.
+L 01/04/2025 - 15:31:03: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 22.6ms.
+L 01/04/2025 - 15:31:05: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 11.3ms.
+L 01/04/2025 - 15:31:31: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.3ms.
+L 01/04/2025 - 15:31:38: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.3ms.
+L 01/04/2025 - 15:32:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 15:32:15: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/04/2025 - 15:32:25: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/04/2025 - 15:32:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_xj_brickjump
+L 01/04/2025 - 15:33:01: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:33:09: [kz_jumpplugin.amxx] performance issue. Function fw_PlayerDeath executed more than 3.2ms.
+L 01/04/2025 - 15:33:20: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.0ms.
+L 01/04/2025 - 15:33:20: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/04/2025 - 15:33:44: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.2ms.
+L 01/04/2025 - 15:34:19: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.3ms.
+L 01/04/2025 - 15:34:23: [kz_jumpplugin.amxx] performance issue. Function commandsmenufunccions executed more than 1.0ms.
+L 01/04/2025 - 15:34:23: -------- Mapchange to kz_xj_brickjump --------
+L 01/04/2025 - 15:34:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 15:34:24: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 19.8ms.
+L 01/04/2025 - 15:34:25: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.2ms.
+L 01/04/2025 - 15:34:25: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/04/2025 - 15:34:25: [kz_jumpplugin.amxx] performance issue. Function plugin_init executed more than 4.3ms.
+L 01/04/2025 - 15:34:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3625.7ms.
+L 01/04/2025 - 15:34:29: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 25.1ms.
+L 01/04/2025 - 15:34:29: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/04/2025 - 15:34:34: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/04/2025 - 15:34:34: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.5ms.
+L 01/04/2025 - 15:34:54: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.3ms.
+L 01/04/2025 - 15:46:44: [kz_jumpplugin.amxx] performance issue. Function playersecondtask executed more than 1.1ms.
+L 01/04/2025 - 15:52:30: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 15:52:54: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Paintball
+L 01/04/2025 - 15:53:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 15:53:34: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_paintball
+L 01/04/2025 - 15:54:39: -------- Mapchange to cs_paintball --------
+L 01/04/2025 - 15:54:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 15:54:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3343.0ms.
+L 01/04/2025 - 16:12:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 16:13:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 16:14:53: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 16:14:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 16:14:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3829.4ms.
+L 01/04/2025 - 16:33:00: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 16:33:24: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 01/04/2025 - 16:33:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 16:34:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 16:35:08: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 16:35:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 16:35:09: [freeze-tag-bugfix1.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/04/2025 - 16:35:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4408.5ms.
+L 01/04/2025 - 16:54:16: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 16:54:40: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/04/2025 - 16:56:24: -------- Mapchange to de_inferno --------
+L 01/04/2025 - 16:56:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 16:56:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3778.1ms.
+L 01/04/2025 - 17:15:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 17:15:49: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/04/2025 - 17:15:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/04/2025 - 17:15:55: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.2ms.
+L 01/04/2025 - 17:16:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 17:16:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/04/2025 - 17:17:39: -------- Mapchange to de_dust2 --------
+L 01/04/2025 - 17:17:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 17:17:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3523.4ms.
+L 01/04/2025 - 17:35:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 17:36:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/04/2025 - 17:37:53: -------- Mapchange to surf_iceday_remake --------
+L 01/04/2025 - 17:37:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 17:37:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3621.2ms.
+L 01/04/2025 - 17:56:00: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 17:56:24: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/04/2025 - 17:56:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 17:57:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/04/2025 - 17:58:08: -------- Mapchange to cs_estate --------
+L 01/04/2025 - 17:58:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 17:58:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4255.1ms.
+L 01/04/2025 - 17:58:14: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/04/2025 - 18:13:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 18:13:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/04/2025 - 18:15:24: -------- Mapchange to de_dust --------
+L 01/04/2025 - 18:15:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 18:15:25: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 01/04/2025 - 18:15:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4121.7ms.
+L 01/04/2025 - 18:15:29: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/04/2025 - 18:30:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 18:30:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 01/04/2025 - 18:31:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 18:31:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_minecraft_fg
+L 01/04/2025 - 18:32:39: -------- Mapchange to deathrun_minecraft_fg --------
+L 01/04/2025 - 18:32:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 18:32:40: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 78.6ms.
+L 01/04/2025 - 18:32:40: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 66.5ms.
+L 01/04/2025 - 18:32:40: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 143.0ms.
+L 01/04/2025 - 18:32:40: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.4ms.
+L 01/04/2025 - 18:32:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/04/2025 - 18:32:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/04/2025 - 18:32:41: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 12.9ms.
+L 01/04/2025 - 18:32:41: [specteclado.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/04/2025 - 18:32:41: [rtd_pg.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/04/2025 - 18:32:41: [vidasdr.amxx] performance issue. Function plugin_init executed more than 1.7ms.
+L 01/04/2025 - 18:32:41: [use_buttons.amxx] performance issue. Function plugin_init executed more than 1.5ms.
+L 01/04/2025 - 18:32:41: [antiretry_ronald.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 01/04/2025 - 18:32:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4013.6ms.
+L 01/04/2025 - 18:32:45: [team_join.amxx] performance issue. Function plugin_cfg executed more than 1.0ms.
+L 01/04/2025 - 18:51:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 18:51:07: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 6.8ms.
+L 01/04/2025 - 18:51:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_barbie_remake
+L 01/04/2025 - 18:53:17: -------- Mapchange to deathrun_barbie_remake --------
+L 01/04/2025 - 18:53:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 18:53:18: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 79.0ms.
+L 01/04/2025 - 18:53:18: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 64.1ms.
+L 01/04/2025 - 18:53:18: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 157.9ms.
+L 01/04/2025 - 18:53:18: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.3ms.
+L 01/04/2025 - 18:53:19: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/04/2025 - 18:53:19: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/04/2025 - 18:53:19: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 3.3ms.
+L 01/04/2025 - 18:53:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3987.9ms.
+L 01/04/2025 - 18:53:23: [team_join.amxx] performance issue. Function plugin_cfg executed more than 2.0ms.
+L 01/04/2025 - 19:00:29: [specteclado.amxx] performance issue. Function server_frame executed more than 1.1ms.
+L 01/04/2025 - 19:03:45: [specteclado.amxx] performance issue. Function keys_update executed more than 1.1ms.
+L 01/04/2025 - 19:11:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 19:11:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 19:12:07: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/04/2025 - 19:12:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_poolday
+L 01/04/2025 - 19:12:09: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.6ms.
+L 01/04/2025 - 19:13:55: -------- Mapchange to deathrun_poolday --------
+L 01/04/2025 - 19:13:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 19:13:56: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 69.4ms.
+L 01/04/2025 - 19:13:56: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 54.2ms.
+L 01/04/2025 - 19:13:56: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 127.1ms.
+L 01/04/2025 - 19:13:56: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.1ms.
+L 01/04/2025 - 19:13:56: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/04/2025 - 19:13:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/04/2025 - 19:13:56: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 3.1ms.
+L 01/04/2025 - 19:14:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3654.9ms.
+L 01/04/2025 - 19:20:01: [specteclado.amxx] performance issue. Function server_frame executed more than 10.7ms.
+L 01/04/2025 - 19:25:23: [specteclado.amxx] performance issue. Function server_frame executed more than 1.8ms.
+L 01/04/2025 - 19:32:23: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 19:32:23: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/04/2025 - 19:32:47: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Gungame
+L 01/04/2025 - 19:33:03: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 19:33:27: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_largo
+L 01/04/2025 - 19:34:33: -------- Mapchange to de_dust2_largo --------
+L 01/04/2025 - 19:34:34: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 19:34:38: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3800.6ms.
+L 01/04/2025 - 20:17:39: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 20:17:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 20:17:54: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_titanic
+L 01/04/2025 - 20:18:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_titanic
+L 01/04/2025 - 20:19:48: -------- Mapchange to fy_titanic --------
+L 01/04/2025 - 20:19:49: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 20:19:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3661.1ms.
+L 01/04/2025 - 21:02:54: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 21:02:55: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 21:03:09: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_suite
+L 01/04/2025 - 21:03:19: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_suite
+L 01/04/2025 - 21:05:03: -------- Mapchange to fy_pool_suite --------
+L 01/04/2025 - 21:05:04: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/04/2025 - 21:05:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5069.5ms.
+L 01/04/2025 - 21:24:52: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 21:25:01: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 21:25:16: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Soccerjam
+L 01/04/2025 - 21:25:16: [polymorph.amxx] performance issue. Function checkModVotes executed more than 19.3ms.
+L 01/04/2025 - 21:25:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 21:25:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be sj_superball
+L 01/04/2025 - 21:26:17: -------- Mapchange to sj_superball --------
+L 01/04/2025 - 21:26:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 21:26:17: [soccerjam.amxx] performance issue. Function plugin_precache executed more than 106.7ms.
+L 01/04/2025 - 21:26:18: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 7.2ms.
+L 01/04/2025 - 21:26:18: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 25.7ms.
+L 01/04/2025 - 21:26:18: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 8.6ms.
+L 01/04/2025 - 21:26:18: [soccerjam.amxx] performance issue. Function plugin_init executed more than 21.2ms.
+L 01/04/2025 - 21:26:21: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3697.7ms.
+L 01/04/2025 - 21:26:35: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 4.9ms.
+L 01/04/2025 - 21:26:45: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 1.8ms.
+L 01/04/2025 - 21:31:40: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 1.2ms.
+L 01/04/2025 - 21:37:07: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 1.2ms.
+L 01/04/2025 - 21:39:41: [soccerjam.amxx] performance issue. Function BuyUpgrade executed more than 1.4ms.
+L 01/04/2025 - 21:40:03: [soccerjam.amxx] performance issue. Function ball_think executed more than 8.0ms.
+L 01/04/2025 - 21:41:07: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 21:41:31: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 21:41:31: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 01/04/2025 - 21:41:47: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 21:42:11: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_portal2_test
+L 01/04/2025 - 21:42:11: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/04/2025 - 21:42:32: -------- Mapchange to ze_portal2_test --------
+L 01/04/2025 - 21:42:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 21:42:37: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3883.5ms.
+L 01/04/2025 - 22:00:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 22:01:03: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 22:02:47: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 22:02:47: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 22:02:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3419.1ms.
+L 01/04/2025 - 22:20:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 22:21:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/04/2025 - 22:23:02: -------- Mapchange to ze_remesa_old_final --------
+L 01/04/2025 - 22:23:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 22:23:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4288.4ms.
+L 01/04/2025 - 22:46:10: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 22:46:10: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/04/2025 - 22:46:34: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Bomberman
+L 01/04/2025 - 22:46:51: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 22:47:05: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/04/2025 - 22:47:15: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bomberman_final
+L 01/04/2025 - 22:48:19: -------- Mapchange to bomberman_final --------
+L 01/04/2025 - 22:48:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 22:48:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3589.4ms.
+L 01/04/2025 - 23:02:25: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/04/2025 - 23:02:25: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/04/2025 - 23:02:49: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/04/2025 - 23:03:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 23:03:21: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.3ms.
+L 01/04/2025 - 23:03:28: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 23:03:29: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_portal2_test
+L 01/04/2025 - 23:04:33: -------- Mapchange to ze_portal2_test --------
+L 01/04/2025 - 23:04:33: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 23:04:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4083.1ms.
+L 01/04/2025 - 23:22:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 23:23:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/04/2025 - 23:24:49: -------- Mapchange to ze_deadspace_v2 --------
+L 01/04/2025 - 23:24:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/04/2025 - 23:24:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3195.5ms.
+L 01/04/2025 - 23:42:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/04/2025 - 23:43:06: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/04/2025 - 23:43:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_space_station_chapter_03

@@ -1,0 +1,544 @@
+L 12/30/2024 - 17:38:15: Start of error session.
+L 12/30/2024 - 17:38:15: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 17:38:15: Invalid player id 0
+L 12/30/2024 - 17:38:15: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 17:38:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 17:41:01: Start of error session.
+L 12/30/2024 - 17:41:01: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 17:41:01: Invalid player id 0
+L 12/30/2024 - 17:41:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 17:41:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 18:34:00: Start of error session.
+L 12/30/2024 - 18:34:00: Info (map "skariz_brainhard7") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 18:34:00: Invalid player id 0
+L 12/30/2024 - 18:34:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 18:34:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 18:46:12: Start of error session.
+L 12/30/2024 - 18:46:12: Info (map "skariz_brainhard8") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 18:46:12: Invalid player id 0
+L 12/30/2024 - 18:46:12: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 18:46:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:02:55: Start of error session.
+L 12/30/2024 - 19:02:55: Info (map "fy_pool_day") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 19:02:55: Invalid player id 0
+L 12/30/2024 - 19:02:55: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:02:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:06:58: Invalid player id 0
+L 12/30/2024 - 19:06:58: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:06:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:07:13: Invalid player id 0
+L 12/30/2024 - 19:07:13: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:07:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:07:47: Invalid player id 0
+L 12/30/2024 - 19:07:47: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:07:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:09:08: Invalid player id 0
+L 12/30/2024 - 19:09:08: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:09:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:09:34: Invalid player id 0
+L 12/30/2024 - 19:09:34: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:09:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:29:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/30/2024 - 19:29:26: [AMXX] Run time error 25 (plugin "gungame.amxx") - debug not enabled!
+L 12/30/2024 - 19:29:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:29:53: Start of error session.
+L 12/30/2024 - 19:29:53: Info (map "de_dust") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 19:29:53: Invalid player id 0
+L 12/30/2024 - 19:29:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:29:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:29:54: Invalid player id 0
+L 12/30/2024 - 19:29:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:29:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:29:55: Invalid player id 0
+L 12/30/2024 - 19:29:55: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:29:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:29:57: Invalid player id 0
+L 12/30/2024 - 19:29:57: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:29:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:33:21: Start of error session.
+L 12/30/2024 - 19:33:21: Info (map "mini_dust_pro") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 19:33:21: Invalid player id 0
+L 12/30/2024 - 19:33:21: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:33:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:33:22: Invalid player id 0
+L 12/30/2024 - 19:33:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:33:23: Invalid player id 0
+L 12/30/2024 - 19:33:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:33:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:40:18: Invalid player id 0
+L 12/30/2024 - 19:40:18: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:48:01: Invalid player id 0
+L 12/30/2024 - 19:48:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:48:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:50:08: Invalid player id 0
+L 12/30/2024 - 19:50:08: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:50:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:53:18: Start of error session.
+L 12/30/2024 - 19:53:18: Info (map "sj_trix_zone") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 19:53:18: Invalid player id 0
+L 12/30/2024 - 19:53:18: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:53:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:53:19: Invalid player id 0
+L 12/30/2024 - 19:53:19: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:53:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:53:19: Invalid player id 0
+L 12/30/2024 - 19:53:19: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:53:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:53:21: Invalid player id 0
+L 12/30/2024 - 19:53:21: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:53:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:53:23: Invalid player id 0
+L 12/30/2024 - 19:53:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:53:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 19:59:22: Invalid player id 0
+L 12/30/2024 - 19:59:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 19:59:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:05:24: Invalid player id 0
+L 12/30/2024 - 20:05:24: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:05:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:06:18: Invalid player id 0
+L 12/30/2024 - 20:06:18: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:06:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:15:24: Invalid player id 0
+L 12/30/2024 - 20:15:24: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:15:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:17:50: Invalid player id 0
+L 12/30/2024 - 20:17:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:17:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:22:59: Start of error session.
+L 12/30/2024 - 20:22:59: Info (map "!vip_truck") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 20:22:59: Invalid player id 0
+L 12/30/2024 - 20:22:59: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:22:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:00: Invalid player id 0
+L 12/30/2024 - 20:23:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:01: Invalid player id 0
+L 12/30/2024 - 20:23:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:01: Invalid player id 0
+L 12/30/2024 - 20:23:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:01: Invalid player id 0
+L 12/30/2024 - 20:23:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:02: Invalid player id 0
+L 12/30/2024 - 20:23:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:02: Invalid player id 0
+L 12/30/2024 - 20:23:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:52: Start of error session.
+L 12/30/2024 - 20:23:52: Info (map "mini_dust2") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 20:23:52: Invalid player id 0
+L 12/30/2024 - 20:23:52: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:53: Invalid player id 0
+L 12/30/2024 - 20:23:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:53: Invalid player id 0
+L 12/30/2024 - 20:23:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:53: Invalid player id 0
+L 12/30/2024 - 20:23:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:53: Invalid player id 0
+L 12/30/2024 - 20:23:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:54: Invalid player id 0
+L 12/30/2024 - 20:23:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:23:54: Invalid player id 0
+L 12/30/2024 - 20:23:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:26:13: Invalid player id 0
+L 12/30/2024 - 20:26:13: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:26:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:35:19: Invalid player id 0
+L 12/30/2024 - 20:35:19: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:35:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:40:57: Start of error session.
+L 12/30/2024 - 20:40:57: Info (map "mini_dust_pro") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 20:40:57: Invalid player id 0
+L 12/30/2024 - 20:40:57: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:41:13: Invalid player id 0
+L 12/30/2024 - 20:41:13: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:41:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:41:14: Invalid player id 0
+L 12/30/2024 - 20:41:14: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:41:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:41:21: Invalid player id 0
+L 12/30/2024 - 20:41:21: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:41:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:44:10: Invalid player id 0
+L 12/30/2024 - 20:44:10: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:44:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:48:00: Invalid player id 0
+L 12/30/2024 - 20:48:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:48:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 20:53:54: Invalid player id 0
+L 12/30/2024 - 20:53:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 20:53:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:28:16: Start of error session.
+L 12/30/2024 - 21:28:16: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 21:28:16: Invalid player id 0
+L 12/30/2024 - 21:28:16: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:28:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:32:12: Invalid player id 0
+L 12/30/2024 - 21:32:12: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:32:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:41:03: Invalid player id 0
+L 12/30/2024 - 21:41:03: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:41:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:42:14: Invalid player id 0
+L 12/30/2024 - 21:42:14: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:42:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:43:42: Invalid player id 0
+L 12/30/2024 - 21:43:42: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:43:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:48:15: Player 2 is not in game.
+L 12/30/2024 - 21:48:15: [AMXX] Displaying debug trace (plugin "kz_jumpplugin.amxx", version "1.7")
+L 12/30/2024 - 21:48:15: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/30/2024 - 21:48:15: [AMXX]    [0] Untitled.sma::mainmenu (line 2052)
+L 12/30/2024 - 21:48:15: [AMXX]    [1] Untitled.sma::commandsmenufunccions (line 2138)
+L 12/30/2024 - 21:48:15: Player 3 is not in game.
+L 12/30/2024 - 21:48:15: [AMXX] Displaying debug trace (plugin "kz_jumpplugin.amxx", version "1.7")
+L 12/30/2024 - 21:48:15: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/30/2024 - 21:48:15: [AMXX]    [0] Untitled.sma::mainmenu (line 2052)
+L 12/30/2024 - 21:48:15: [AMXX]    [1] Untitled.sma::commandsmenufunccions (line 2138)
+L 12/30/2024 - 21:48:28: Start of error session.
+L 12/30/2024 - 21:48:28: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 21:48:28: Invalid player id 0
+L 12/30/2024 - 21:48:28: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:48:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:48:28: Invalid player id 0
+L 12/30/2024 - 21:48:28: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:48:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:48:28: Invalid player id 0
+L 12/30/2024 - 21:48:28: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:48:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:48:29: Invalid player id 0
+L 12/30/2024 - 21:48:29: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:48:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 21:52:38: Invalid player id 0
+L 12/30/2024 - 21:52:38: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 21:52:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:01:26: Invalid player id 0
+L 12/30/2024 - 22:01:26: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:01:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:04:20: Invalid player id 0
+L 12/30/2024 - 22:04:20: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:04:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:04:44: Invalid player id 0
+L 12/30/2024 - 22:04:44: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:04:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:04:45: Invalid player id 0
+L 12/30/2024 - 22:04:45: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:04:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:05:33: Invalid player id 0
+L 12/30/2024 - 22:05:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:05:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:32: Start of error session.
+L 12/30/2024 - 22:07:32: Info (map "deathrun_colors") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:07:32: Invalid player id 0
+L 12/30/2024 - 22:07:32: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:33: Invalid player id 0
+L 12/30/2024 - 22:07:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:33: Invalid player id 0
+L 12/30/2024 - 22:07:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:33: Invalid player id 0
+L 12/30/2024 - 22:07:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:34: Invalid player id 0
+L 12/30/2024 - 22:07:34: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:34: Invalid player id 0
+L 12/30/2024 - 22:07:34: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:36: Invalid player id 0
+L 12/30/2024 - 22:07:36: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:37: Invalid player id 0
+L 12/30/2024 - 22:07:37: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:07:40: Invalid player id 0
+L 12/30/2024 - 22:07:40: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:07:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:21: Start of error session.
+L 12/30/2024 - 22:09:21: Info (map "sj_trix_zone") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:09:21: Invalid player id 0
+L 12/30/2024 - 22:09:21: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:23: Invalid player id 0
+L 12/30/2024 - 22:09:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:24: Invalid player id 0
+L 12/30/2024 - 22:09:24: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:24: Invalid player id 0
+L 12/30/2024 - 22:09:24: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:26: Invalid player id 0
+L 12/30/2024 - 22:09:26: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:27: Invalid player id 0
+L 12/30/2024 - 22:09:27: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:30: Invalid player id 0
+L 12/30/2024 - 22:09:30: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:09:43: Invalid player id 0
+L 12/30/2024 - 22:09:43: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:09:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:10:38: Invalid player id 0
+L 12/30/2024 - 22:10:38: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:10:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:12:34: Invalid player id 0
+L 12/30/2024 - 22:12:34: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:12:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:12:37: Invalid player id 0
+L 12/30/2024 - 22:12:37: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:12:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:15:09: Invalid player id 0
+L 12/30/2024 - 22:15:09: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:15:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:17:51: Invalid player id 0
+L 12/30/2024 - 22:17:51: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:17:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:22:39: Invalid player id 0
+L 12/30/2024 - 22:22:39: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:22:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:24:23: Invalid player id 0
+L 12/30/2024 - 22:24:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:24:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:46: Start of error session.
+L 12/30/2024 - 22:28:46: Info (map "gg_dusted_houses") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:28:46: Invalid player id 0
+L 12/30/2024 - 22:28:46: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:52: Invalid player id 0
+L 12/30/2024 - 22:28:52: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:53: Invalid player id 0
+L 12/30/2024 - 22:28:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:53: Invalid player id 0
+L 12/30/2024 - 22:28:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:54: Invalid player id 0
+L 12/30/2024 - 22:28:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:54: Invalid player id 0
+L 12/30/2024 - 22:28:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:55: Invalid player id 0
+L 12/30/2024 - 22:28:55: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:28:56: Invalid player id 0
+L 12/30/2024 - 22:28:56: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:28:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:29:08: Invalid player id 0
+L 12/30/2024 - 22:29:08: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:29:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:29:11: Invalid player id 0
+L 12/30/2024 - 22:29:11: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:29:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:34:23: Invalid player id 0
+L 12/30/2024 - 22:34:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:34:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:39:05: Invalid player id 0
+L 12/30/2024 - 22:39:05: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:39:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:39:24: Invalid player id 0
+L 12/30/2024 - 22:39:24: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:39:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:40:09: Invalid player id 0
+L 12/30/2024 - 22:40:09: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:40:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:28: String formatted incorrectly - parameter 11 (total 10)
+L 12/30/2024 - 22:54:28: [AMXX] Run time error 25 (plugin "gungame.amxx") - debug not enabled!
+L 12/30/2024 - 22:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:55: Start of error session.
+L 12/30/2024 - 22:54:55: Info (map "de_inferno2") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:54:55: Invalid player id 0
+L 12/30/2024 - 22:54:55: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:56: Invalid player id 0
+L 12/30/2024 - 22:54:56: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:56: Invalid player id 0
+L 12/30/2024 - 22:54:56: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:57: Invalid player id 0
+L 12/30/2024 - 22:54:57: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:57: Invalid player id 0
+L 12/30/2024 - 22:54:57: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:54:58: Invalid player id 0
+L 12/30/2024 - 22:54:58: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:54:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:55:00: Invalid player id 0
+L 12/30/2024 - 22:55:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:55:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:55:00: Invalid player id 0
+L 12/30/2024 - 22:55:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:55:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:55:45: Invalid player id 0
+L 12/30/2024 - 22:55:45: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:55:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:26: Start of error session.
+L 12/30/2024 - 22:56:26: Info (map "jb_minecraft_csgo") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:56:26: Invalid player id 0
+L 12/30/2024 - 22:56:26: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:27: Invalid player id 0
+L 12/30/2024 - 22:56:27: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:27: Invalid player id 0
+L 12/30/2024 - 22:56:27: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:27: Invalid player id 0
+L 12/30/2024 - 22:56:27: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:27: Invalid player id 0
+L 12/30/2024 - 22:56:27: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:29: Invalid player id 0
+L 12/30/2024 - 22:56:29: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:37: Invalid player id 0
+L 12/30/2024 - 22:56:37: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:56:59: Invalid player id 0
+L 12/30/2024 - 22:56:59: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:56:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:57:41: Invalid player id 0
+L 12/30/2024 - 22:57:41: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:57:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:57:58: Start of error session.
+L 12/30/2024 - 22:57:58: Info (map "rubaka_orange_x") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 22:57:58: Invalid player id 0
+L 12/30/2024 - 22:57:58: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:57:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:00: Invalid player id 0
+L 12/30/2024 - 22:58:00: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:01: Invalid player id 0
+L 12/30/2024 - 22:58:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:01: Invalid player id 0
+L 12/30/2024 - 22:58:01: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:02: Invalid player id 0
+L 12/30/2024 - 22:58:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:02: Invalid player id 0
+L 12/30/2024 - 22:58:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:02: Invalid player id 0
+L 12/30/2024 - 22:58:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:02: Invalid player id 0
+L 12/30/2024 - 22:58:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:03: Invalid player id 0
+L 12/30/2024 - 22:58:03: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:05: Invalid player id 0
+L 12/30/2024 - 22:58:05: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 22:58:05: Invalid player id 0
+L 12/30/2024 - 22:58:05: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 22:58:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:07:03: Invalid player id 0
+L 12/30/2024 - 23:07:03: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:07:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:19:50: Start of error session.
+L 12/30/2024 - 23:19:50: Info (map "zm_ice_attack") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 23:19:50: Invalid player id 0
+L 12/30/2024 - 23:19:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:19:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:19:52: Invalid player id 0
+L 12/30/2024 - 23:19:52: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:19:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:19:53: Invalid player id 0
+L 12/30/2024 - 23:19:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:19:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:19:55: Invalid player id 0
+L 12/30/2024 - 23:19:55: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:19:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:20:02: Invalid player id 0
+L 12/30/2024 - 23:20:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:20:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:20:06: Invalid player id 0
+L 12/30/2024 - 23:20:06: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:20:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:22:18: String formatted incorrectly - parameter 6 (total 5)
+L 12/30/2024 - 23:22:18: [AMXX] Run time error 25 (plugin "adminhelp.amxx") - debug not enabled!
+L 12/30/2024 - 23:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:22:25: String formatted incorrectly - parameter 6 (total 5)
+L 12/30/2024 - 23:22:25: [AMXX] Run time error 25 (plugin "adminhelp.amxx") - debug not enabled!
+L 12/30/2024 - 23:22:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:22:42: String formatted incorrectly - parameter 6 (total 5)
+L 12/30/2024 - 23:22:42: [AMXX] Run time error 25 (plugin "adminhelp.amxx") - debug not enabled!
+L 12/30/2024 - 23:22:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:23:00: String formatted incorrectly - parameter 6 (total 5)
+L 12/30/2024 - 23:23:00: [AMXX] Run time error 25 (plugin "adminhelp.amxx") - debug not enabled!
+L 12/30/2024 - 23:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:23:50: Invalid player id 0
+L 12/30/2024 - 23:23:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:23:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:31:23: Invalid player id 0
+L 12/30/2024 - 23:31:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:31:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:34:14: Invalid player id 0
+L 12/30/2024 - 23:34:14: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:34:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:37:11: Invalid player id 0
+L 12/30/2024 - 23:37:11: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:37:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:39:58: Invalid player id 0
+L 12/30/2024 - 23:39:58: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:39:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:20: Start of error session.
+L 12/30/2024 - 23:40:20: Info (map "fy_iceworld2k") (file "addons/amxmodx/logs/error_20241230.log")
+L 12/30/2024 - 23:40:20: Invalid player id 0
+L 12/30/2024 - 23:40:20: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:22: Invalid player id 0
+L 12/30/2024 - 23:40:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:22: Invalid player id 0
+L 12/30/2024 - 23:40:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:22: Invalid player id 0
+L 12/30/2024 - 23:40:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:22: Invalid player id 0
+L 12/30/2024 - 23:40:22: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:41: Invalid player id 0
+L 12/30/2024 - 23:40:41: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:40:44: Invalid player id 0
+L 12/30/2024 - 23:40:44: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:40:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:47:46: Invalid player id 0
+L 12/30/2024 - 23:47:46: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:47:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:52:40: Invalid player id 0
+L 12/30/2024 - 23:52:40: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:52:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:54:02: Invalid player id 0
+L 12/30/2024 - 23:54:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:54:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/30/2024 - 23:58:59: Invalid player id 0
+L 12/30/2024 - 23:58:59: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 12/30/2024 - 23:58:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

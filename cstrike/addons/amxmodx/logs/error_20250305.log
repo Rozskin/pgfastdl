@@ -1,0 +1,40 @@
+L 03/05/2025 - 00:18:18: Start of error session.
+L 03/05/2025 - 00:18:18: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20250305.log")
+L 03/05/2025 - 00:18:18: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 03/05/2025 - 00:18:18: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 03/05/2025 - 00:18:18: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 03/05/2025 - 00:18:18: Called dynanative into a paused plugin.
+L 03/05/2025 - 00:18:18: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 03/05/2025 - 00:18:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/05/2025 - 22:36:06: Start of error session.
+L 03/05/2025 - 22:36:06: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250305.log")
+L 03/05/2025 - 22:36:06: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 03/05/2025 - 22:36:06: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 03/05/2025 - 22:36:06: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 03/05/2025 - 22:36:06: Called dynanative into a paused plugin.
+L 03/05/2025 - 22:36:06: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 03/05/2025 - 22:36:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/05/2025 - 22:55:30: Start of error session.
+L 03/05/2025 - 22:55:30: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20250305.log")
+L 03/05/2025 - 22:55:30: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 03/05/2025 - 22:55:30: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 03/05/2025 - 22:55:30: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 03/05/2025 - 22:55:30: Called dynanative into a paused plugin.
+L 03/05/2025 - 22:55:30: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 03/05/2025 - 22:55:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/05/2025 - 23:14:41: Start of error session.
+L 03/05/2025 - 23:14:41: Info (map "de_chateau") (file "addons/amxmodx/logs/error_20250305.log")
+L 03/05/2025 - 23:14:41: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 03/05/2025 - 23:14:41: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 03/05/2025 - 23:14:41: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 03/05/2025 - 23:14:41: Called dynanative into a paused plugin.
+L 03/05/2025 - 23:14:41: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 03/05/2025 - 23:14:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/05/2025 - 23:56:48: Start of error session.
+L 03/05/2025 - 23:56:48: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250305.log")
+L 03/05/2025 - 23:56:48: [AMXX] Plugin ("cucarachas_main.amxx") is setting itself as failed.
+L 03/05/2025 - 23:56:48: [AMXX] Plugin says: Utiliza el Map Tool para adaptar este mapa a Cuca Mod.
+L 03/05/2025 - 23:56:48: [AMXX] Run time error 1 (plugin "cucarachas_main.amxx") - forced exit
+L 03/05/2025 - 23:56:48: Called dynanative into a paused plugin.
+L 03/05/2025 - 23:56:48: [AMXX] Run time error 10 (plugin "cucarachas_extras.amxx") (native "cm_register_extra_item") - debug not enabled!
+L 03/05/2025 - 23:56:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

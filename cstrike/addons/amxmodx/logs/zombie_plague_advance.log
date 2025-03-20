@@ -1,0 +1,109 @@
+L 12/25/2024 - 23:34:59: Log file started (file "cstrike/addons/amxmodx/logs/zombie_plague_advance.log") (game "cstrike") (amx "1.10.0.5467")
+L 12/25/2024 - 23:34:59: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_DISINFECT (Playe
+L 12/25/2024 - 23:35:10: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_SURVIVAL (Player
+L 12/25/2024 - 23:35:19: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_SNIPER (Players:
+L 12/25/2024 - 23:35:28: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_ASSASSIN (Player
+L 12/25/2024 - 23:35:30: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - Narco$$$ ML_NOTFOUND: CMD_ASSASSIN (Players
+L 12/25/2024 - 23:36:16: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_NEMESIS (Players
+L 12/25/2024 - 23:36:34: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_ASSASSIN (Player
+L 12/25/2024 - 23:36:49: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - MegaXZero ML_NOTFOUND: CMD_NEMESIS (Players
+L 12/25/2024 - 23:41:19: ADMIN  <><0.0.0.0> - Narco$$$ ML_NOTFOUND: CMD_SURVIVAL (Players: 4/32)
+L 12/25/2024 - 23:43:46: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - andleo ML_NOTFOUND: CMD_INFECT (Players: 4/
+L 12/25/2024 - 23:44:11: ADMIN MegaXZero <STEAM_0:0:66435771><184.182.116.101> - andleo ML_NOTFOUND: CMD_NEMESIS (Players: 4
+L 12/26/2024 - 19:57:54: ADMIN face <STEAM_0:0:133115892><38.25.31.18> - face turned into a Nemesis (Players: 1/32)
+L 12/26/2024 - 19:58:59: ADMIN face <STEAM_0:0:133115892><38.25.31.18> - face turned into a Zombie (Players: 1/32)
+L 12/26/2024 - 19:59:00: ADMIN face <STEAM_0:0:133115892><38.25.31.18> - face turned into a Nemesis (Players: 1/32)
+L 12/26/2024 - 20:00:32: ADMIN face <STEAM_0:0:133115892><38.25.31.18> - face turned into a Zombie (Players: 1/32)
+L 12/27/2024 - 01:04:34: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - _M_ turned into a Nemesis (Players: 5/32)
+L 12/27/2024 - 01:07:47: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned into a Zombie (Players: 5/32)
+L 12/27/2024 - 01:07:55: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Rozskin turned into a Zombie (Players: 5/32)
+L 12/27/2024 - 01:07:56: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned back to Human (Players: 5/32)
+L 12/27/2024 - 01:08:02: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - _M_ turned back to Human (Players: 5/32)
+L 12/27/2024 - 01:08:02: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - _M_ turned into a Zombie (Players: 5/32)
+L 12/28/2024 - 12:23:08: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned into a Survivor (Players: 1/32)
+L 12/28/2024 - 12:23:24: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned into a Sniper (Players: 1/32)
+L 12/28/2024 - 12:23:54: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned into a Nemesis (Players: 1/32)
+L 12/28/2024 - 17:18:35: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - _M_ turned back to Human (Players: 3/32)
+L 12/28/2024 - 17:18:43: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned into a Zombie (Players: 3/32)
+L 12/28/2024 - 17:19:28: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Frost turned into a Zombie (Players: 3/32)
+L 12/28/2024 - 17:19:48: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Frost respawned (Players: 3/32)
+L 12/28/2024 - 17:19:51: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Frost turned into a Zombie (Players: 3/32)
+L 12/28/2024 - 17:19:52: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Crash!! turned back to Human (Players: 3/32)
+L 12/28/2024 - 17:23:07: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Frost turned into a Zombie (Players: 3/32)
+L 12/28/2024 - 17:23:16: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - _M_ turned into a Zombie (Players: 3/32)
+L 12/28/2024 - 17:42:43: ADMIN  <><0.0.0.0> - Frost turned into a Nemesis (Players: 3/32)
+L 12/29/2024 - 01:30:08: ADMIN  <><0.0.0.0> - Crash!! turned into a Zombie (Players: 9/32)
+L 12/29/2024 - 01:31:34: ADMIN  <><0.0.0.0> - Crash!! turned into a Zombie (Players: 9/32)
+L 12/29/2024 - 01:37:05: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Rozskin respawned (Players: 8/32)
+L 12/29/2024 - 01:37:34: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Rozskin respawned (Players: 8/32)
+L 12/29/2024 - 01:37:57: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:38:04: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:38:17: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Rozskin respawned (Players: 7/32)
+L 12/29/2024 - 01:38:28: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:38:33: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - andleo respawned (Players: 7/32)
+L 12/29/2024 - 01:38:40: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:38:55: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:39:07: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:39:22: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Kev respawned (Players: 7/32)
+L 12/29/2024 - 01:39:22: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:39:39: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - andleo respawned (Players: 7/32)
+L 12/29/2024 - 01:39:39: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Rozskin respawned (Players: 7/32)
+L 12/29/2024 - 01:39:40: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:39:54: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/29/2024 - 01:39:54: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:40:04: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - andleo respawned (Players: 7/32)
+L 12/29/2024 - 01:40:05: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:40:05: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Kev respawned (Players: 7/32)
+L 12/29/2024 - 01:40:17: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - andleo respawned (Players: 7/32)
+L 12/29/2024 - 01:40:17: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:40:18: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Kev respawned (Players: 7/32)
+L 12/29/2024 - 01:40:24: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Jheraa respawned (Players: 7/32)
+L 12/29/2024 - 01:40:30: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - andleo respawned (Players: 7/32)
+L 12/29/2024 - 01:40:31: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Grotesque respawned (Players: 7/32)
+L 12/29/2024 - 01:40:50: ADMIN Crash!! <STEAM_0:0:74976194><181.66.150.5> - Bolo respawned (Players: 7/32)
+L 12/30/2024 - 23:31:57: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - RonaldM turned into a Survivor (Players: 4/32)
+L 12/30/2024 - 23:32:05: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - andleo turned into a Nemesis (Players: 4/32)
+L 12/30/2024 - 23:32:06: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Narco$$$ turned into a Nemesis (Players: 4/32)
+L 12/30/2024 - 23:32:06: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 4/32)
+L 12/30/2024 - 23:32:27: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - start Swarm Mode (Players: 4/32)
+L 12/30/2024 - 23:34:07: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into an Assassin (Players: 4/32)
+L 12/30/2024 - 23:35:53: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - andleo turned into a Nemesis (Players: 5/32)
+L 12/30/2024 - 23:36:14: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - RonaldM turned into a Survivor (Players: 5/32)
+L 12/30/2024 - 23:36:15: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - semental123 turned into a Survivor (Players: 5/32)
+L 01/08/2025 - 00:03:53: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Nemesis (Players: 1/3
+L 01/08/2025 - 00:04:52: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into an Assassin (Players: 1
+L 01/08/2025 - 00:06:34: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Survivor (Players: 1/
+L 01/08/2025 - 00:06:47: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Sniper (Players: 1/32
+L 01/08/2025 - 00:07:59: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - start Assassin vs Snipers Mode (Players: 2/3
+L 01/08/2025 - 00:14:47: ADMIN Speed <STEAM_0:0:147512526><179.6.166.44> - start Armageddon Mode (Players: 3/32)
+L 01/08/2025 - 00:15:17: ADMIN Speed <STEAM_0:0:147512526><179.6.166.44> - start Assassin vs Snipers Mode (Players: 3/32)
+L 01/08/2025 - 00:18:43: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - perrito turned into a Zombie (Players: 2/32)
+L 01/08/2025 - 00:19:42: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - perrito turned into a Nemesis (Players: 2/32
+L 01/08/2025 - 00:20:05: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - perrito turned into a Nemesis (Players: 2/32
+L 01/08/2025 - 00:20:47: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Sniper (Players: 2/32
+L 01/08/2025 - 00:23:04: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Nemesis (Players: 1/3
+L 01/08/2025 - 00:26:50: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into an Assassin (Players: 1
+L 01/08/2025 - 22:33:42: ADMIN  <><0.0.0.0> - face turned into a Nemesis (Players: 8/32)
+L 01/08/2025 - 22:35:05: ADMIN Rozskin <STEAM_0:1:85202636><192.168.18.10> - Okz :) turned into an Assassin (Players: 8/32)
+L 01/08/2025 - 22:42:49: ADMIN Okz :) <STEAM_0:1:639207163><201.240.161.89> - start Swarm Mode (Players: 6/32)
+L 01/08/2025 - 22:45:15: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Sniper (Players: 5/32
+L 01/08/2025 - 22:46:14: ADMIN Okz :) <STEAM_0:1:639207163><201.240.161.89> - Rozskin turned into an Assassin (Players: 5/32
+L 01/08/2025 - 22:47:49: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Nemesis (Players: 6/3
+L 01/08/2025 - 22:48:38: ADMIN andleo <STEAM_0:1:106638094><38.250.131.81> - El peruano 2.0 turned into a Survivor (Players:
+L 01/08/2025 - 22:49:43: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - start Plague Mode (Players: 6/32)
+L 01/08/2025 - 22:50:46: ADMIN andleo <STEAM_0:1:106638094><38.250.131.81> - Rozskin turned into a Survivor (Players: 6/32)
+L 01/08/2025 - 22:50:47: ADMIN andleo <STEAM_0:1:106638094><38.250.131.81> - face turned into a Survivor (Players: 6/32)
+L 01/08/2025 - 22:50:47: ADMIN andleo <STEAM_0:1:106638094><38.250.131.81> - Narco$$$ turned into a Survivor (Players: 6/32)
+L 01/08/2025 - 22:50:47: ADMIN andleo <STEAM_0:1:106638094><38.250.131.81> - El peruano 2.0 turned into a Survivor (Players:
+L 01/09/2025 - 03:14:35: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into an Assassin (Players: 1
+L 01/09/2025 - 03:15:18: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Nemesis (Players: 1/3
+L 01/09/2025 - 03:16:41: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Survivor (Players: 1/
+L 01/09/2025 - 03:16:53: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Sniper (Players: 1/32
+L 01/09/2025 - 03:21:48: ADMIN Narco$$$ <STEAM_0:0:88013412><190.237.204.190> - Narco$$$ turned into a Nemesis (Players: 1/3
+L 02/17/2025 - 19:52:36: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 1/32)
+L 02/17/2025 - 19:54:10: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 2/32)
+L 02/17/2025 - 19:54:54: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into an Assassin (Players: 3/32)
+L 02/21/2025 - 19:12:15: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 1/32)
+L 02/21/2025 - 19:14:00: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 1/32)
+L 02/21/2025 - 19:16:14: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 1/32)
+L 02/21/2025 - 19:16:49: ADMIN Kev <STEAM_0:1:458940899><38.43.130.212> - Kev turned into a Nemesis (Players: 1/32)

@@ -1,0 +1,524 @@
+[en]
+
+REAMX_SUPER_NO_PLAYERS = No players in such team!
+REAMX_SUPER_AMOUNT_GREATER = Amount to give must be greater than zero!
+REAMX_SUPER_AMOUNT_GREATER_NEG = Amount to give must be zero or higher
+
+REAMX_SUPER_HEAL_TEAM_P = ^3Admin ^4%n ^1gave ^3%d HP ^1to ^4%s ^3players.
+REAMX_SUPER_HEAL_TEAM_C = You gave %d HP to %s players. 
+REAMX_SUPER_HEAL_PLAYER_P = ^3Admin ^4%n ^1gave ^3%d HP ^1to ^4%n.
+REAMX_SUPER_HEAL_PLAYER_C = You gave %d HP to %n.
+
+REAMX_SUPER_ARMOR_TEAM_P = ^3Admin ^4%n ^1gave ^3%d armor ^1to ^4%s ^3players.
+REAMX_SUPER_ARMOR_TEAM_C = You gave %d armor to %s players. 
+REAMX_SUPER_ARMOR_PLAYER_P = ^3Admin ^4%n ^1gave ^3%d armor ^1to ^4%n.
+REAMX_SUPER_ARMOR_PLAYER_C = You gave %d armor to %n.
+
+REAMX_SUPER_TELEPORT_TEAM_P = ^3Admin ^4%n ^1teleported ^3%s ^1players.
+REAMX_SUPER_TELEPORT_TEAM_C = You teleported %s players.
+REAMX_SUPER_TELEPORT_PLAYER_P = ^3Admin ^4%n ^1teleported ^3%n.
+REAMX_SUPER_TELEPORT_PLAYER_C = You teleported %n.
+
+REAMX_SUPER_USERORIGIN = %n's origin is %0.f x, %0.f y, %0.f z.
+
+REAMX_SUPER_ALLTALK_P = ^3Admin ^4%n ^1set ^3sv_alltalk ^1to ^4%i
+REAMX_SUPER_ALLTALK_C = You set sv_alltalk to %i
+
+REAMX_SUPER_GRAVITY_P = ^3Admin ^4%n ^1set ^3sv_gravity ^1to ^4%i
+REAMX_SUPER_GRAVITY_C = You set sv_gravity to %i
+
+REAMX_SUPER_BURY_TEAM_P = ^3Admin ^4%n ^1has buried ^3%s ^4players.
+REAMX_SUPER_BURY_TEAM_C = You have buried %s players.
+REAMX_SUPER_BURY_PLAYER_P = ^3Admin ^4%n ^1has buried ^3%n.
+REAMX_SUPER_BURY_PLAYER_C = You have buried %n.
+
+REAMX_SUPER_UNBURY_TEAM_P = ^3Admin ^4%n ^1has unburied ^3%s ^4players.
+REAMX_SUPER_UNBURY_TEAM_C = You have unburied %s players.
+REAMX_SUPER_UNBURY_PLAYER_P = ^3Admin ^4%n ^1has unburied ^3%n.
+REAMX_SUPER_UNBURY_PLAYER_C = You have unburied %n.
+
+REAMX_SUPER_DISARM_TEAM_P = ^3Admin ^4%n ^1has disarmed ^3%s ^4players.
+REAMX_SUPER_DISARM_TEAM_C = You have disarmed %s players.
+REAMX_SUPER_DISARM_PLAYER_P = ^3Admin ^4%n ^1has disarmed ^3%n.
+REAMX_SUPER_DISARM_PLAYER_C = You have disarmed %n.
+
+REAMX_SUPER_SLAY2_TEAM_P = ^3Admin ^4%n ^1slayed ^3%s ^4players.
+REAMX_SUPER_SLAY2_TEAM_C = You slayed %s players.
+REAMX_SUPER_SLAY2_PLAYER_P = ^3Admin ^4%n ^1slayed ^3%n.
+REAMX_SUPER_SLAY2_PLAYER_C = You slayed %n.
+
+REAMX_SUPER_ROCKET_TEAM_P = ^3Admin ^4%n ^1made rockets out of ^3%s ^4players.
+REAMX_SUPER_ROCKET_TEAM_C = You made rockets out of %s players.
+REAMX_SUPER_ROCKET_PLAYER_P = ^3Admin ^4%n ^1made rockets out of ^3%n.
+REAMX_SUPER_ROCKET_PLAYER_C = You made rockets out of %n.
+
+REAMX_SUPER_UBERSLAP_PLAYER_P = ^3Admin ^4%n ^1uberslapped ^3%n.
+REAMX_SUPER_UBERSLAP_PLAYER_C = You uberslapped %n.
+
+REAMX_SUPER_SET_PASSWORD_P = ^3Admin ^4%n ^1has set a ^3server password.
+REAMX_SUPER_SET_PASSWORD_C = You have set a server password.
+
+REAMX_SUPER_REMOVE_PASSWORD_P = ^3Admin ^4%n ^1has removed ^3the server password.
+REAMX_SUPER_REMOVE_PASSWORD_C = You have removed the server password.
+
+REAMX_SUPER_REVIVE_TEAM_P = ^3Admin ^4%n ^1revived ^3%s ^4players.
+REAMX_SUPER_REVIVE_TEAM_C = You revived %s players.
+REAMX_SUPER_REVIVE_PLAYER_P = ^3Admin ^4%n ^1revived ^3%n.
+REAMX_SUPER_REVIVE_PLAYER_C = You revived %n.
+
+REAMX_SUPER_NO_KICK_STEAM = You can't kick Steam player!
+REAMX_SUPER_QUIT_PLAYER_P = ^3Admin ^4%n ^1made ^3%n ^4quit the game.
+REAMX_SUPER_QUIT_PLAYER_C = You made %n quit the game.
+
+REAMX_SUPER_WEAPON_TEAM_P = ^3Admin ^4%n ^1gave ^3%i ^1to ^3%s players.
+REAMX_SUPER_WEAPON_TEAM_C = You gave %i to %s players.
+REAMX_SUPER_WEAPON_PLAYER_P = ^3Admin ^4%n ^1gave ^3%i ^1to ^3%n.
+REAMX_SUPER_WEAPON_PLAYER_C = You gave %i to %n.
+
+REAMX_SUPER_GODMODE_TEAM_P = ^3Admin ^4%n ^1set godmode ^3%i ^1on ^4%s players.
+REAMX_SUPER_GODMODE_TEAM_C = You set godmode %i on %s players.
+REAMX_SUPER_GODMODE_PLAYER_P = ^3Admin ^4%n ^1set godmode ^3%i ^1on ^4%n.
+REAMX_SUPER_GODMODE_PLAYER_C = You set godmode %i on %n.
+
+REAMX_SUPER_NOCLIP_TEAM_P = ^3Admin ^4%n ^1set noclip ^3%i ^1on ^4%s players.
+REAMX_SUPER_NOCLIP_TEAM_C = You set noclip %i on %s players.
+REAMX_SUPER_NOCLIP_PLAYER_P = ^3Admin ^4%n ^1set noclip ^3%i ^1on ^4%n.
+REAMX_SUPER_NOCLIP_PLAYER_C = You set noclip %i on %n.
+
+REAMX_SUPER_DRUG_TEAM_P = ^3Admin ^4%n ^1gave drugs to ^3%s ^4players.
+REAMX_SUPER_DRUG_TEAM_C = You gave drugs to %s players.
+REAMX_SUPER_DRUG_PLAYER_P = ^3Admin ^4%n ^1gave drugs to ^3%n.
+REAMX_SUPER_DRUG_PLAYER_C = You gave drugs to %n.
+
+REAMX_SUPER_SPEED_TEAM_P = ^3Admin ^4%n ^1set ^3speed^4 %i ^1for ^4%s players.
+REAMX_SUPER_SPEED_TEAM_C = You set speed %i for %s players.
+REAMX_SUPER_SPEED_PLAYER_P = ^3Admin ^4%n ^1set ^3speed^4 %i ^1for ^4%n.
+REAMX_SUPER_SPEED_PLAYER_C = You set speed %i for %n.
+
+REAMX_SUPER_GLOW_INVALID = Invalid glow.
+REAMX_SUPER_GLOW_TEAM_P = ^3Admin ^4%n ^1set glowing on ^3%s players.
+REAMX_SUPER_GLOW_TEAM_C = You set glowing on %s players.
+REAMX_SUPER_GLOW_PLAYER_P = ^3Admin ^4%n ^1set glowing on ^3%n.
+REAMX_SUPER_GLOW_PLAYER_C = You set glowing on %n.
+REAMX_SUPER_UNGLOW_TEAM_P = ^3Admin ^4%n ^1removed glowing on ^3%s players.
+REAMX_SUPER_UNGLOW_TEAM_C = You removed glowing on %s players.
+REAMX_SUPER_UNGLOW_PLAYER_P = ^3Admin ^4%n ^1removed glowing on ^3%n.
+REAMX_SUPER_UNGLOW_PLAYER_C = You removed glowing on %n.
+
+REAMX_SUPER_FLASH_TEAM_P = ^3Admin ^4%n ^1flashbanged ^3%s ^4players.
+REAMX_SUPER_FLASH_TEAM_C = You flashbanged %s players.
+REAMX_SUPER_FLASH_PLAYER_P = ^3Admin ^4%n ^1flashbanged ^3%n.
+REAMX_SUPER_FLASH_PLAYER_C = You flashbanged %n.
+
+REAMX_SUPER_TEAM_INVALID = Invalid team specified! Valid teams are: T, CT, Auto, Spec
+REAMX_SUPER_SWAP_ERROR1 = You can't swap players that are on same team!
+REAMX_SUPER_SWAP_ERROR2 = You can't swap players that are not in a team!
+REAMX_SUPER_TEAM_P = ^3Admin ^4%n ^1successfully transfered ^3%n ^1to ^4the %s team.
+REAMX_SUPER_TEAM_C = You successfully transfered %n to the %s team.
+REAMX_SUPER_SWAP_P = ^3Admin ^4%n ^1successfully swapped ^3%n ^1with ^4%n.
+REAMX_SUPER_SWAP_C = You successfully swapped %n with %n.
+
+REAMX_SUPER_UNAMMO_TEAM_P = ^3Admin ^4%n ^1set unlimited ammo^3 %i ^1for ^4%s players.
+REAMX_SUPER_UNAMMO_TEAM_C = You set unlimited ammo %i for %s players.
+REAMX_SUPER_UNAMMO_PLAYER_P = ^3Admin ^4%n ^1set unlimited ammo^3 %i ^1for ^4%n.
+REAMX_SUPER_UNAMMO_PLAYER_C = You set unlimited ammo %i for %n.
+
+REAMX_SUPER_EXTEND_ERROR1 = No user may extend any map more than %i times.
+REAMX_SUPER_EXTEND_ERROR2 = No map may be extended longer than %i minutes at a time.
+REAMX_SUPER_EXTEND_P = ^3Admin ^4%n ^1has extended the map time by ^3%i minutes.
+REAMX_SUPER_EXTEND_C = You have extended the map time by %i minutes.
+
+REAMX_SUPER_GIVEMONEY_TEAM_P = ^3Admin ^4%n ^1gave $^3%i ^1to ^4%s players.
+REAMX_SUPER_GIVEMONEY_TEAM_C = You gave $%i to %s players.
+REAMX_SUPER_GIVEMONEY_PLAYER_P = ^3Admin ^4%n ^1gave $^3%i ^1to ^4%n.
+REAMX_SUPER_GIVEMONEY_PLAYER_C = You gave $%i to %n.
+
+REAMX_SUPER_TAKEMONEY_TEAM_P = ^3Admin ^4%n ^1took $^3%i ^1from ^4%s players.
+REAMX_SUPER_TAKEMONEY_TEAM_C = You took $%i from %s players.
+REAMX_SUPER_TAKEMONEY_PLAYER_P = ^3Admin ^4%n ^1took $^3%i ^1from ^4%n.
+REAMX_SUPER_TAKEMONEY_PLAYER_C = You took $%i from %n.
+
+REAMX_SUPER_FREEZE_TEAM_P = ^3Admin ^4%n ^1frozen ^3%s players.
+REAMX_SUPER_FREEZE_TEAM_C = You frozen %s players.
+REAMX_SUPER_FREEZE_PLAYER_P = ^3Admin ^4%n ^1frozen ^3%n.
+REAMX_SUPER_FREEZE_PLAYER_C = You frozen %n.
+
+REAMX_SUPER_UNFREEZE_TEAM_P = ^3Admin ^4%n ^1unfrozen ^3%s players.
+REAMX_SUPER_UNFREEZE_TEAM_C = You unfrozen %s players.
+REAMX_SUPER_UNFREEZE_PLAYER_P = ^3Admin ^4%n ^1unfrozen ^3%n.
+REAMX_SUPER_UNFREEZE_PLAYER_C = You unfrozen %n.
+
+REAMX_SUPER_INVISIBLE_TEAM_P = ^3Admin ^4%n ^1set invisible^3 %i ^1for ^4%s players.
+REAMX_SUPER_INVISIBLE_TEAM_C = You set invisible %i for %s players.
+REAMX_SUPER_INVISIBLE_PLAYER_P = ^3Admin ^4%n ^1set invisible^3 %i ^1for ^4%n.
+REAMX_SUPER_INVISIBLE_PLAYER_C = You set invisible %i for %n.
+
+REAMX_SUPER_FIRE = fired
+REAMX_SUPER_UNFIRE = unfired
+REAMX_SUPER_FIRE_TEAM_P = ^3Admin ^4%n ^1%s ^3%s players.
+REAMX_SUPER_FIRE_TEAM_C = You %s %s players.
+REAMX_SUPER_FIRE_PLAYER_P = ^3Admin ^4%n ^1%s ^3%n.
+REAMX_SUPER_FIRE_PLAYER_C = You %s %n.
+REAMX_SUPER_CATCH_FIRE = Oh no! %n has caught %n on fire
+
+REAMX_SUPER_DOUBLEJUMP_TEAM_P = ^3Admin ^4%n ^1set multijump^3 %i ^1for ^4%s players.
+REAMX_SUPER_DOUBLEJUMP_TEAM_C = You set multijump %i for %s players.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_P = ^3Admin ^4%n ^1set multijump^3 %i ^1for ^4%n.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_C = You set multijump %i for %n.
+
+REAMX_SUPER_TEAMSWAP_P = ^3Admin ^4%n ^1successfully swapped the teams.
+REAMX_SUPER_TEAMSWAP_C = You successfully swapped the teams.
+
+REAMX_SUPER_HRESPAWN_NO_ALIVE = He is not dead anyway.
+REAMX_SUPER_HRESPAWN_PLAYER_P = ^3Admin ^4%n ^1revived ^3%n ^1in the place where he died last.
+REAMX_SUPER_HRESPAWN_PLAYER_C = You revived %n in the place where he died last.
+
+[tr]
+
+REAMX_SUPER_NO_PLAYERS = Boyle bir takim yok!
+REAMX_SUPER_AMOUNT_GREATER = Sifirdan yuksek bir deger girmelisin!
+REAMX_SUPER_AMOUNT_GREATER_NEG = Verdigin sayi sifir veya ustu olmalidir!
+
+REAMX_SUPER_HEAL_TEAM_P = ^3%n ^1isimli ^4yetkili ^1tarafindan ^3%d HP ^4%s ^1takimina verildi.
+REAMX_SUPER_HEAL_TEAM_C = %d HP %s takimina verdin.
+REAMX_SUPER_HEAL_PLAYER_P = ^3%n ^1isimli ^4yetkili ^1tarafindan ^3%d HP ^4%n ^1isimli oyuncuya verildi.
+REAMX_SUPER_HEAL_PLAYER_C = %d HP %n isimli oyuncuya verdin.
+
+REAMX_SUPER_ARMOR_TEAM_P = ^3%n ^1isimli ^4yetkili ^1tarafindan ^3%d armor ^4%s ^1takimina verildi.
+REAMX_SUPER_ARMOR_TEAM_C = %d armor %s takimina verdin.
+REAMX_SUPER_ARMOR_PLAYER_P = ^3%n ^1isimli ^4yetkili ^1tarafindan ^3%d armor ^4%n ^1isimli oyuncuya verildi.
+REAMX_SUPER_ARMOR_PLAYER_C = %d armor %n isimli oyuncuya verdin.
+
+REAMX_SUPER_TELEPORT_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%n ^1takimini isinladi.
+REAMX_SUPER_TELEPORT_TEAM_C = %n isimli oyuncuyu isinladin.
+REAMX_SUPER_TELEPORT_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1takimini isinladi.
+REAMX_SUPER_TELEPORT_PLAYER_C = %n isimli oyuncuyu isinladin.
+
+REAMX_SUPER_USERORIGIN = %n isimli oyuncunun koordinatlari %0.f x, %0.f y, %0.f z.
+
+REAMX_SUPER_ALLTALK_P = ^3%n ^1isimli ^4yetkili ^3sv_alltalk ^1ayarini ^4%i ^1yapti.
+REAMX_SUPER_ALLTALK_C = sv_alltalk ayarini %i yaptin.
+
+REAMX_SUPER_GRAVITY_P = ^3%n ^1isimli ^4yetkili ^3sv_gravity ^1ayarini ^4%i ^1yapti.
+REAMX_SUPER_GRAVITY_C = sv_gravity ayarini %i yaptin.
+
+REAMX_SUPER_BURY_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini gomdu.
+REAMX_SUPER_BURY_TEAM_C = %s takimini gomdun.
+REAMX_SUPER_BURY_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu gomdu.
+REAMX_SUPER_BURY_PLAYER_C = %n isimli oyuncuyu gomdun.
+
+REAMX_SUPER_UNBURY_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini kaldirdi.
+REAMX_SUPER_UNBURY_TEAM_C = %s takimini kaldirdin.
+REAMX_SUPER_UNBURY_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu kaldirdi.
+REAMX_SUPER_UNBURY_PLAYER_C = %n isimli oyuncuyu kaldirdin.
+
+REAMX_SUPER_DISARM_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takiminin silahlarina el koydu.
+REAMX_SUPER_DISARM_TEAM_C = %s takiminin silahlarina el koydun.
+REAMX_SUPER_DISARM_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncunun silahlarina el koydu.
+REAMX_SUPER_DISARM_PLAYER_C = %n isimli oyuncunun silahlarina el koydun.
+
+REAMX_SUPER_SLAY2_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini oldurdu.
+REAMX_SUPER_SLAY2_TEAM_C = %s takimini oldurdun.
+REAMX_SUPER_SLAY2_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu oldurdu.
+REAMX_SUPER_SLAY2_PLAYER_C = %n isimli oyuncuyu oldurdun.
+
+REAMX_SUPER_ROCKET_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini roketledi.
+REAMX_SUPER_ROCKET_TEAM_C = %s takimini roketledin.
+REAMX_SUPER_ROCKET_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu roketledi.
+REAMX_SUPER_ROCKET_PLAYER_C = %n isimli oyuncuyu roketledin.
+
+REAMX_SUPER_UBERSLAP_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu uberslapladi.
+REAMX_SUPER_UBERSLAP_PLAYER_C = %n isimli oyuncuyu uberslapladin.
+
+REAMX_SUPER_SET_PASSWORD_P = ^3%n ^1isimli ^4yetkili ^3sunucuya ^1sifre koydu.
+REAMX_SUPER_SET_PASSWORD_C = Sunucuya sifre koydun.
+
+REAMX_SUPER_REMOVE_PASSWORD_P = ^3%n ^1isimli ^4yetkili ^3sunucunun ^1sifresini kaldirdi.
+REAMX_SUPER_REMOVE_PASSWORD_C = Sunucunun sifresini kaldirdin.
+
+REAMX_SUPER_REVIVE_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini canlandirdi.
+REAMX_SUPER_REVIVE_TEAM_C = %s takimini canlandirdin.
+REAMX_SUPER_REVIVE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu canlandirdi.
+REAMX_SUPER_REVIVE_PLAYER_C = %n isimli oyuncuyu canlandirdin.
+
+REAMX_SUPER_NO_KICK_STEAM = Steam oyuncusunun oyununu kapatamazsin!
+REAMX_SUPER_QUIT_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncunun oyununu kapatti.
+REAMX_SUPER_QUIT_PLAYER_C = %n isimli oyuncunun oyununu kapattin.
+
+REAMX_SUPER_WEAPON_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%i ^1silahini ^3%s ^4takimina verdi.
+REAMX_SUPER_WEAPON_TEAM_C = %i silahini %s ^4takimina verdin.
+REAMX_SUPER_WEAPON_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%i ^1silahini ^3%n ^1isimli oyuncuya verdi.
+REAMX_SUPER_WEAPON_PLAYER_C = %i silahini %n isimli oyuncuya verdin.
+
+REAMX_SUPER_GODMODE_TEAM_P = ^3%n ^1isimli ^4yetkili ^3olumsuzluk degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_GODMODE_TEAM_C = Olumsuzluk degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_GODMODE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3olumsuzluk degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_GODMODE_PLAYER_C = Olumsuzluk degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_NOCLIP_TEAM_P = ^3%n ^1isimli ^4yetkili ^3noclip degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_NOCLIP_TEAM_C = Noclip degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_NOCLIP_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3Noclip degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_NOCLIP_PLAYER_C = Noclip degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_DRUG_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^4takimina drug verdi.
+REAMX_SUPER_DRUG_TEAM_C = %s takimina drug verdin.
+REAMX_SUPER_DRUG_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuya drug verdi.
+REAMX_SUPER_DRUG_PLAYER_C = %n isimli oyuncuya drug verdin.
+
+REAMX_SUPER_SPEED_TEAM_P = ^3%n ^1isimli ^4yetkili ^3hizli kosma degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_SPEED_TEAM_C = Hizli kosma degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_SPEED_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3hizli kosma degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_SPEED_PLAYER_C = Hizli Kosma degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_GLOW_INVALID = Boyle bir renk bulunamadi.
+REAMX_SUPER_GLOW_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^4takimina glow verdi.
+REAMX_SUPER_GLOW_TEAM_C = %s takimina glow verdin.
+REAMX_SUPER_GLOW_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuya glow verdi.
+REAMX_SUPER_GLOW_PLAYER_C = %n isimli oyuncuya glow verdin.
+REAMX_SUPER_UNGLOW_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takiminin glowunu kapatti.
+REAMX_SUPER_UNGLOW_TEAM_C = %s takiminin glowunu kapattin.
+REAMX_SUPER_UNGLOW_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncunun glowunu kapattin.
+REAMX_SUPER_UNGLOW_PLAYER_C = %n isimli oyuncunun glowunu kapattin.
+
+REAMX_SUPER_FLASH_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini kor etti.
+REAMX_SUPER_FLASH_TEAM_C = %s takimini kor ettin.
+REAMX_SUPER_FLASH_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu kor etti.
+REAMX_SUPER_FLASH_PLAYER_C = %n isimli oyuncuyu kor ettin.
+
+REAMX_SUPER_TEAM_INVALID = Boyle bir takim bulunamadi! Var olan takimlar: T, CT, Auto, Spec
+REAMX_SUPER_SWAP_ERROR1 = Ayni takimda olan kisilerin takimlarini degistiremezsin.
+REAMX_SUPER_SWAP_ERROR2 = Takimda olmayan biriyle baska birinin takimini degistiremezsin.
+REAMX_SUPER_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu ^3%s ^4takimina basariyla transfer etti.
+REAMX_SUPER_TEAM_C = %n isimli oyuncuyu %s takimina basariyla transfer ettin.
+REAMX_SUPER_SWAP_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncu ile ^4%n ^1isimli oyuncunun takimlarini degistirdi.
+REAMX_SUPER_SWAP_C = %n isimli oyuncu ile %n isimli oyuncunun takimlarini degistirdin.
+
+REAMX_SUPER_UNAMMO_TEAM_P = ^3%n ^1isimli ^4yetkili ^3sinirsiz mermi degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_UNAMMO_TEAM_C = Sinirsiz mermi degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_UNAMMO_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3sinirsiz mermi degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_UNAMMO_PLAYER_C = Sinirsiz mermi degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_EXTEND_ERROR1 = Hicbir oyuncu, hicbir haritayi %i kereden fazla uzatamaz.
+REAMX_SUPER_EXTEND_ERROR2 = Hicbir harita bir seferde %i dakikadan fazla uzatilamaz.
+REAMX_SUPER_EXTEND_P = ^3%n ^1isimli ^4yetkili haritayi ^4%i ^1dakika uzatti.
+REAMX_SUPER_EXTEND_C = Haritayi %i dakika uzattin.
+
+REAMX_SUPER_GIVEMONEY_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%i^1$ parayi ^3%s ^4takimina verdi.
+REAMX_SUPER_GIVEMONEY_TEAM_C = %i$ parayi %s takimina verdin.
+REAMX_SUPER_GIVEMONEY_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%i^1$ parayi ^3%n ^1isimli oyuncuya verdi.
+REAMX_SUPER_GIVEMONEY_PLAYER_C = %i$ parayi %n isimli oyuncuya verdin.
+
+REAMX_SUPER_TAKEMONEY_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%i^1$ parayi ^3%s ^1takimindan aldi.
+REAMX_SUPER_TAKEMONEY_TEAM_C = %i$ parayi %s takimindan aldin.
+REAMX_SUPER_TAKEMONEY_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%i^1$ parayi ^3%n ^1isimli oyuncudan aldin.
+REAMX_SUPER_TAKEMONEY_PLAYER_C = %i$ parayi %n isimli oyuncudan aldin.
+
+REAMX_SUPER_FREEZE_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini dondurdu.
+REAMX_SUPER_FREEZE_TEAM_C = %s takimini dondurdun.
+REAMX_SUPER_FREEZE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu dondurdu.
+REAMX_SUPER_FREEZE_PLAYER_C = %n isimli oyuncuyu dondurdun.
+
+REAMX_SUPER_UNFREEZE_TEAM_P = ^3%n ^1isimli ^4yetkili ^3%s ^1takimini cozdu.
+REAMX_SUPER_UNFREEZE_TEAM_C = %s takimini cozdun.
+REAMX_SUPER_UNFREEZE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu cozdu.
+REAMX_SUPER_UNFREEZE_PLAYER_C = %n isimli oyuncuyu cozdun.
+
+REAMX_SUPER_INVISIBLE_TEAM_P = ^3%n ^1isimli ^4yetkili ^3gorunmezlik degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_INVISIBLE_TEAM_C = Gorunmezlik degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_INVISIBLE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3gorunmezlik degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_INVISIBLE_PLAYER_C = Gorunmezlik degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_FIRE = cayir cayir yakti
+REAMX_SUPER_UNFIRE = sondurdu
+REAMX_SUPER_FIRE_TEAM_P = ^3%n ^1isimli ^4yetkili ^1%s ^3%s ^1takimini.
+REAMX_SUPER_FIRE_TEAM_C = %sn %s takimini.
+REAMX_SUPER_FIRE_PLAYER_P = ^3%n ^1isimli ^4yetkili ^1%s ^3%n ^1isimli oyuncuyu.
+REAMX_SUPER_FIRE_PLAYER_C = %sn %n isimli oyuncuyu.
+REAMX_SUPER_CATCH_FIRE = Kahretsin! %n isimli oyuncudan %n isimli oyuncuya alev bulasti!
+
+REAMX_SUPER_DOUBLEJUMP_TEAM_P = ^3%n ^1isimli ^4yetkili ^3cift ziplama degerini ^4%i ^1olarak ^3%s ^4takimina tanimladi.
+REAMX_SUPER_DOUBLEJUMP_TEAM_C = Cift ziplama degerini %i olarak %s takimina tanimladin.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3cift ziplama degerini ^4%i ^1olarak ^3%n ^1isimli oyuncuya tanimladi.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_C = Cift ziplama degerini %i olarak %n isimli oyuncuya tanimladin.
+
+REAMX_SUPER_TEAMSWAP_P = ^3%n ^1isimli ^4yetkili basariyla ^3takimlari yer degistirdi.
+REAMX_SUPER_TEAMSWAP_C = Basariyla takimlari yer degistirdin.
+
+REAMX_SUPER_HRESPAWN_NO_ALIVE = Oyuncu zaten yasiyor!
+REAMX_SUPER_HRESPAWN_PLAYER_P = ^3%n ^1isimli ^4yetkili ^3%n ^1isimli oyuncuyu ^1geberdigi yerde canlandirdi.
+REAMX_SUPER_HRESPAWN_PLAYER_C = %n isimli oyuncuyu geberdigi yerde canlandirdin.
+
+[es]
+
+REAMX_SUPER_NO_PLAYERS = ¡No hay jugadores en ese equipo!
+REAMX_SUPER_AMOUNT_GREATER = ¡La cantidad a dar debe ser mayor que cero!
+REAMX_SUPER_AMOUNT_GREATER_NEG = La cantidad a dar debe ser cero o mayor
+
+REAMX_SUPER_HEAL_TEAM_P = ^3Admin ^4%n ^1dar ^3%d HP ^1a ^4%s ^3jugadores.
+REAMX_SUPER_HEAL_TEAM_C = Has dado %d HP a %s jugadores. 
+REAMX_SUPER_HEAL_PLAYER_P = ^3Admin ^4%n ^1dó ^3%d HP ^1a ^4%n.
+REAMX_SUPER_HEAL_PLAYER_C = Le diste %d HP a %n.
+
+REAMX_SUPER_ARMOR_TEAM_P = ^3Admin ^4%n ^1dó ^3%d armadura ^1a ^4%s ^3jugadores.
+REAMX_SUPER_ARMOR_TEAM_C = Has dado %d armaduras a %s jugadores. 
+REAMX_SUPER_ARMOR_PLAYER_P = ^3Admin ^4%n ^1dó ^3%d armaduras ^1a ^4%n.
+REAMX_SUPER_ARMOR_PLAYER_C = Le diste %d armadura a %n.
+
+REAMX_SUPER_TELEPORT_TEAM_P = ^3Admin ^4%n ^1teleportó ^3%s ^1jugadores.
+REAMX_SUPER_TELEPORT_TEAM_C = Has teletransportado a %s jugadores.
+REAMX_SUPER_TELEPORT_PLAYER_P = ^3Admin ^4%n ^1teleportado ^3%n.
+REAMX_SUPER_TELEPORT_PLAYER_C = Has teletransportado %n.
+
+REAMX_SUPER_USERORIGIN = El origen de %n es %0.f x, %0.f y, %0.f z.
+
+REAMX_SUPER_ALLTALK_P = ^3Admin ^4%n ^1set ^3sv_alltalk ^1to ^4%i
+REAMX_SUPER_ALLTALK_C = Establece sv_alltalk a %i
+
+REAMX_SUPER_GRAVITY_P = ^3Admin ^4%n ^1set ^3sv_gravity ^1a ^4%i
+REAMX_SUPER_GRAVITY_C = Establece sv_gravedad a %i
+
+REAMX_SUPER_BURY_TEAM_P = ^3Admin ^4%n ^1ha enterrado ^3%s ^4jugadores.
+REAMX_SUPER_BURY_TEAM_C = Has enterrado a %s jugadores.
+REAMX_SUPER_BURY_PLAYER_P = ^3Admin ^4%n ^1ha enterrado a ^3%n.
+REAMX_SUPER_BURY_PLAYER_C = Has enterrado a %n.
+
+REAMX_SUPER_UNBURY_TEAM_P = ^3Admin ^4%n ^1has unburied ^3%s ^4players.
+REAMX_SUPER_UNBURY_TEAM_C = Ha desenterrado a %s jugadores.
+REAMX_SUPER_UNBURY_PLAYER_P = ^3Admin ^4%n ^1has unburied ^3%n.
+REAMX_SUPER_UNBURY_PLAYER_C = Has desenterrado a %n.
+
+REAMX_SUPER_DISARM_TEAM_P = ^3Admin ^4%n ^1has disarmed ^3%s ^4players.
+REAMX_SUPER_DISARM_TEAM_C = Ha desarmado a %s jugadores.
+REAMX_SUPER_DISARM_PLAYER_P = ^3Admin ^4%n ^1ha desarmado a ^3%n.
+REAMX_SUPER_DISARM_PLAYER_C = Has desarmado a %n.
+
+REAMX_SUPER_SLAY2_TEAM_P = ^3Admin ^4%n ^1ha desarmado ^3%s ^4jugadores.
+REAMX_SUPER_SLAY2_TEAM_C = Has matado a %s jugadores.
+REAMX_SUPER_SLAY2_PLAYER_P = ^3Admin ^4%n ^1slayed ^3%n.
+REAMX_SUPER_SLAY2_PLAYER_C = Has matado a %n.
+
+REAMX_SUPER_ROCKET_TEAM_P = ^3Admin ^4%n ^1hizo cohetes de ^3%s ^4jugadores.
+REAMX_SUPER_ROCKET_TEAM_C = Has hecho cohetes con %s jugadores.
+REAMX_SUPER_ROCKET_PLAYER_P = ^3Admin ^4%n ^1hizo cohetes con ^3%n.
+REAMX_SUPER_ROCKET_PLAYER_C = Has hecho cohetes con %n.
+
+REAMX_SUPER_UBERSLAP_PLAYER_P = ^3Admin ^4%n ^1uberslapped ^3%n.
+REAMX_SUPER_UBERSLAP_PLAYER_C = Hasuberslapado %n.
+
+REAMX_SUPER_SET_PASSWORD_P = ^3Admin ^4%n ^1ha establecido una ^3contraseña del servidor.
+REAMX_SUPER_SET_PASSWORD_C = Ha establecido una contraseña de servidor.
+
+REAMX_SUPER_REMOVE_PASSWORD_P = ^3Admin ^4%n ^1ha eliminado ^3la contraseña del servidor.
+REAMX_SUPER_REMOVE_PASSWORD_C = Ha eliminado la contraseña del servidor.
+
+REAMX_SUPER_REVIVE_TEAM_P = ^3Admin ^4%n ^1revivió ^3%s ^4jugadores.
+REAMX_SUPER_REVIVE_TEAM_C = Has revivido a %s jugadores.
+REAMX_SUPER_REVIVE_PLAYER_P = ^3Admin ^4%n ^1revived ^3%n.
+REAMX_SUPER_REVIVE_PLAYER_C = Has revivido a %n.
+
+REAMX_SUPER_NO_KICK_STEAM = ¡No puedes patear al jugador de Steam!
+REAMX_SUPER_QUIT_PLAYER_P = ^3Admin ^4%n ^1 hizo ^3%n ^4 salir del juego.
+REAMX_SUPER_QUIT_PLAYER_C = Has hecho que %n abandone el juego.
+
+REAMX_SUPER_WEAPON_TEAM_P = ^3Admin ^4%n ^1hizo ^3%i ^1a ^3%s jugadores.
+REAMX_SUPER_WEAPON_TEAM_C = Has dado %i a %s jugadores.
+REAMX_SUPER_WEAPON_PLAYER_P = ^3Admin ^4%n ^1dar ^3%i ^1a ^3%n jugadores.
+REAMX_SUPER_WEAPON_PLAYER_C = Le diste %i a %n.
+
+REAMX_SUPER_GODMODE_TEAM_P = ^3Admin ^4%n ^1set godmode ^3%i ^1 on ^4%s players.
+REAMX_SUPER_GODMODE_TEAM_C = Has establecido el modo dios %i en %s jugadores.
+REAMX_SUPER_GODMODE_PLAYER_P = ^3Admin ^4%n ^1set godmode ^3%i ^1on ^4%n.
+REAMX_SUPER_GODMODE_PLAYER_C = Has establecido godmode %i en %n.
+
+REAMX_SUPER_NOCLIP_TEAM_P = ^3Admin ^4%n ^1set noclip ^3%i ^1on ^4%s jugadores.
+REAMX_SUPER_NOCLIP_TEAM_C = Has puesto noclip %i en %s jugadores.
+REAMX_SUPER_NOCLIP_PLAYER_P = ^3Admin ^4%n ^1set noclip ^3%i ^1on ^4%n.
+REAMX_SUPER_NOCLIP_PLAYER_C = Se establece noclip %i en %n.
+
+REAMX_SUPER_DRUG_TEAM_P = ^3Admin ^4%n ^1dar drogas a ^3%s ^4jugadores.
+REAMX_SUPER_DRUG_TEAM_C = Le diste drogas a %s jugadores.
+REAMX_SUPER_DRUG_PLAYER_P = ^3Admin ^4%n ^1dieron drogas a ^3%n.
+REAMX_SUPER_DRUG_PLAYER_C = Le diste drogas a %n.
+
+REAMX_SUPER_SPEED_TEAM_P = ^3Admin ^4%n ^1set ^3speed^4 %i ^1for ^4%s players.
+REAMX_SUPER_SPEED_TEAM_C = Has establecido la velocidad %i para %s jugadores.
+REAMX_SUPER_SPEED_PLAYER_P = ^3Admin ^4%n ^1set ^3speed^4 %i ^1for ^4%n.
+REAMX_SUPER_SPEED_PLAYER_C = Establece la velocidad %i para %n.
+
+REAMX_SUPER_GLOW_INVALID = Resplandor inválido.
+REAMX_SUPER_GLOW_TEAM_P = ^3Admin ^4%n ^1set glowing on ^3%s players.
+REAMX_SUPER_GLOW_TEAM_C = Has establecido el brillo en %s jugadores.
+REAMX_SUPER_GLOW_PLAYER_P = ^3Admin ^4%n ^1set glowing on ^3%n.
+REAMX_SUPER_GLOW_PLAYER_C = Has puesto el brillo en %n.
+REAMX_SUPER_UNGLOW_TEAM_P = ^3Admin ^4%n ^1removed glowing on ^3%s players.
+REAMX_SUPER_UNGLOW_TEAM_C = Has eliminado el brillo en %s jugadores.
+REAMX_SUPER_UNGLOW_PLAYER_P = ^3Admin ^4%n ^1removed glowing on ^3%n.
+REAMX_SUPER_UNGLOW_PLAYER_C = Has eliminado el brillo en %n.
+
+REAMX_SUPER_FLASH_TEAM_P = ^3Admin ^4%n ^1flashbanged ^3%s ^4players.
+REAMX_SUPER_FLASH_TEAM_C = Has flasheado a %s jugadores.
+REAMX_SUPER_FLASH_PLAYER_P = ^3Admin ^4%n ^1flashbanged ^3%n.
+REAMX_SUPER_FLASH_PLAYER_C = Has flasheado %n.
+
+REAMX_SUPER_TEAM_INVALID = ¡Equipo no válido especificado! Los equipos válidos son: T, CT, Auto, Spec
+REAMX_SUPER_SWAP_ERROR1 = ¡No puedes intercambiar jugadores que están en el mismo equipo!
+REAMX_SUPER_SWAP_ERROR2 = ¡No puedes intercambiar jugadores que no están en un equipo!
+REAMX_SUPER_TEAM_P = ^3Admin ^4%n ^1transfirió con éxito ^3%n ^1al ^4equipo de %s.
+REAMX_SUPER_TEAM_C = Has transferido con éxito %n al equipo %s.
+REAMX_SUPER_SWAP_P = ^3Admin ^4%n ^1ha intercambiado con éxito ^3%n ^1con ^4%n.
+REAMX_SUPER_SWAP_C = Ha intercambiado con éxito %n con %n.
+
+REAMX_SUPER_UNAMMO_TEAM_P = ^3Admin ^4%n ^1establece munición ilimitada^3 %i ^1para ^4%s jugadores.
+REAMX_SUPER_UNAMMO_TEAM_C = Has establecido munición ilimitada %i para %s jugadores.
+REAMX_SUPER_UNAMMO_PLAYER_P = ^3Admin ^4%n ^1set unlimited ammo^3 %i ^1for ^4%n.
+REAMX_SUPER_UNAMMO_PLAYER_C = Establece munición ilimitada %i para %n.
+
+REAMX_SUPER_EXTEND_ERROR1 = Ningún usuario puede ampliar un mapa más de %i veces.
+REAMX_SUPER_EXTEND_ERROR2 = Ningún mapa puede ser extendido más de %i minutos a la vez.
+REAMX_SUPER_EXTEND_P = ^3Admin ^4%n ^1 ha ampliado el tiempo del mapa en ^3%i minutos.
+REAMX_SUPER_EXTEND_C = Ha ampliado el tiempo del mapa en %i minutos.
+
+REAMX_SUPER_GIVONEY_TEAM_P = ^3Admin ^4%n ^1ha dado $^3%i ^1a ^4%s jugadores.
+REAMX_SUPER_GIVEMONEY_TEAM_C = Has dado $%i a %s jugadores.
+REAMX_SUPER_GIVEMONEY_PLAYER_P = ^3Admin ^4%n ^1dar $^3%i ^1a ^4%n jugadores.
+REAMX_SUPER_GIVEMONEY_PLAYER_C = Le diste $%i a %n.
+
+REAMX_SUPER_TAKEMONEY_TEAM_P = ^3Admin ^4%n ^1tomó $^3%i ^1de ^4%s jugadores.
+REAMX_SUPER_TAKEMONEY_TEAM_C = Has tomado $%i de %s jugadores.
+REAMX_SUPER_TAKEMONEY_PLAYER_P = ^3Admin ^4%n ^1tomó $^3%i ^1de ^4%n.
+REAMX_SUPER_TAKEMONEY_PLAYER_C = Tomaste $%i de %n.
+
+REAMX_SUPER_FREEZE_TEAM_P = ^3Admin ^4%n ^1frozen ^3%s jugadores.
+REAMX_SUPER_FREEZE_TEAM_C = Has congelado a %s jugadores.
+REAMX_SUPER_FREEZE_PLAYER_P = ^3Admin ^4%n ^1frozen ^3%n jugadores.
+REAMX_SUPER_FREEZE_PLAYER_C = Has congelado %n.
+
+REAMX_SUPER_UNFREEZE_TEAM_P = ^3Admin ^4%n ^1descongelado ^3%s jugadores.
+REAMX_SUPER_UNFREEZE_TEAM_C = Has descongelado a %s jugadores.
+REAMX_SUPER_UNFREEZE_PLAYER_P = ^3Admin ^4%n ^1descongelado ^3%n jugadores.
+REAMX_SUPER_UNFREEZE_PLAYER_C = Has descongelado %n.
+
+REAMX_SUPER_INVISIBLE_TEAM_P = ^3Admin ^4%n ^1pone invisible^3 %i ^1para ^4%s jugadores.
+REAMX_SUPER_INVISIBLE_TEAM_C = Has puesto invisible %i para %s jugadores.
+REAMX_SUPER_INVISIBLE_PLAYER_P = ^3Admin ^4%n ^1set invisible^3 %i ^1para ^4%n.
+REAMX_SUPER_INVISIBLE_PLAYER_C = Se establece invisible %i para %n.
+
+REAMX_SUPER_FIRE = disparado
+REAMX_SUPER_UNFIRE = no disparado
+REAMX_SUPER_FIRE_TEAM_P = ^3Admin ^4%n ^1%s ^3%s jugadores.
+REAMX_SUPER_FIRE_TEAM_C = Usted %s %s jugadores.
+REAMX_SUPER_FIRE_PLAYER_P = ^3Admin ^4%n ^1%s ^3%n.
+REAMX_SUPER_FIRE_PLAYER_C = Tú %s %n.
+REAMX_SUPER_CATCH_FIRE = ¡Oh no! %n se ha incendiado %n
+
+REAMX_SUPER_DOUBLEJUMP_TEAM_P = ^3Admin ^4%n ^1set multijump^3 %i ^1para ^4%s jugadores.
+REAMX_SUPER_DOUBLEJUMP_TEAM_C = Has establecido multijump %i para %s jugadores.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_P = ^3Admin ^4%n ^1set multijump^3 %i ^1para ^4%n.
+REAMX_SUPER_DOUBLEJUMP_PLAYER_C = Se establece multijump %i para %n.
+
+REAMX_SUPER_TEAMSWAP_P = ^3Admin ^4%n ^1intercambió exitosamente los equipos.
+REAMX_SUPER_TEAMSWAP_C = Ha intercambiado los equipos con éxito.
+
+REAMX_SUPER_HRESPAWN_NO_ALIVE = No está muerto de todos modos.
+REAMX_SUPER_HRESPAWN_PLAYER_P = ^3Admin ^4%n ^1revivió ^3%n ^1en el lugar donde murió por última vez.
+REAMX_SUPER_HRESPAWN_PLAYER_C = Has revivido a %n en el lugar donde murió por última vez.

@@ -1,0 +1,5 @@
+L 01/14/2025 - 02:47:36: Start of error session.
+L 01/14/2025 - 02:47:36: Info (map "sj_trix_zone") (file "addons/amxmodx/logs/error_20250114.log")
+L 01/14/2025 - 02:47:36: [AMXX] Displaying debug trace (plugin "soccerjam.amxx", version "6.0b")
+L 01/14/2025 - 02:47:36: [AMXX] Run time error 4: index out of bounds 
+L 01/14/2025 - 02:47:36: [AMXX]    [0] Untitled.sma::touchNet (line 1941)

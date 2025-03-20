@@ -1,0 +1,153 @@
+[en]
+REAPI_MOLOTOV_ACCESS = Access flags for using molotov (command to issue, receive when spawning).
+REAPI_MOLOTOV_USE_PICKUP = The drop of the molotov after the death of the player in the slot (0/1 no/yes)
+REAPI_MOLOTOV_ACCESS_PICKUP = Access flags for the ability to raise molotov after the player's death. (all-leave empty)
+REAPI_MOLOTOV_DMG_TM = Molotov's action on his team.
+REAPI_MOLOTOV_FIRETIME = The duration of the Molotov after the explosion.
+REAPI_MOLOTOV_RADIUS = the Radius of influence of the Molotov after the explosion.
+
+REAPI_MOLOTOV_DMG_TICK = Time interval, for taking damage (how often lives will be taken), (1.0 = every second)
+REAPI_MOLOTOV_ANIM_TICK = Time interval, for the frame rate (speed) of the fire animation (1.0 = every second)
+
+REAPI_MOLOTOV_EFFECT_SCALE = Value of the flame when the Molotov is set on fire (when the attack button is pressed)
+
+REAPI_MOLOTOV_LG_USE = Using the penalty function for a delay in the hands of a molotov fire. (0/1; no/yes)
+REAPI_MOLOTOV_LG_TIME = The delay time after which, when throwing molotov, will explode near the player.
+REAPI_MOLOTOV_LG_KILL = Whether to kill the player immediately after the delay time and the molotov throw. (0/1; no/yes)
+
+REAPI_MOLOTOV_TIME_OF_DETONATE = The time before the Molotov explosion after the throw. (0.0-the explosion will be immediately without delay)
+REAPI_MOLOTOV_IMPACT_SOUND_TIME = The time of the sound of the Molotov hitting the ground before the explosion. (do not set large values, there is a loop)
+
+REAPI_MOLOTOV_GET_IN_SPAWN = Will a player with access to a Molotov get molotov every spawn? (0/1; no/yes)
+
+REAPI_MOLOTOV_EXTINGUISHING = Can any player put out the fire with a smoke grenade? (0/1; no/yes)
+REAPI_MOLOTOV_EXTINGUISHING_TIME = The time it takes to extinguish the fire after throwing a smoke grenade.
+REAPI_MOLOTOV_RADIUS_MULTIPLIER = How much to multiply the initial radius of destruction for extinguishing? (affects the removal of fire)
+
+REAPI_MOLOTOV_GAME_CMS_SERVICES = Name of the flag of the created service on the Game CMS site (access to Molotov will be via it)
+
+REAPI_MOLOTOV_RESTRICTION_ON_USE = Should the player limit the use of the molotov delivery command? (0/1; no/yes)
+REAPI_MOLOTOV_TIME_LIMIT_ON_USAGE = The time in seconds after which the player will be able to use the Molotov delivery command again.
+
+REAPI_MOLOTOV_INFINITE_FLAGS_GAME_CMS = Name of the flag of the created service on the Game CMS website (infinite access to molotov)
+REAPI_MOLOTOV_INFINITE_FLAGS = Access flags for infinite use of molotov (issue command).
+
+REAPI_MOLOTOV_STOP_USE = ^3[^4ReAPI Molotov^3] ^1Dear.Player! Before reuse: ^4%d ^3seconds^1!
+
+REAPI_MOLOTOV_ROUND_LIMIT_BUY = Rounds left to buy Molotov: %d
+REAPI_MOLOTOV_ROUND_LIMIT_ISSUING = Rounds left to get Molotov: %d
+REAPI_MOLOTOV_COST_ERROR = You don't have enough money to buy! Is required: %d
+
+BUY_MOLOTOV = Molotov purchase mode for in-game money for all players (0-off; 1-on)
+MOLOTOV_COST = The price of Molotov
+ROUND_LIMIT_BUY = From which round can you get molotov on the purchase teams?
+
+ROUND_LIMIT_ISSUING = From which round can you get molotov by issuing commands?
+
+PLAY_ERROR_SOUND = Sound playback when molotov cannot be received (0-off; 1-on)
+PLAY_ERROR_SOUND_MODE = Play modes: (1-buy; 2-receive; 3-not enough money; 4-at all; 5-for 1, 2; 6-for 1, 3; 7 - for 2, 3)
+ERROR_SOUND_PATH_AND_NAME = Write the path and name of the sound that is on the server and on the client in the valve folder.
+
+REAPI_MOLOTOV_BUY_ERROR = To get it again, use the old one first!
+
+CHECKING_BUY_ZONE = Purchase of Molotov only in the purchase zone (off-0; on-1)
+REAPI_MOLOTOV_BUYZONE_ERROR = Molotov can only be obtained in the purchase zone!
+
+TIME_TO_BUY = Time from the start of the round to buy Molotov in the purchase zone (time in sec; 0-removes the limit)
+REAPI_MOLOTOV_TIME_TO_BUY_ERROR = The allotted time for the purchase of Molotov has expired!
+
+REAPI_MOLOTOV_ACCESS_SPAWN = Access flags for using the ground (getting on spawn).
+
+GIVE_LIMIT = How many times can a player take molotov by issuing commands? (0-removes the limit)
+REAPI_MOLOTOV_GIVE_LIMIT_ERROR = You can't take the molotov! (allowed %d times(a) per round)
+
+GIVE_BUY_ZONE = Issue of Molotov only in the purchase zone (off-0; on-1)
+GIVE_TIME_TO_BUY = Time from the start of the round to issue Molotov in the purchase zone (time in sec; 0-removes the limit)
+REAPI_MOLOTOV_GIVE_TIME_TO_BUY_ERROR = The allotted time for the delivery of Molotov has expired!
+
+REAPI_MOLOTOV_DMG = The damage received by the player when he is on fire. (if 0.0, then random damage is activated)
+REAPI_MOLOTOV_RANDOM_DAMAGE = Random damage to the player when he is on fire. (enabled when reape_molotov_dmg=0.0)
+REAPI_MOLOTOV_DAMAGE_FLAGS = Choosing the method of dealing damage in fire (0-usually; 1-fire effect)
+
+EFFECT_TEAM_DESIGNATION = Using the effect of a colored circle in the fire to indicate the command (0-off; 1-on)
+EFFECT_CIRCLE_COLOR_MODES = Circle color mode for both teams (possible values: 0-always one color; 1-always random color)
+EFFECT_COLOR_CT_AND_T = Circle color (RGB) for both teams (numbers are specified, order: CT(3), T (3))
+EFFECT_COLOR_CT_AND_T_RND = Random circle color (RGB) for both teams (min and max numbers are specified, order: CT(6), T (6))
+OTHER_EFFECT_SETTINGS = Other settings for the circle: (in order: time of appearance, life (time of disappearance), size, brightness)
+
+[ru]
+REAPI_MOLOTOV_ACCESS = Флаги доступа для использования молотова (команда на выдачу).
+REAPI_MOLOTOV_USE_PICKUP = Выпадение молотова после смерти игрока при наличии в слоте (0/1 нет/да)
+REAPI_MOLOTOV_ACCESS_PICKUP = Флаги доступа для возможности поднимать молотов после смерти игрока. (всем-оставить пустым)
+REAPI_MOLOTOV_DMG_TM = Действие молотова на свою команду.
+REAPI_MOLOTOV_FIRETIME = Время действия молотова после взрыва.
+REAPI_MOLOTOV_RADIUS = Радиус воздействия молотова после взрыва.
+
+REAPI_MOLOTOV_DMG_TICK = Интервал времени, для получения урона (как часто будут отниматься жизни), (1.0 = каждую секунду)
+REAPI_MOLOTOV_ANIM_TICK = Интервал времени, для частоты кадров (скорости) анимации огня (1.0 = каждую секунду)
+
+REAPI_MOLOTOV_EFFECT_SCALE = Значение пламени при поджоге молотова (когда зажали кнопку атака)
+
+REAPI_MOLOTOV_LG_USE = Использование функции наказания за задержку в руках подоженного молотова. (0/1; нет/да)
+REAPI_MOLOTOV_LG_TIME = Время задержки по истечению которого, при броске молотов взорвется около игрока.
+REAPI_MOLOTOV_LG_KILL = Убивать ли сразу игрока по истечению времени задержки и броска молотова. (0/1; нет/да)
+
+REAPI_MOLOTOV_TIME_OF_DETONATE = Время до взрыва молотова после броска. (0.0 - взрыв будет сразу без задержки)
+REAPI_MOLOTOV_IMPACT_SOUND_TIME = Время звука удара молотова до взрыва. (не ставить больших значений, идет зацикливание)
+
+REAPI_MOLOTOV_GET_IN_SPAWN = Будет ли игрок c доступом к молотову получать молотов каждый спавн? (0/1; нет/да)
+
+REAPI_MOLOTOV_EXTINGUISHING = Может ли любой игрок потушить огонь дымовой гранатой? (0/1; нет/да)
+REAPI_MOLOTOV_EXTINGUISHING_TIME = Время за которое потушится огонь после броска дымовой гранаты.
+REAPI_MOLOTOV_RADIUS_MULTIPLIER = На сколько умножить изначальный радиус поражения для тушения? (влияет на удаление огня)
+
+REAPI_MOLOTOV_GAME_CMS_SERVICES = Наименование флага созданной услуги на сайте Game CMS (доступ к молотову будет по нему)
+
+REAPI_MOLOTOV_RESTRICTION_ON_USE = Ограничивать ли по времени использование команды выдачи молотова игроком? (0/1; нет/да)
+REAPI_MOLOTOV_TIME_LIMIT_ON_USAGE = Время в секундах, после которого игрок снова сможет использовать команду выдачи молотова.
+
+REAPI_MOLOTOV_INFINITE_FLAGS_GAME_CMS = Наименование флага созданной услуги на сайте Game CMS (бесконечный доступ к молотову)
+REAPI_MOLOTOV_INFINITE_FLAGS = Флаги доступа для бесконечного использования молотова (команда на выдачу).
+
+REAPI_MOLOTOV_STOP_USE = ^3[^4ReAPI Molotov^3] ^1Ув.Игрок! До повторного использования: ^4%d ^3секунд^1!
+
+REAPI_MOLOTOV_ROUND_LIMIT_BUY = Осталось раундов до покупки молотова: %d
+REAPI_MOLOTOV_ROUND_LIMIT_ISSUING = Осталось раундов до получения молотова: %d
+REAPI_MOLOTOV_COST_ERROR = У Вас недостаточно средств для покупки! Требуется: %d
+
+BUY_MOLOTOV = Режим покупки молотова за игровые деньги для всех игроков (0-выкл; 1-вкл)
+MOLOTOV_COST = Цена молотова
+ROUND_LIMIT_BUY = С какого раунда можно получить молотов по командам покупки?
+
+ROUND_LIMIT_ISSUING = С какого раунда можно получить молотов по командам выдачи?
+
+PLAY_ERROR_SOUND = Воспроизведение звука когда молотов нельзя получить (0-выкл; 1-вкл)
+PLAY_ERROR_SOUND_MODE = Режимы воспроизведения: (1-покупка; 2-получение; 3-не хватает денег; 4-при всех; 5-для 1, 2; 6-для 1, 3; 7-для 2,3)
+ERROR_SOUND_PATH_AND_NAME = Пишем путь и имя звука, который есть на сервере и на клиенте в папке valve.
+
+REAPI_MOLOTOV_BUY_ERROR = Что-бы получить снова, сначала используй старый!
+
+CHECKING_BUY_ZONE = Покупка молотова только в зоне покупки (выкл-0; вкл-1)
+REAPI_MOLOTOV_BUYZONE_ERROR = Молотов можно получить только в зоне покупки!
+
+TIME_TO_BUY = Время от начала раунда на покупку молотова в зоне покупки (время в секундах; 0-убирает лимит)
+REAPI_MOLOTOV_TIME_TO_BUY_ERROR = Отведенное время на покупку молотова истекло!
+
+REAPI_MOLOTOV_ACCESS_SPAWN = Флаги доступа для использования молотова (получение при спавне).
+
+GIVE_LIMIT = Сколько раз игроку можно брать молотов по командам выдачи? (0-убирает лимит)
+REAPI_MOLOTOV_GIVE_LIMIT_ERROR = Вы не можете взять молотов! (разрешено %d раз(а) в раунд)
+
+GIVE_BUY_ZONE = Выдача молотова только в зоне покупки (выкл-0; вкл-1)
+GIVE_TIME_TO_BUY = Время от начала раунда на выдачу молотова в зоне покупки (время в секундах; 0-убирает лимит)
+REAPI_MOLOTOV_GIVE_TIME_TO_BUY_ERROR = Отведенное время на выдачу молотова истекло!
+
+REAPI_MOLOTOV_DMG = Получаемый урон игроком, когда он в огне. (если 0.0, то активируется рандом урон)
+REAPI_MOLOTOV_RANDOM_DAMAGE = Рандом урон игроку когда он в огне. (включается при reapi_molotov_dmg=0.0)
+REAPI_MOLOTOV_DAMAGE_FLAGS = Выбор способа нанесения урона в огне (0-обычно; 1-эффект огня)
+
+EFFECT_TEAM_DESIGNATION = Использование эффекта цветного круга в огне для обозначения команды (0-выкл; 1-вкл)
+EFFECT_CIRCLE_COLOR_MODES = Режим цвета круга для обеих команд (возможные значения: 0-всегда один цвет; 1-всегда рандом цвет)
+EFFECT_COLOR_CT_AND_T = Цвет круга (RGB) для обеих команд (указываются цифры, порядок: КТ(3), Т(3))
+EFFECT_COLOR_CT_AND_T_RND = Рандом цвет круга (RGB) для обеих команд (указываются мин и макс цифры, порядок: КТ(6), Т(6))
+OTHER_EFFECT_SETTINGS = Остальные настройки для круга: (по порядку: время появления, жизнь (время исчезновения), размер, яркость)

@@ -1,0 +1,27 @@
+L 03/05/2025 - 00:16:09: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/05/2025 - 00:16:33: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/05/2025 - 00:18:17: -------- Mapchange to cs_assault --------
+L 03/05/2025 - 00:18:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/05/2025 - 00:18:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1263.0ms.
+L 03/05/2025 - 00:35:19: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/05/2025 - 00:35:43: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/05/2025 - 22:35:31: -------- Mapchange to de_dust2 --------
+L 03/05/2025 - 22:35:37: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 03/05/2025 - 22:35:43: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/05/2025 - 22:36:06: [polymorph.amxx] performance issue. Function plugin_init executed more than 16.9ms.
+L 03/05/2025 - 22:36:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 2557.2ms.
+L 03/05/2025 - 22:53:22: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/05/2025 - 22:53:46: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 03/05/2025 - 22:55:30: -------- Mapchange to cs_assault --------
+L 03/05/2025 - 22:55:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/05/2025 - 22:55:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1097.3ms.
+L 03/05/2025 - 23:12:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 03/05/2025 - 23:12:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 03/05/2025 - 23:14:40: -------- Mapchange to de_chateau --------
+L 03/05/2025 - 23:14:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/05/2025 - 23:14:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1106.3ms.
+L 03/05/2025 - 23:56:16: -------- Mapchange to de_dust2 --------
+L 03/05/2025 - 23:56:19: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 03/05/2025 - 23:56:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 03/05/2025 - 23:56:48: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.7ms.
+L 03/05/2025 - 23:56:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 2701.2ms.

@@ -1,0 +1,29 @@
+L 07/01/2025 - 20:17:03: (map "deathrun_poolday") Mod_LoadModel: models/player/leet/leet.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 07/01/2025 - 20:32:30: (map "de_dust2") Mod_LoadModel: models/player/leet/leet.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 12/01/2025 - 02:48:50: (map "bb_tournament4") IndexOfEdict: bad entity
+L 15/01/2025 - 02:06:23: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*236' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 09/02/2025 - 13:24:53: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 09/02/2025 - 14:05:49: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 12/02/2025 - 10:24:13: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 12/02/2025 - 11:05:37: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 18/02/2025 - 05:33:12: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 21/02/2025 - 00:26:40: (map "ze_resident_evil") Host_Error: ED_ParseEdict: Model '*277' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 13/03/2025 - 02:50:45: (map "deathrun_starwars") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+

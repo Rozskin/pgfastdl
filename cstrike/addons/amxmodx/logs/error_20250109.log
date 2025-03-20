@@ -1,0 +1,578 @@
+L 01/09/2025 - 00:24:19: Start of error session.
+L 01/09/2025 - 00:24:19: Info (map "deathrace_brio") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 00:24:19: Invalid player id 0
+L 01/09/2025 - 00:24:19: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 00:24:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 00:31:25: Start of error session.
+L 01/09/2025 - 00:31:25: Info (map "rubaka_2forts") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 00:31:25: Invalid player id 0
+L 01/09/2025 - 00:31:25: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 00:31:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 00:31:25: Invalid player id 0
+L 01/09/2025 - 00:31:25: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 00:31:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 00:53:09: Start of error session.
+L 01/09/2025 - 00:53:09: Info (map "35hp_gx") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 00:53:09: Invalid player id 0
+L 01/09/2025 - 00:53:09: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 00:53:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 00:53:09: Invalid player id 0
+L 01/09/2025 - 00:53:09: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 00:53:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 02:47:37: Start of error session.
+L 01/09/2025 - 02:47:37: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 02:47:37: Invalid player id 0
+L 01/09/2025 - 02:47:37: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 02:47:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 02:53:56: Start of error session.
+L 01/09/2025 - 02:53:56: Info (map "as_oilrig") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 02:53:56: Invalid player id 0
+L 01/09/2025 - 02:53:56: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 02:53:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:00:12: Start of error session.
+L 01/09/2025 - 03:00:12: Info (map "ze_egypt") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:00:12: Invalid player id 0
+L 01/09/2025 - 03:00:12: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:00:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:01:57: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:01:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:01:57: Unhandled dynamic native error
+L 01/09/2025 - 03:01:57: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:01:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:02:25: Invalid player id 0
+L 01/09/2025 - 03:02:25: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:02:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:03:21: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:03:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:03:21: Unhandled dynamic native error
+L 01/09/2025 - 03:03:21: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:03:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:05:20: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:05:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:05:20: Unhandled dynamic native error
+L 01/09/2025 - 03:05:20: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:05:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:06:32: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:06:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:06:32: Unhandled dynamic native error
+L 01/09/2025 - 03:06:32: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:06:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:06:56: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:06:56: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:06:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:06:58: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:06:58: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:06:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:00: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:00: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:02: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:02: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:04: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:04: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:06: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:06: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:08: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:08: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:10: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:10: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:12: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:12: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:14: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:14: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:16: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:16: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:18: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:18: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:20: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:20: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:22: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:22: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:24: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:24: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:26: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:26: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:28: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:28: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:30: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:30: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:32: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:32: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:34: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:34: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:36: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:36: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:38: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:38: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:40: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:40: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:42: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:42: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:44: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:44: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:46: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:46: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:48: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:48: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:50: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:50: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:52: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:52: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:54: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:54: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:56: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:07:56: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:07:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:58: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:07:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:07:58: Unhandled dynamic native error
+L 01/09/2025 - 03:07:58: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:07:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:27: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:27: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:28: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:28: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:29: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:29: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:30: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:30: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:31: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:31: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:32: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:32: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:33: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:33: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:34: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:34: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:35: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:35: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:36: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:36: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:37: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:37: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:38: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:38: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:39: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:39: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:40: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:40: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:41: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:41: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:42: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:42: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:43: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:43: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:44: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:44: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:45: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:45: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:46: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:46: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:47: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:47: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:48: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:48: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:49: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:49: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:50: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:50: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:51: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:51: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:52: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:52: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:53: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:53: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:54: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:54: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:55: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:55: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:56: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:56: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:57: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:57: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:58: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:58: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:08:59: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:08:59: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:08:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:00: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:00: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:01: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:01: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:02: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:02: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:03: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:03: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:04: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:04: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:05: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:05: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:06: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:06: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:07: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:07: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:08: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:08: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:09: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:09: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:10: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:10: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:11: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:11: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:12: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:12: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:13: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:13: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:14: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:14: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:15: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:15: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:16: [ZP] Player not a normal zombie (1)
+L 01/09/2025 - 03:09:16: [AMXX] Run time error 10 (plugin "zp_zclass_regeneration.amxx") (native "zp_get_zombie_maxhealth") - debug not enabled!
+L 01/09/2025 - 03:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:16: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:09:16: Unhandled dynamic native error
+L 01/09/2025 - 03:09:16: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:10:26: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:10:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:10:26: Unhandled dynamic native error
+L 01/09/2025 - 03:10:26: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:10:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:11:56: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:11:56: Unhandled dynamic native error
+L 01/09/2025 - 03:11:56: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:13:19: [AMXX] Run time error 5 (plugin "zp_sprites_on_hud.amxx") - debug not enabled!
+L 01/09/2025 - 03:13:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:13:19: Unhandled dynamic native error
+L 01/09/2025 - 03:13:19: [AMXX] Run time error 10 (plugin "zp_advanced_win_msgs.amxx") (native "zp_display_hud_sprite") - debug not enabled!
+L 01/09/2025 - 03:13:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:14:17: Player 1 is not in game
+L 01/09/2025 - 03:14:17: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:14:17: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:14:17: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:14:31: Start of error session.
+L 01/09/2025 - 03:14:31: Info (map "ze_portal2_test") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:14:31: Invalid player id 0
+L 01/09/2025 - 03:14:31: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:14:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:22:54: Start of error session.
+L 01/09/2025 - 03:22:54: Info (map "surf_iceday_remake") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:22:54: Invalid player id 0
+L 01/09/2025 - 03:22:54: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:22:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:25:37: Start of error session.
+L 01/09/2025 - 03:25:37: Info (map "jail_piedras_gordas_pg") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:25:37: Invalid player id 0
+L 01/09/2025 - 03:25:37: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:35:31: Invalid player id 0
+L 01/09/2025 - 03:35:31: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:35:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:41:34: Start of error session.
+L 01/09/2025 - 03:41:34: Info (map "as_metropolitano_pg") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:41:34: Invalid player id 0
+L 01/09/2025 - 03:41:34: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:47:36: Player 1 is not in game
+L 01/09/2025 - 03:47:36: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:47:36: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:47:36: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:47:48: Start of error session.
+L 01/09/2025 - 03:47:48: Info (map "crazycar_v2") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:47:48: Invalid player id 0
+L 01/09/2025 - 03:47:48: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:47:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:48:08: Player 1 is not in game
+L 01/09/2025 - 03:48:08: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:48:08: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:48:08: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:48:19: Start of error session.
+L 01/09/2025 - 03:48:19: Info (map "he_tennis") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:48:19: Invalid player id 0
+L 01/09/2025 - 03:48:19: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:48:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:49:42: Player 1 is not in game
+L 01/09/2025 - 03:49:42: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:49:42: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:49:42: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:49:56: Start of error session.
+L 01/09/2025 - 03:49:56: Info (map "35hp_2") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:49:56: Invalid player id 0
+L 01/09/2025 - 03:49:56: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:49:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:51:23: Player 1 is not in game
+L 01/09/2025 - 03:51:23: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:51:23: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:51:23: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:51:35: Start of error session.
+L 01/09/2025 - 03:51:35: Info (map "he_glass") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:51:35: Invalid player id 0
+L 01/09/2025 - 03:51:35: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:51:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:52:48: Player 1 is not in game
+L 01/09/2025 - 03:52:48: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:52:48: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:52:48: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:53:04: Start of error session.
+L 01/09/2025 - 03:53:04: Info (map "aim_ak-colt") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:53:04: Invalid player id 0
+L 01/09/2025 - 03:53:04: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:53:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:53:48: Player 1 is not in game
+L 01/09/2025 - 03:53:48: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:53:48: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:53:48: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:54:04: Start of error session.
+L 01/09/2025 - 03:54:04: Info (map "cart_attack") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:54:04: Invalid player id 0
+L 01/09/2025 - 03:54:04: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:54:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:54:50: Start of error session.
+L 01/09/2025 - 03:54:50: Info (map "starwars") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:54:50: Invalid player id 0
+L 01/09/2025 - 03:54:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:54:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:58:55: Player 1 is not in game
+L 01/09/2025 - 03:58:55: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:58:55: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:58:55: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:59:06: Start of error session.
+L 01/09/2025 - 03:59:06: Info (map "cs_mansion") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:59:06: Invalid player id 0
+L 01/09/2025 - 03:59:06: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 03:59:40: Player 1 is not in game
+L 01/09/2025 - 03:59:40: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 03:59:40: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 03:59:40: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 03:59:51: Start of error session.
+L 01/09/2025 - 03:59:51: Info (map "happyvalley_2nd_lt") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 03:59:51: Invalid player id 0
+L 01/09/2025 - 03:59:51: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 03:59:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:00:53: Player 1 is not in game
+L 01/09/2025 - 04:00:53: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 04:00:53: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 04:00:53: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 04:01:11: Start of error session.
+L 01/09/2025 - 04:01:11: Info (map "deathrace_mpg") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 04:01:11: Invalid player id 0
+L 01/09/2025 - 04:01:11: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:01:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:02:00: Player 1 is not in game
+L 01/09/2025 - 04:02:00: [AMXX] Displaying debug trace (plugin "polymorph.amxx", version "1.1.3")
+L 01/09/2025 - 04:02:00: [AMXX] Run time error 10: native error (native "menu_cancel")
+L 01/09/2025 - 04:02:00: [AMXX]    [0] polymorph.sma::MapMenuHandler (line 636)
+L 01/09/2025 - 04:03:25: Start of error session.
+L 01/09/2025 - 04:03:25: Info (map "deathrace_dangerous") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 04:03:25: Invalid player id 0
+L 01/09/2025 - 04:03:25: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:03:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:24:08: Start of error session.
+L 01/09/2025 - 04:24:08: Info (map "rubaka_2forts") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 04:24:08: Invalid player id 0
+L 01/09/2025 - 04:24:08: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:24:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:24:08: Invalid player id 0
+L 01/09/2025 - 04:24:08: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:24:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:45:51: Start of error session.
+L 01/09/2025 - 04:45:51: Info (map "rubaka_orange_x") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 04:45:51: Invalid player id 0
+L 01/09/2025 - 04:45:51: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:45:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 04:45:51: Invalid player id 0
+L 01/09/2025 - 04:45:51: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 04:45:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 05:16:58: Start of error session.
+L 01/09/2025 - 05:16:58: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 05:16:58: Invalid player id 0
+L 01/09/2025 - 05:16:58: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 05:16:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 05:19:38: Invalid player id 0
+L 01/09/2025 - 05:19:38: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 05:19:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 05:19:43: Invalid player id 0
+L 01/09/2025 - 05:19:43: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 05:19:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 05:21:24: [CSTRIKE] Invalid player 8 (not in-game)
+L 01/09/2025 - 05:21:24: [AMXX] Displaying debug trace (plugin "freeze-tag-bugfix1.amxx", version "1.4")
+L 01/09/2025 - 05:21:24: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 01/09/2025 - 05:21:24: [AMXX]    [0] Untitled.sma::DelayedChangeTeam (line 411)
+L 01/09/2025 - 06:42:28: Start of error session.
+L 01/09/2025 - 06:42:28: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 06:42:28: Invalid player id 0
+L 01/09/2025 - 06:42:28: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 06:42:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 07:02:38: Start of error session.
+L 01/09/2025 - 07:02:38: Info (map "bkz_goldbhop") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 07:02:38: Invalid player id 0
+L 01/09/2025 - 07:02:38: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 07:02:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 07:22:48: Start of error session.
+L 01/09/2025 - 07:22:48: Info (map "kz_xj_brickjump") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 07:22:48: Invalid player id 0
+L 01/09/2025 - 07:22:48: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 07:22:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 10:34:02: Start of error session.
+L 01/09/2025 - 10:34:02: Info (map "rubaka_2forts") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 10:34:02: Invalid player id 0
+L 01/09/2025 - 10:34:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 10:34:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 10:34:02: Invalid player id 0
+L 01/09/2025 - 10:34:02: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 10:34:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 10:55:44: Start of error session.
+L 01/09/2025 - 10:55:44: Info (map "rubaka_arena") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 10:55:44: Invalid player id 0
+L 01/09/2025 - 10:55:44: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 10:55:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 10:55:44: Invalid player id 0
+L 01/09/2025 - 10:55:44: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 10:55:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 14:29:13: Start of error session.
+L 01/09/2025 - 14:29:13: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 14:29:13: Invalid player id 0
+L 01/09/2025 - 14:29:13: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 14:29:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 14:49:23: Start of error session.
+L 01/09/2025 - 14:49:23: Info (map "bkz_goldbhop") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 14:49:23: Invalid player id 0
+L 01/09/2025 - 14:49:23: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 14:49:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 15:09:32: Start of error session.
+L 01/09/2025 - 15:09:32: Info (map "kz_xj_brickjump") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 15:09:32: Invalid player id 0
+L 01/09/2025 - 15:09:32: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 15:09:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 16:59:53: Start of error session.
+L 01/09/2025 - 16:59:53: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 16:59:53: Invalid player id 0
+L 01/09/2025 - 16:59:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 16:59:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 19:26:29: Start of error session.
+L 01/09/2025 - 19:26:29: Info (map "kz_arsacid") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 19:26:29: Invalid player id 0
+L 01/09/2025 - 19:26:29: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 19:26:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 19:46:39: Start of error session.
+L 01/09/2025 - 19:46:39: Info (map "bkz_goldbhop") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 19:46:39: Invalid player id 0
+L 01/09/2025 - 19:46:39: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 19:46:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 20:06:49: Start of error session.
+L 01/09/2025 - 20:06:49: Info (map "kz_xj_brickjump") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 20:06:49: Invalid player id 0
+L 01/09/2025 - 20:06:49: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 20:06:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 20:47:42: Start of error session.
+L 01/09/2025 - 20:47:42: Info (map "fy_pool_suite") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 20:47:42: Invalid player id 0
+L 01/09/2025 - 20:47:42: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 20:47:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 21:32:53: Start of error session.
+L 01/09/2025 - 21:32:53: Info (map "fy_titanic") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 21:32:53: Invalid player id 0
+L 01/09/2025 - 21:32:53: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 21:32:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 21:33:57: Invalid player id 0
+L 01/09/2025 - 21:33:57: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 21:33:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 23:08:50: Start of error session.
+L 01/09/2025 - 23:08:50: Info (map "rubaka_2forts") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 23:08:50: Invalid player id 0
+L 01/09/2025 - 23:08:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 23:08:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 23:08:50: Invalid player id 0
+L 01/09/2025 - 23:08:50: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 23:08:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 23:10:16: Invalid player id 0
+L 01/09/2025 - 23:10:16: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 23:10:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 23:30:33: Start of error session.
+L 01/09/2025 - 23:30:33: Info (map "35hp_gx") (file "addons/amxmodx/logs/error_20250109.log")
+L 01/09/2025 - 23:30:33: Invalid player id 0
+L 01/09/2025 - 23:30:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 23:30:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/09/2025 - 23:30:33: Invalid player id 0
+L 01/09/2025 - 23:30:33: [AMXX] Run time error 10 (plugin "status_monitor.amxx") (native "get_user_info") - debug not enabled!
+L 01/09/2025 - 23:30:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

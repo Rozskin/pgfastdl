@@ -1,0 +1,28 @@
+[en]
+CR_ROUND_MSG = Type ^"/upgrade^", ^"/unlock^", or ^"/market^" to access the menus and spend credits.
+CR_SPAWN = *** You have %d credits available. Say ^"/unlock^", ^"/upgrade^", or ^"/market^" to buy something ***
+CR_NEW_PLAYER = Welcome to Base Builder. Here's 100 credits to get you started!
+
+CR_INFO1 = %s^nCredits: %d^nHealth: %d | Weapon: %s
+CR_INFO2 = %s^nCredits: %d
+CR_INFO3 = You currently have %d credits available to spend
+
+CR_FAIL_TARGET = Sorry, player %s could not be found or targetted!
+
+CR_DEAD_ZOMBIE = You are dead.^nYou will be respawned in 2 seconds!
+
+FAIL_RESET = You are not aiming at a valid entity
+
+GIVEGUNS1 = You've open the guns menu for %s
+GIVEGUNS2 = Your guns menu has been re-enabled by an admin!
+GIVEGUNS3 = You can't do this, player %s is dead
+
+CR_CHANCE_AD = Type ^"/chance^" for a 1 in %d chance to respawn
+CR_CHANCE_CT_DEAD = You are dead, but you can type ^"/chance^" for a 1 in %d chance to respawn as a human again
+CR_CHANCE_SUCC = Congratulations, now enjoy one more life. Try now to die this time!
+CR_CHANCE_FAIL = Sorry. Better luck next time!
+CR_CHANCE_USED = You cannot chance your respawn more then once
+CR_CHANCE_ANNOUNCE = You have been disinfected^nTry not to die this time
+
+CR_REWARD_CT = You've been rewarded with %d credits for surviving
+CR_REWARD_T = You've been rewarded with %d credits for killing a survivor

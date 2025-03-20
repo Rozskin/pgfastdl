@@ -1,0 +1,1481 @@
+L 12/29/2024 - 00:00:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:00:14: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.5ms.
+L 12/29/2024 - 00:00:29: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera as_oilrig
+L 12/29/2024 - 00:01:53: -------- Mapchange to as_oilrig --------
+L 12/29/2024 - 00:01:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 00:01:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3539.9ms.
+L 12/29/2024 - 00:17:28: [admin.amxx] Login: "Rozskin<76><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:17:32: [admin.amxx] Login: "Rozskin<77><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:17:44: [admincmd.amxx] Cmd: "Rozskin<77><STEAM_0:1:85202636><>" ask for players list
+L 12/29/2024 - 00:19:11: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 00:19:11: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 27.2ms.
+L 12/29/2024 - 00:19:26: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Soccerjam
+L 12/29/2024 - 00:19:26: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.8ms.
+L 12/29/2024 - 00:19:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:19:41: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.1ms.
+L 12/29/2024 - 00:19:56: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera sj_smackdownvsraw
+L 12/29/2024 - 00:20:11: -------- Mapchange to sj_smackdownvsraw --------
+L 12/29/2024 - 00:20:11: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 00:20:11: [soccerjam.amxx] performance issue. Function plugin_precache executed more than 50.0ms.
+L 12/29/2024 - 00:20:12: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 8.8ms.
+L 12/29/2024 - 00:20:12: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 10.0ms.
+L 12/29/2024 - 00:20:12: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 27.9ms.
+L 12/29/2024 - 00:20:12: [soccerjam.amxx] performance issue. Function plugin_init executed more than 25.6ms.
+L 12/29/2024 - 00:20:17: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4370.3ms.
+L 12/29/2024 - 00:20:19: [admin.amxx] Login: "Rozskin<77><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:20:23: [admin.amxx] Login: "Rozskin<79><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:20:25: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 2.1ms.
+L 12/29/2024 - 00:20:26: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.8ms.
+L 12/29/2024 - 00:20:27: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 2.0ms.
+L 12/29/2024 - 00:20:33: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 12/29/2024 - 00:20:35: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 1.1ms.
+L 12/29/2024 - 00:20:37: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 1.3ms.
+L 12/29/2024 - 00:20:42: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 2.5ms.
+L 12/29/2024 - 00:21:03: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.3ms.
+L 12/29/2024 - 00:21:05: [soccerjam.amxx] performance issue. Function AutoRespawn2 executed more than 1.1ms.
+L 12/29/2024 - 00:21:13: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 1.3ms.
+L 12/29/2024 - 00:21:24: [soccerjam.amxx] performance issue. Function touchPlayer executed more than 2.1ms.
+L 12/29/2024 - 00:21:26: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.3ms.
+L 12/29/2024 - 00:21:30: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 12/29/2024 - 00:21:37: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 00:21:37: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 1.4ms.
+L 12/29/2024 - 00:21:52: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Gungame
+L 12/29/2024 - 00:21:52: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.6ms.
+L 12/29/2024 - 00:21:52: [soccerjam.amxx] performance issue. Function mascot_think executed more than 1.1ms.
+L 12/29/2024 - 00:21:53: [soccerjam.amxx] performance issue. Function client_PreThink executed more than 1.6ms.
+L 12/29/2024 - 00:21:55: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.0ms.
+L 12/29/2024 - 00:22:03: [soccerjam.amxx] performance issue. Function meter executed more than 1.2ms.
+L 12/29/2024 - 00:22:03: [soccerjam.amxx] performance issue. Function statusDisplay executed more than 1.4ms.
+L 12/29/2024 - 00:22:05: [soccerjam.amxx] performance issue. Function meter executed more than 1.3ms.
+L 12/29/2024 - 00:22:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:22:07: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.3ms.
+L 12/29/2024 - 00:22:13: [soccerjam.amxx] performance issue. Function statusDisplay executed more than 1.5ms.
+L 12/29/2024 - 00:22:17: [soccerjam.amxx] performance issue. Function AutoRespawn executed more than 1.9ms.
+L 12/29/2024 - 00:22:18: [soccerjam.amxx] performance issue. Function meter executed more than 2.8ms.
+L 12/29/2024 - 00:22:20: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.5ms.
+L 12/29/2024 - 00:22:22: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera gg_ak-colt_palm_beach
+L 12/29/2024 - 00:22:22: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.5ms.
+L 12/29/2024 - 00:22:26: [soccerjam.amxx] performance issue. Function client_PostThink executed more than 6.1ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 60.1ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 8.8ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 2.4ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 2.2ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 5.1ms.
+L 12/29/2024 - 00:22:38: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 2.5ms.
+L 12/29/2024 - 00:22:38: -------- Mapchange to gg_ak-colt_palm_beach --------
+L 12/29/2024 - 00:22:38: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 00:22:39: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 00:22:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3594.4ms.
+L 12/29/2024 - 00:22:44: [admin.amxx] Login: "Rozskin<79><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:22:48: [admin.amxx] Login: "Rozskin<92><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:29:14: [adminvote.amxx] Vote: "Rozskin<92><STEAM_0:1:85202636><>" vote custom (question "otro") (option#1 "modo?") (option#2 "chi")
+L 12/29/2024 - 00:29:26: [adminvote.amxx] Vote: Voting successful (got "4") (needed "1") (result "otro - modo?")
+L 12/29/2024 - 00:29:44: [adminvote.amxx] Vote: "Rozskin<92><STEAM_0:1:85202636><>" vote custom (question "otro modo?") (option#1 "sí") (option#2 "no")
+L 12/29/2024 - 00:29:56: [adminvote.amxx] Vote: Voting successful (got "4") (needed "1") (result "otro modo? - sí")
+L 12/29/2024 - 00:30:08: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 00:30:08: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 1.5ms.
+L 12/29/2024 - 00:30:23: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be BaseBuilder
+L 12/29/2024 - 00:30:23: [polymorph.amxx] performance issue. Function checkModVotes executed more than 3.3ms.
+L 12/29/2024 - 00:30:38: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:30:38: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.5ms.
+L 12/29/2024 - 00:30:53: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera bb_minecraft_rmk
+L 12/29/2024 - 00:30:53: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.5ms.
+L 12/29/2024 - 00:31:08: -------- Mapchange to bb_minecraft_rmk --------
+L 12/29/2024 - 00:31:08: [AMXX] Plugin "anti-channel.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 12/29/2024 - 00:31:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 00:31:09: [basebuilder65.amxx] performance issue. Function plugin_precache executed more than 2.1ms.
+L 12/29/2024 - 00:31:09: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 32.7ms.
+L 12/29/2024 - 00:31:09: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 23.3ms.
+L 12/29/2024 - 00:31:09: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 16.0ms.
+L 12/29/2024 - 00:31:09: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 20.7ms.
+L 12/29/2024 - 00:31:09: [bb_classes65.amxx] performance issue. Function plugin_precache executed more than 95.0ms.
+L 12/29/2024 - 00:31:10: [basebuilder65.amxx] performance issue. Function plugin_init executed more than 2.4ms.
+L 12/29/2024 - 00:31:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3816.7ms.
+L 12/29/2024 - 00:31:16: [admin.amxx] Login: "Rozskin<92><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:31:20: [admin.amxx] Login: "Rozskin<106><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefhij") (address "38.25.66.109")
+L 12/29/2024 - 00:31:36: [basebuilder65.amxx] performance issue. Function task_force_team_join executed more than 9.0ms.
+L 12/29/2024 - 00:31:37: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.6ms.
+L 12/29/2024 - 00:31:39: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.0ms.
+L 12/29/2024 - 00:31:42: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:31:47: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:31:50: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.9ms.
+L 12/29/2024 - 00:31:50: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.3ms.
+L 12/29/2024 - 00:31:51: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:31:51: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.5ms.
+L 12/29/2024 - 00:31:52: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:31:52: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.7ms.
+L 12/29/2024 - 00:31:53: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:31:53: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:31:53: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.0ms.
+L 12/29/2024 - 00:31:58: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 00:32:00: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.8ms.
+L 12/29/2024 - 00:32:00: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:32:00: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.1ms.
+L 12/29/2024 - 00:32:01: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.9ms.
+L 12/29/2024 - 00:32:01: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.8ms.
+L 12/29/2024 - 00:32:01: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.6ms.
+L 12/29/2024 - 00:32:03: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 13.0ms.
+L 12/29/2024 - 00:32:03: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.7ms.
+L 12/29/2024 - 00:32:03: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.4ms.
+L 12/29/2024 - 00:32:03: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 3.4ms.
+L 12/29/2024 - 00:32:04: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:32:04: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.7ms.
+L 12/29/2024 - 00:32:05: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 1.0ms.
+L 12/29/2024 - 00:32:05: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.8ms.
+L 12/29/2024 - 00:32:05: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.0ms.
+L 12/29/2024 - 00:32:07: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:32:07: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.9ms.
+L 12/29/2024 - 00:32:08: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:32:08: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.9ms.
+L 12/29/2024 - 00:32:13: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 00:32:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:32:19: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 4.7ms.
+L 12/29/2024 - 00:32:21: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 3.5ms.
+L 12/29/2024 - 00:32:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.7ms.
+L 12/29/2024 - 00:32:39: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.2ms.
+L 12/29/2024 - 00:32:43: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:32:44: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 3.3ms.
+L 12/29/2024 - 00:32:50: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 4.3ms.
+L 12/29/2024 - 00:32:50: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:32:59: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.6ms.
+L 12/29/2024 - 00:33:00: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.6ms.
+L 12/29/2024 - 00:33:01: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:33:07: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 12/29/2024 - 00:33:11: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:33:21: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 00:33:22: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.5ms.
+L 12/29/2024 - 00:33:23: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.1ms.
+L 12/29/2024 - 00:33:23: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:33:26: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 3.5ms.
+L 12/29/2024 - 00:33:29: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.5ms.
+L 12/29/2024 - 00:33:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:33:34: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:33:35: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:33:35: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.0ms.
+L 12/29/2024 - 00:33:38: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:33:38: [basebuilder65.amxx] performance issue. Function cmdLockBlock executed more than 1.3ms.
+L 12/29/2024 - 00:33:41: [basebuilder65.amxx] performance issue. Function cmdSay executed more than 1.9ms.
+L 12/29/2024 - 00:33:41: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 15.8ms.
+L 12/29/2024 - 00:33:43: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 2.1ms.
+L 12/29/2024 - 00:33:43: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.9ms.
+L 12/29/2024 - 00:33:43: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.9ms.
+L 12/29/2024 - 00:34:01: [basebuilder65.amxx] performance issue. Function cmdSay executed more than 1.1ms.
+L 12/29/2024 - 00:34:06: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:34:09: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 5.6ms.
+L 12/29/2024 - 00:34:14: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.5ms.
+L 12/29/2024 - 00:34:16: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.1ms.
+L 12/29/2024 - 00:34:17: [basebuilder65.amxx] performance issue. Function weapon_method_pushed executed more than 1.3ms.
+L 12/29/2024 - 00:34:18: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.2ms.
+L 12/29/2024 - 00:34:24: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.7ms.
+L 12/29/2024 - 00:34:25: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.0ms.
+L 12/29/2024 - 00:34:27: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 5.7ms.
+L 12/29/2024 - 00:34:40: [basebuilder65.amxx] performance issue. Function task_PrepTime executed more than 2.0ms.
+L 12/29/2024 - 00:35:09: [basebuilder65.amxx] performance issue. Function client_death executed more than 2.1ms.
+L 12/29/2024 - 00:35:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:35:14: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.1ms.
+L 12/29/2024 - 00:35:17: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.6ms.
+L 12/29/2024 - 00:35:17: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.2ms.
+L 12/29/2024 - 00:35:18: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 12/29/2024 - 00:35:20: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:35:20: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.4ms.
+L 12/29/2024 - 00:35:24: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 12/29/2024 - 00:35:30: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.2ms.
+L 12/29/2024 - 00:35:30: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:35:30: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.8ms.
+L 12/29/2024 - 00:35:30: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:35:30: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.8ms.
+L 12/29/2024 - 00:35:32: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 4.1ms.
+L 12/29/2024 - 00:35:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:35:34: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.4ms.
+L 12/29/2024 - 00:35:35: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:35:35: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.5ms.
+L 12/29/2024 - 00:35:43: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 00:35:56: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:35:56: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.4ms.
+L 12/29/2024 - 00:35:58: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.9ms.
+L 12/29/2024 - 00:35:58: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.1ms.
+L 12/29/2024 - 00:36:06: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 10.3ms.
+L 12/29/2024 - 00:36:18: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 2.1ms.
+L 12/29/2024 - 00:36:18: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.3ms.
+L 12/29/2024 - 00:36:20: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.0ms.
+L 12/29/2024 - 00:36:35: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 00:37:07: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.7ms.
+L 12/29/2024 - 00:37:18: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 2.7ms.
+L 12/29/2024 - 00:37:24: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.9ms.
+L 12/29/2024 - 00:37:24: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.1ms.
+L 12/29/2024 - 00:37:28: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:37:28: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.0ms.
+L 12/29/2024 - 00:37:29: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.9ms.
+L 12/29/2024 - 00:37:29: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.2ms.
+L 12/29/2024 - 00:37:34: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 2.1ms.
+L 12/29/2024 - 00:37:43: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 4.0ms.
+L 12/29/2024 - 00:38:00: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 3.8ms.
+L 12/29/2024 - 00:38:14: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.3ms.
+L 12/29/2024 - 00:38:20: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:38:20: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:38:23: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.4ms.
+L 12/29/2024 - 00:38:31: [basebuilder65.amxx] performance issue. Function task_PrepTime executed more than 2.4ms.
+L 12/29/2024 - 00:38:51: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:38:51: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.2ms.
+L 12/29/2024 - 00:38:55: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 5.9ms.
+L 12/29/2024 - 00:38:56: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 5.7ms.
+L 12/29/2024 - 00:39:01: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.3ms.
+L 12/29/2024 - 00:39:01: [basebuilder65.amxx] performance issue. Function client_death executed more than 2.6ms.
+L 12/29/2024 - 00:39:04: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 12.0ms.
+L 12/29/2024 - 00:39:04: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.3ms.
+L 12/29/2024 - 00:39:04: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 7.4ms.
+L 12/29/2024 - 00:39:09: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.9ms.
+L 12/29/2024 - 00:39:10: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:39:10: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.2ms.
+L 12/29/2024 - 00:39:14: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 6.6ms.
+L 12/29/2024 - 00:39:22: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:39:22: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.0ms.
+L 12/29/2024 - 00:39:33: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:39:33: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.7ms.
+L 12/29/2024 - 00:39:45: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:39:45: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.8ms.
+L 12/29/2024 - 00:39:59: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:39:59: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.5ms.
+L 12/29/2024 - 00:40:03: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 5.3ms.
+L 12/29/2024 - 00:40:13: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:40:13: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.0ms.
+L 12/29/2024 - 00:40:17: [basebuilder65.amxx] performance issue. Function client_disconnect executed more than 1.3ms.
+L 12/29/2024 - 00:40:18: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 10.6ms.
+L 12/29/2024 - 00:40:18: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 8.8ms.
+L 12/29/2024 - 00:40:26: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 12/29/2024 - 00:40:50: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.7ms.
+L 12/29/2024 - 00:41:02: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 3.1ms.
+L 12/29/2024 - 00:41:07: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 3.6ms.
+L 12/29/2024 - 00:41:11: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 2.6ms.
+L 12/29/2024 - 00:41:24: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.4ms.
+L 12/29/2024 - 00:41:31: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.3ms.
+L 12/29/2024 - 00:41:31: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.6ms.
+L 12/29/2024 - 00:41:31: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.1ms.
+L 12/29/2024 - 00:41:32: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 5.3ms.
+L 12/29/2024 - 00:41:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:41:34: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.7ms.
+L 12/29/2024 - 00:41:34: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.2ms.
+L 12/29/2024 - 00:41:35: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 4.2ms.
+L 12/29/2024 - 00:41:36: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:42:02: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.8ms.
+L 12/29/2024 - 00:42:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:42:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:42:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.1ms.
+L 12/29/2024 - 00:42:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.4ms.
+L 12/29/2024 - 00:42:03: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 14.0ms.
+L 12/29/2024 - 00:42:05: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.0ms.
+L 12/29/2024 - 00:42:05: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.2ms.
+L 12/29/2024 - 00:42:05: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 12/29/2024 - 00:42:26: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.0ms.
+L 12/29/2024 - 00:42:50: [basebuilder65.amxx] performance issue. Function ev_ShowStatus executed more than 2.4ms.
+L 12/29/2024 - 00:42:50: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.9ms.
+L 12/29/2024 - 00:42:55: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 00:43:08: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.1ms.
+L 12/29/2024 - 00:43:12: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:43:39: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:43:41: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:43:50: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.2ms.
+L 12/29/2024 - 00:44:02: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 5.8ms.
+L 12/29/2024 - 00:44:03: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 1.7ms.
+L 12/29/2024 - 00:44:05: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 10.7ms.
+L 12/29/2024 - 00:44:23: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.3ms.
+L 12/29/2024 - 00:44:28: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 00:44:28: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.5ms.
+L 12/29/2024 - 00:44:32: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 4.3ms.
+L 12/29/2024 - 00:44:33: [basebuilder65.amxx] performance issue. Function weapon_method_pushed executed more than 1.4ms.
+L 12/29/2024 - 00:44:37: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.4ms.
+L 12/29/2024 - 00:44:37: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.9ms.
+L 12/29/2024 - 00:45:02: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 33.6ms.
+L 12/29/2024 - 00:45:02: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 20.2ms.
+L 12/29/2024 - 00:45:03: [basebuilder65.amxx] performance issue. Function task_PrepTime executed more than 1.8ms.
+L 12/29/2024 - 00:45:09: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 9.7ms.
+L 12/29/2024 - 00:45:13: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 1.9ms.
+L 12/29/2024 - 00:45:38: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 2.4ms.
+L 12/29/2024 - 00:45:55: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.4ms.
+L 12/29/2024 - 00:45:55: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.6ms.
+L 12/29/2024 - 00:45:57: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.3ms.
+L 12/29/2024 - 00:46:07: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:46:34: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.6ms.
+L 12/29/2024 - 00:46:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.1ms.
+L 12/29/2024 - 00:46:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:46:34: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:47:07: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:47:07: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:47:10: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.5ms.
+L 12/29/2024 - 00:47:55: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.4ms.
+L 12/29/2024 - 00:48:02: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 6.5ms.
+L 12/29/2024 - 00:48:02: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 51.1ms.
+L 12/29/2024 - 00:48:03: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 6.2ms.
+L 12/29/2024 - 00:48:08: [admincmd.amxx] Cmd: "Rozskin<106><STEAM_0:1:85202636><>" ask for players list
+L 12/29/2024 - 00:48:26: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:48:28: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.7ms.
+L 12/29/2024 - 00:48:28: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.9ms.
+L 12/29/2024 - 00:48:31: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 00:48:35: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:35: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.8ms.
+L 12/29/2024 - 00:48:37: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.7ms.
+L 12/29/2024 - 00:48:37: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:48:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:48:39: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:48:40: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.6ms.
+L 12/29/2024 - 00:48:40: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.3ms.
+L 12/29/2024 - 00:48:41: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:41: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:48:41: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.2ms.
+L 12/29/2024 - 00:48:41: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:48:41: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:48:42: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:48:42: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.7ms.
+L 12/29/2024 - 00:48:43: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:48:43: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.0ms.
+L 12/29/2024 - 00:48:44: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.8ms.
+L 12/29/2024 - 00:48:44: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.7ms.
+L 12/29/2024 - 00:48:44: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:48:44: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.7ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.7ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 5.9ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 9.2ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:48:45: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:48:46: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:48:46: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:48:46: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:48:46: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:48:46: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.6ms.
+L 12/29/2024 - 00:48:47: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.7ms.
+L 12/29/2024 - 00:48:47: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.4ms.
+L 12/29/2024 - 00:48:47: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.9ms.
+L 12/29/2024 - 00:48:47: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.8ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.1ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.5ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.7ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.1ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.8ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.7ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:48:48: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.0ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.4ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.6ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:48:49: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.4ms.
+L 12/29/2024 - 00:48:50: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:48:50: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.1ms.
+L 12/29/2024 - 00:48:50: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.7ms.
+L 12/29/2024 - 00:48:50: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.3ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.4ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 6.9ms.
+L 12/29/2024 - 00:48:51: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 10.5ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 6.5ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.9ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.0ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:48:52: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.0ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:48:53: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.3ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.7ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.9ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.6ms.
+L 12/29/2024 - 00:48:54: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.4ms.
+L 12/29/2024 - 00:48:55: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:48:55: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.1ms.
+L 12/29/2024 - 00:48:55: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.8ms.
+L 12/29/2024 - 00:48:55: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.2ms.
+L 12/29/2024 - 00:48:56: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.2ms.
+L 12/29/2024 - 00:48:56: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.0ms.
+L 12/29/2024 - 00:48:57: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:48:57: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.9ms.
+L 12/29/2024 - 00:48:57: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.3ms.
+L 12/29/2024 - 00:48:57: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.9ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.3ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.5ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.3ms.
+L 12/29/2024 - 00:48:58: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.7ms.
+L 12/29/2024 - 00:48:59: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.2ms.
+L 12/29/2024 - 00:48:59: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.1ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.1ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.4ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:49:00: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.3ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 6.0ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 8.2ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.5ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:49:01: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:49:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 27.8ms.
+L 12/29/2024 - 00:49:02: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 29.2ms.
+L 12/29/2024 - 00:49:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.8ms.
+L 12/29/2024 - 00:49:02: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.6ms.
+L 12/29/2024 - 00:49:03: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.6ms.
+L 12/29/2024 - 00:49:03: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:49:03: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:49:03: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.8ms.
+L 12/29/2024 - 00:49:04: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.9ms.
+L 12/29/2024 - 00:49:04: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 7.8ms.
+L 12/29/2024 - 00:49:04: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 4.6ms.
+L 12/29/2024 - 00:49:04: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:49:04: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:49:05: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:49:05: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:49:06: [basebuilder65.amxx] performance issue. Function weapon_method_pushed executed more than 1.3ms.
+L 12/29/2024 - 00:49:06: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:49:06: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:49:07: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.5ms.
+L 12/29/2024 - 00:49:07: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.3ms.
+L 12/29/2024 - 00:49:08: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.8ms.
+L 12/29/2024 - 00:49:08: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 2.4ms.
+L 12/29/2024 - 00:49:08: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.2ms.
+L 12/29/2024 - 00:49:08: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.3ms.
+L 12/29/2024 - 00:49:08: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.3ms.
+L 12/29/2024 - 00:49:09: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:49:09: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.8ms.
+L 12/29/2024 - 00:49:09: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:49:09: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.6ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.9ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.3ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.1ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:49:10: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.5ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.0ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.5ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.7ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 6.7ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 8.3ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.1ms.
+L 12/29/2024 - 00:49:11: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.9ms.
+L 12/29/2024 - 00:49:12: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.6ms.
+L 12/29/2024 - 00:49:12: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 3.7ms.
+L 12/29/2024 - 00:49:13: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.0ms.
+L 12/29/2024 - 00:49:13: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.3ms.
+L 12/29/2024 - 00:49:13: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.8ms.
+L 12/29/2024 - 00:49:13: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 3.8ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.8ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.8ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function clcmd_changeteam executed more than 1.9ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.2ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 5.4ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.0ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 4.5ms.
+L 12/29/2024 - 00:49:14: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 6.1ms.
+L 12/29/2024 - 00:49:16: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.4ms.
+L 12/29/2024 - 00:49:22: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:49:22: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.4ms.
+L 12/29/2024 - 00:49:35: [basebuilder65.amxx] performance issue. Function task_PrepTime executed more than 2.3ms.
+L 12/29/2024 - 00:50:00: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 7.6ms.
+L 12/29/2024 - 00:50:04: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 20.8ms.
+L 12/29/2024 - 00:50:04: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 7.0ms.
+L 12/29/2024 - 00:50:16: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:50:16: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.0ms.
+L 12/29/2024 - 00:50:26: [admin.amxx] Login: "MegaXZero<111><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 00:50:31: [admin.amxx] Login: "MegaXZero<112><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 00:50:42: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:50:42: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.2ms.
+L 12/29/2024 - 00:50:52: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.6ms.
+L 12/29/2024 - 00:50:56: [basebuilder65.amxx] performance issue. Function fw_GetGameDescription executed more than 2.3ms.
+L 12/29/2024 - 00:50:57: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:50:57: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.5ms.
+L 12/29/2024 - 00:51:02: [basebuilder65.amxx] performance issue. Function ev_Health executed more than 15.0ms.
+L 12/29/2024 - 00:51:10: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 3.9ms.
+L 12/29/2024 - 00:51:25: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 12/29/2024 - 00:51:31: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 3.9ms.
+L 12/29/2024 - 00:51:39: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.5ms.
+L 12/29/2024 - 00:51:56: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:51:56: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.1ms.
+L 12/29/2024 - 00:52:16: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.1ms.
+L 12/29/2024 - 00:52:16: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 4.9ms.
+L 12/29/2024 - 00:52:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.3ms.
+L 12/29/2024 - 00:52:39: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 6.5ms.
+L 12/29/2024 - 00:53:02: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.6ms.
+L 12/29/2024 - 00:53:02: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.9ms.
+L 12/29/2024 - 00:53:02: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 3.0ms.
+L 12/29/2024 - 00:53:15: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:53:15: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.0ms.
+L 12/29/2024 - 00:53:16: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 3.8ms.
+L 12/29/2024 - 00:53:36: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.2ms.
+L 12/29/2024 - 00:53:36: [basebuilder65.amxx] performance issue. Function Respawn_Player executed more than 5.2ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.9ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.3ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 2.5ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 1.3ms.
+L 12/29/2024 - 00:53:39: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.1ms.
+L 12/29/2024 - 00:53:44: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.2ms.
+L 12/29/2024 - 00:53:44: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.6ms.
+L 12/29/2024 - 00:54:09: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.2ms.
+L 12/29/2024 - 00:54:12: [basebuilder65.amxx] performance issue. Function ham_PlayerSpawn_Post executed more than 3.4ms.
+L 12/29/2024 - 00:54:12: [basebuilder65.amxx] performance issue. Function zclass_pushed executed more than 4.6ms.
+L 12/29/2024 - 00:54:13: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 3.9ms.
+L 12/29/2024 - 00:54:35: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 00:54:35: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.8ms.
+L 12/29/2024 - 00:54:35: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 1.2ms.
+L 12/29/2024 - 00:54:40: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.5ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.4ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.4ms.
+L 12/29/2024 - 00:54:47: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.4ms.
+L 12/29/2024 - 00:54:50: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Soccerjam
+L 12/29/2024 - 00:54:50: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 1.1ms.
+L 12/29/2024 - 00:54:52: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:54:52: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:54:55: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.6ms.
+L 12/29/2024 - 00:54:57: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:55:02: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 15.2ms.
+L 12/29/2024 - 00:55:02: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 3.0ms.
+L 12/29/2024 - 00:55:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:55:05: [polymorph.amxx] performance issue. Function startMapVote executed more than 2.1ms.
+L 12/29/2024 - 00:55:06: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.6ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.8ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 12/29/2024 - 00:55:17: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 00:55:18: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.0ms.
+L 12/29/2024 - 00:55:18: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 12/29/2024 - 00:55:18: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 12/29/2024 - 00:55:18: [basebuilder65.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 00:55:20: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.0ms.
+L 12/29/2024 - 00:55:21: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera sj_trix_zone
+L 12/29/2024 - 00:55:21: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 12/29/2024 - 00:55:25: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.1ms.
+L 12/29/2024 - 00:55:42: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 00:55:42: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 1.8ms.
+L 12/29/2024 - 00:55:57: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 12/29/2024 - 00:55:57: [polymorph.amxx] performance issue. Function checkModVotes executed more than 3.5ms.
+L 12/29/2024 - 00:56:10: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 3.7ms.
+L 12/29/2024 - 00:56:11: [basebuilder65.amxx] performance issue. Function weapon_method_pushed executed more than 1.2ms.
+L 12/29/2024 - 00:56:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 00:56:12: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.4ms.
+L 12/29/2024 - 00:56:27: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera ze_jurassicworld_escape_fr3_v1
+L 12/29/2024 - 00:56:41: [basebuilder65.amxx] performance issue. Function task_PrepTime executed more than 2.1ms.
+L 12/29/2024 - 00:56:42: -------- Mapchange to ze_jurassicworld_escape_fr3_v1 --------
+L 12/29/2024 - 00:56:43: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 00:56:47: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3337.0ms.
+L 12/29/2024 - 00:56:49: [admin.amxx] Login: "Rozskin<106><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 00:56:49: [admin.amxx] Login: "MegaXZero<112><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 00:56:55: [admin.amxx] Login: "MegaXZero<116><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 00:56:59: [admin.amxx] Login: "Rozskin<117><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:08:43: [adminvote.amxx] Vote: "Rozskin<117><STEAM_0:1:85202636><>" vote custom (question "rtv?") (option#1 "aja") (option#2 "?")
+L 12/29/2024 - 01:08:55: [adminvote.amxx] Vote: Voting successful (got "5") (needed "1") (result "rtv? - aja")
+L 12/29/2024 - 01:09:29: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 01:09:29: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 1.3ms.
+L 12/29/2024 - 01:09:44: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Rubaka
+L 12/29/2024 - 01:09:44: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.8ms.
+L 12/29/2024 - 01:09:59: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 01:09:59: [polymorph.amxx] performance issue. Function startMapVote executed more than 2.7ms.
+L 12/29/2024 - 01:10:14: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera rubaka_orange_x
+L 12/29/2024 - 01:10:14: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.4ms.
+L 12/29/2024 - 01:10:31: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.8ms.
+L 12/29/2024 - 01:10:31: -------- Mapchange to rubaka_orange_x --------
+L 12/29/2024 - 01:10:31: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 01:10:36: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3381.6ms.
+L 12/29/2024 - 01:10:37: [admin.amxx] Login: "Rozskin<117><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:10:38: [admin.amxx] Login: "Rozskin<123><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:10:38: [admin.amxx] Login: "MegaXZero<116><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 01:10:42: [admin.amxx] Login: "Rozskin<130><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:10:43: [admin.amxx] Login: "MegaXZero<132><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 01:12:34: [admin.amxx] Login: "Crash!!<135><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:12:37: [admin.amxx] Login: "Crash!!<136><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:12:58: [admincmd.amxx] Cmd: "Crash!!<136><STEAM_0:0:74976194><>" ask for players list
+L 12/29/2024 - 01:19:43: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.0ms.
+L 12/29/2024 - 01:19:49: [admincmd.amxx] Cmd: "Crash!!<136><STEAM_0:0:74976194><>" changelevel "zm_peligro_pg"
+L 12/29/2024 - 01:19:51: -------- Mapchange to zm_peligro_pg --------
+L 12/29/2024 - 01:19:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 184.8ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 11.0ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 21.0ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 16.1ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 15.3ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 12.0ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 21.6ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.9ms.
+L 12/29/2024 - 01:19:52: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 12.6ms.
+L 12/29/2024 - 01:19:53: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 28.5ms.
+L 12/29/2024 - 01:19:56: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3454.4ms.
+L 12/29/2024 - 01:19:58: [admin.amxx] Login: "Rozskin<130><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:19:58: [admin.amxx] Login: "Crash!!<136><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:19:58: [admin.amxx] Login: "MegaXZero<132><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 01:20:01: [admin.amxx] Login: "Crash!!<137><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:20:04: [admin.amxx] Login: "Rozskin<141><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:20:04: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 17.6ms.
+L 12/29/2024 - 01:20:04: [admin.amxx] Login: "MegaXZero<140><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "184.182.116.101")
+L 12/29/2024 - 01:20:08: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:20:08: [zombie_plague43.amxx] performance issue. Function menu_buy2 executed more than 9.5ms.
+L 12/29/2024 - 01:20:12: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.0ms.
+L 12/29/2024 - 01:20:13: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:20:14: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.7ms.
+L 12/29/2024 - 01:20:14: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:20:14: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 2.7ms.
+L 12/29/2024 - 01:20:14: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:20:16: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 2.3ms.
+L 12/29/2024 - 01:20:17: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 3.5ms.
+L 12/29/2024 - 01:20:18: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:20:18: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:20:20: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:20:20: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:20:23: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "zp_lighting") (value "g")
+L 12/29/2024 - 01:20:24: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 2.9ms.
+L 12/29/2024 - 01:20:27: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "zp_lighting") (value "c")
+L 12/29/2024 - 01:20:29: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "zp_lighting") (value "d")
+L 12/29/2024 - 01:20:30: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "zp_lighting") (value "e")
+L 12/29/2024 - 01:20:32: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "zp_lighting") (value "f")
+L 12/29/2024 - 01:20:37: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:20:43: [zombie_plague43.amxx] performance issue. Function fw_ThinkGrenade executed more than 1.0ms.
+L 12/29/2024 - 01:20:45: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.2ms.
+L 12/29/2024 - 01:20:45: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.5ms.
+L 12/29/2024 - 01:20:54: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:21:03: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.2ms.
+L 12/29/2024 - 01:21:06: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.4ms.
+L 12/29/2024 - 01:21:10: [zombie_plague43.amxx] performance issue. Function fw_PlayerSpawn_Post executed more than 1.9ms.
+L 12/29/2024 - 01:21:10: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 5.7ms.
+L 12/29/2024 - 01:21:11: [zombie_plague43.amxx] performance issue. Function fw_PlayerSpawn_Post executed more than 2.2ms.
+L 12/29/2024 - 01:21:11: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 6.2ms.
+L 12/29/2024 - 01:21:21: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:21:31: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.2ms.
+L 12/29/2024 - 01:21:32: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:21:33: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.0ms.
+L 12/29/2024 - 01:22:00: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:22:00: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.1ms.
+L 12/29/2024 - 01:22:00: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:22:01: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:22:02: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.1ms.
+L 12/29/2024 - 01:22:02: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 56.9ms.
+L 12/29/2024 - 01:22:03: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:22:03: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:22:05: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:22:07: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.7ms.
+L 12/29/2024 - 01:22:11: [zombie_plague43.amxx] performance issue. Function fw_ThinkGrenade executed more than 1.0ms.
+L 12/29/2024 - 01:22:11: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:22:12: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 3.1ms.
+L 12/29/2024 - 01:22:18: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.3ms.
+L 12/29/2024 - 01:22:25: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:22:28: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.1ms.
+L 12/29/2024 - 01:22:30: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.3ms.
+L 12/29/2024 - 01:22:39: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.4ms.
+L 12/29/2024 - 01:22:42: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.2ms.
+L 12/29/2024 - 01:22:51: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.7ms.
+L 12/29/2024 - 01:22:58: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.7ms.
+L 12/29/2024 - 01:22:58: [zombie_plague43.amxx] performance issue. Function ShowHUD executed more than 1.0ms.
+L 12/29/2024 - 01:22:58: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:23:01: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 26.1ms.
+L 12/29/2024 - 01:23:01: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 8.2ms.
+L 12/29/2024 - 01:23:02: [zombie_plague43.amxx] performance issue. Function ShowHUD executed more than 33.7ms.
+L 12/29/2024 - 01:23:14: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.3ms.
+L 12/29/2024 - 01:23:27: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 2.1ms.
+L 12/29/2024 - 01:23:31: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:23:39: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 4.6ms.
+L 12/29/2024 - 01:23:39: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 12/29/2024 - 01:23:41: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:23:41: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.0ms.
+L 12/29/2024 - 01:23:44: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:23:47: [zombie_plague43.amxx] performance issue. Function fw_ThinkGrenade executed more than 2.9ms.
+L 12/29/2024 - 01:23:52: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.4ms.
+L 12/29/2024 - 01:24:05: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:24:05: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.3ms.
+L 12/29/2024 - 01:24:05: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:24:06: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:24:06: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:24:06: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:24:07: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 2.0ms.
+L 12/29/2024 - 01:24:07: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:24:08: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:24:14: [zombie_plague43.amxx] performance issue. Function native_make_user_sniper executed more than 18.2ms.
+L 12/29/2024 - 01:24:14: [zombie_plague43.amxx] performance issue. Function menu_extras executed more than 19.0ms.
+L 12/29/2024 - 01:24:56: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.1ms.
+L 12/29/2024 - 01:25:00: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 12/29/2024 - 01:25:01: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 37.6ms.
+L 12/29/2024 - 01:25:26: [zombie_plague43.amxx] performance issue. Function ShowHUD executed more than 1.3ms.
+L 12/29/2024 - 01:25:44: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:25:44: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.9ms.
+L 12/29/2024 - 01:25:44: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:25:45: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.7ms.
+L 12/29/2024 - 01:25:45: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:25:46: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:25:46: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:25:46: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:25:46: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.5ms.
+L 12/29/2024 - 01:25:47: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:25:51: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:25:56: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 3.0ms.
+L 12/29/2024 - 01:26:07: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 2.3ms.
+L 12/29/2024 - 01:26:15: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.2ms.
+L 12/29/2024 - 01:26:48: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:26:48: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:26:48: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.3ms.
+L 12/29/2024 - 01:26:48: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:26:48: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:26:49: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:26:49: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:26:50: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:26:50: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.4ms.
+L 12/29/2024 - 01:26:52: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:27:00: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 3.0ms.
+L 12/29/2024 - 01:27:01: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.4ms.
+L 12/29/2024 - 01:27:02: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.7ms.
+L 12/29/2024 - 01:27:05: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 3.1ms.
+L 12/29/2024 - 01:27:14: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.8ms.
+L 12/29/2024 - 01:27:30: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.3ms.
+L 12/29/2024 - 01:27:39: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.4ms.
+L 12/29/2024 - 01:27:43: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 1.9ms.
+L 12/29/2024 - 01:27:45: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.4ms.
+L 12/29/2024 - 01:27:46: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:27:54: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:28:14: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 3.6ms.
+L 12/29/2024 - 01:28:17: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.3ms.
+L 12/29/2024 - 01:28:37: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.8ms.
+L 12/29/2024 - 01:28:38: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:28:42: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.3ms.
+L 12/29/2024 - 01:28:55: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 5.2ms.
+L 12/29/2024 - 01:28:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 2.1ms.
+L 12/29/2024 - 01:28:59: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.7ms.
+L 12/29/2024 - 01:28:59: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.3ms.
+L 12/29/2024 - 01:29:00: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.2ms.
+L 12/29/2024 - 01:29:01: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 30.3ms.
+L 12/29/2024 - 01:29:01: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 4.8ms.
+L 12/29/2024 - 01:29:05: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 4.8ms.
+L 12/29/2024 - 01:29:07: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 1.3ms.
+L 12/29/2024 - 01:29:11: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.9ms.
+L 12/29/2024 - 01:29:11: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:29:14: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 2.7ms.
+L 12/29/2024 - 01:29:14: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.4ms.
+L 12/29/2024 - 01:29:15: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.3ms.
+L 12/29/2024 - 01:29:16: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:29:18: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.4ms.
+L 12/29/2024 - 01:29:21: [zombie_plague43.amxx] performance issue. Function fw_PlayerSpawn_Post executed more than 2.2ms.
+L 12/29/2024 - 01:29:21: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 6.6ms.
+L 12/29/2024 - 01:29:24: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:29:25: [zombie_plague43.amxx] performance issue. Function fw_PlayerSpawn_Post executed more than 2.1ms.
+L 12/29/2024 - 01:29:25: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 6.0ms.
+L 12/29/2024 - 01:29:29: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 4.1ms.
+L 12/29/2024 - 01:29:30: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:29:32: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:29:36: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:29:36: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.1ms.
+L 12/29/2024 - 01:29:38: [zombie_plague43.amxx] performance issue. Function respawn_player_task executed more than 3.4ms.
+L 12/29/2024 - 01:29:39: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:29:39: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:29:40: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.2ms.
+L 12/29/2024 - 01:29:55: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:29:55: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:29:55: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:29:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:29:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:29:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.0ms.
+L 12/29/2024 - 01:29:57: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 2.2ms.
+L 12/29/2024 - 01:29:59: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:30:03: [zombie_plague43.amxx] performance issue. Function menu_extras executed more than 1.6ms.
+L 12/29/2024 - 01:30:07: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 3.0ms.
+L 12/29/2024 - 01:30:08: [zombie_plague43.amxx] performance issue. Function cmd_zombie executed more than 3.6ms.
+L 12/29/2024 - 01:30:46: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 6.8ms.
+L 12/29/2024 - 01:31:02: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 30.1ms.
+L 12/29/2024 - 01:31:04: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 3.5ms.
+L 12/29/2024 - 01:31:06: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 7.5ms.
+L 12/29/2024 - 01:31:09: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 3.6ms.
+L 12/29/2024 - 01:31:11: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 1.3ms.
+L 12/29/2024 - 01:31:26: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:31:26: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.4ms.
+L 12/29/2024 - 01:31:26: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:31:27: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:31:27: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:31:27: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.5ms.
+L 12/29/2024 - 01:31:27: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:31:29: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:31:30: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:31:34: [zombie_plague43.amxx] performance issue. Function cmd_zombie executed more than 3.6ms.
+L 12/29/2024 - 01:31:56: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.3ms.
+L 12/29/2024 - 01:32:01: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.0ms.
+L 12/29/2024 - 01:32:02: [zombie_plague43.amxx] performance issue. Function lighting_effects executed more than 2.7ms.
+L 12/29/2024 - 01:32:05: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.4ms.
+L 12/29/2024 - 01:32:15: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.6ms.
+L 12/29/2024 - 01:32:18: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.5ms.
+L 12/29/2024 - 01:32:28: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 4.3ms.
+L 12/29/2024 - 01:32:31: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.2ms.
+L 12/29/2024 - 01:32:39: [zombie_plague43.amxx] performance issue. Function fw_ThinkGrenade executed more than 1.0ms.
+L 12/29/2024 - 01:32:44: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 3.3ms.
+L 12/29/2024 - 01:33:01: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 8.3ms.
+L 12/29/2024 - 01:33:02: [zombie_plague43.amxx] performance issue. Function fw_ThinkGrenade executed more than 1.6ms.
+L 12/29/2024 - 01:33:04: [zombie_plague43.amxx] performance issue. Function fw_TakeDamage executed more than 2.7ms.
+L 12/29/2024 - 01:33:30: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:33:30: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.1ms.
+L 12/29/2024 - 01:33:30: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:33:30: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:33:31: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:33:31: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:33:31: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:33:32: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:33:32: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.7ms.
+L 12/29/2024 - 01:33:36: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:33:42: [zombie_plague43.amxx] performance issue. Function make_zombie_task executed more than 2.6ms.
+L 12/29/2024 - 01:33:46: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 01:34:24: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 1.4ms.
+L 12/29/2024 - 01:34:40: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.8ms.
+L 12/29/2024 - 01:35:02: [zombie_plague43.amxx] performance issue. Function zombie_aura executed more than 1.3ms.
+L 12/29/2024 - 01:35:17: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.6ms.
+L 12/29/2024 - 01:35:24: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie_class executed more than 1.0ms.
+L 12/29/2024 - 01:36:21: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 1.5ms.
+L 12/29/2024 - 01:36:42: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:36:42: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 2.2ms.
+L 12/29/2024 - 01:36:42: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:36:43: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:36:43: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:36:43: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.4ms.
+L 12/29/2024 - 01:36:46: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:36:47: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:36:50: [zombie_plague43.amxx] performance issue. Function native_make_user_assassin executed more than 2.5ms.
+L 12/29/2024 - 01:36:50: [zombie_plague43.amxx] performance issue. Function menu_extras executed more than 3.4ms.
+L 12/29/2024 - 01:36:55: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" set cvar (name "mp_flashlight") (value "0")
+L 12/29/2024 - 01:37:03: [zombie_plague43.amxx] performance issue. Function fw_CmdStart executed more than 1.4ms.
+L 12/29/2024 - 01:37:05: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.1ms.
+L 12/29/2024 - 01:37:06: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:37:34: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.4ms.
+L 12/29/2024 - 01:37:34: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:37:57: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.2ms.
+L 12/29/2024 - 01:37:58: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:38:04: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.8ms.
+L 12/29/2024 - 01:38:05: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:38:17: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.4ms.
+L 12/29/2024 - 01:38:17: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:38:27: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 4.1ms.
+L 12/29/2024 - 01:38:28: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.3ms.
+L 12/29/2024 - 01:38:30: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:38:33: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.3ms.
+L 12/29/2024 - 01:38:33: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:38:40: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.3ms.
+L 12/29/2024 - 01:38:42: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:38:55: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.9ms.
+L 12/29/2024 - 01:38:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:38:58: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.5ms.
+L 12/29/2024 - 01:39:07: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.5ms.
+L 12/29/2024 - 01:39:08: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 15.4ms.
+L 12/29/2024 - 01:39:16: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.2ms.
+L 12/29/2024 - 01:39:18: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 01:39:18: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.3ms.
+L 12/29/2024 - 01:39:22: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.4ms.
+L 12/29/2024 - 01:39:22: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.5ms.
+L 12/29/2024 - 01:39:23: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:39:27: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:39:32: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.4ms.
+L 12/29/2024 - 01:39:33: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera zm_toxic_house2
+L 12/29/2024 - 01:39:33: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.5ms.
+L 12/29/2024 - 01:39:39: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.2ms.
+L 12/29/2024 - 01:39:39: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:39:39: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.4ms.
+L 12/29/2024 - 01:39:40: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.5ms.
+L 12/29/2024 - 01:39:40: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:39:42: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:39:54: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 6.8ms.
+L 12/29/2024 - 01:39:54: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.1ms.
+L 12/29/2024 - 01:39:56: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:39:59: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.2ms.
+L 12/29/2024 - 01:39:59: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:40:04: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 7.1ms.
+L 12/29/2024 - 01:40:05: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.3ms.
+L 12/29/2024 - 01:40:05: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:40:05: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.4ms.
+L 12/29/2024 - 01:40:06: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:40:07: [zombie_plague43.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.1ms.
+L 12/29/2024 - 01:40:13: [zombie_plague43.amxx] performance issue. Function set_user_nvision executed more than 1.5ms.
+L 12/29/2024 - 01:40:17: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.2ms.
+L 12/29/2024 - 01:40:17: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:40:18: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.7ms.
+L 12/29/2024 - 01:40:18: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 7.6ms.
+L 12/29/2024 - 01:40:18: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:40:19: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:40:24: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.4ms.
+L 12/29/2024 - 01:40:24: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:40:30: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.2ms.
+L 12/29/2024 - 01:40:31: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.3ms.
+L 12/29/2024 - 01:40:31: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 5.8ms.
+L 12/29/2024 - 01:40:32: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.1ms.
+L 12/29/2024 - 01:40:50: [zombie_plague43.amxx] performance issue. Function menu_player_list executed more than 4.7ms.
+L 12/29/2024 - 01:40:54: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:40:57: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:40:57: [zombie_plague43.amxx] performance issue. Function show_menu_buy1 executed more than 1.7ms.
+L 12/29/2024 - 01:40:58: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.4ms.
+L 12/29/2024 - 01:40:58: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.5ms.
+L 12/29/2024 - 01:40:58: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.8ms.
+L 12/29/2024 - 01:40:59: [zombie_plague43.amxx] performance issue. Function welcome_msg executed more than 1.2ms.
+L 12/29/2024 - 01:41:00: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 12/29/2024 - 01:41:01: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.6ms.
+L 12/29/2024 - 01:41:02: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 4.0ms.
+L 12/29/2024 - 01:41:05: [zombie_plague43.amxx] performance issue. Function menu_buy1 executed more than 1.9ms.
+L 12/29/2024 - 01:41:06: [admincmd.amxx] Cmd: "Crash!!<137><STEAM_0:0:74976194><>" changelevel "ka_roadwars_v3"
+L 12/29/2024 - 01:41:06: [zombie_plague43.amxx] performance issue. Function menu_buy2 executed more than 6.2ms.
+L 12/29/2024 - 01:41:08: -------- Mapchange to ka_roadwars_v3 --------
+L 12/29/2024 - 01:41:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 01:41:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3411.8ms.
+L 12/29/2024 - 01:41:14: [admin.amxx] Login: "Crash!!<137><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:41:14: [admin.amxx] Login: "Rozskin<141><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:41:17: [admin.amxx] Login: "Crash!!<146><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:41:21: [admin.amxx] Login: "Rozskin<150><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:51:15: [admincmd.amxx] Cmd: "Crash!!<146><STEAM_0:0:74976194><>" changelevel "mini_dust_pro"
+L 12/29/2024 - 01:51:17: [polymorph.amxx] performance issue. Function plugin_end executed more than 2.1ms.
+L 12/29/2024 - 01:51:17: -------- Mapchange to mini_dust_pro --------
+L 12/29/2024 - 01:51:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 01:51:18: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 01:51:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3783.8ms.
+L 12/29/2024 - 01:51:24: [admin.amxx] Login: "Crash!!<146><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:51:24: [admin.amxx] Login: "Rozskin<150><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 01:51:26: [admin.amxx] Login: "Crash!!<160><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 01:51:28: [admin.amxx] Login: "Rozskin<164><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 02:03:54: [gungame.amxx] Starting a map vote from mapchooser.amxx
+L 12/29/2024 - 02:03:54: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 02:04:09: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 12/29/2024 - 02:04:16: [admincmd.amxx] Cmd: "Crash!!<160><STEAM_0:0:74976194><>" set cvar (name "amx_nextmap") (value "fy_chavo")
+L 12/29/2024 - 02:07:00: -------- Mapchange to fy_chavo --------
+L 12/29/2024 - 02:07:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 02:07:00: [jbextreme1.amxx] performance issue. Function plugin_precache executed more than 31.6ms.
+L 12/29/2024 - 02:07:00: [pisspg.amxx] performance issue. Function plugin_precache executed more than 20.1ms.
+L 12/29/2024 - 02:07:00: [re_dookie.amxx] performance issue. Function plugin_precache executed more than 14.9ms.
+L 12/29/2024 - 02:07:03: [polymorph.amxx] performance issue. Function plugin_init executed more than 6.3ms.
+L 12/29/2024 - 02:07:03: [jbextreme1.amxx] performance issue. Function plugin_init executed more than 1.2ms.
+L 12/29/2024 - 02:07:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/cachear.txt
+L 12/29/2024 - 02:07:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5110.4ms.
+L 12/29/2024 - 02:07:10: [admin.amxx] Login: "Crash!!<160><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 02:07:11: [admin.amxx] Login: "Crash!!<166><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 02:07:24: [admincmd.amxx] Cmd: "Crash!!<166><STEAM_0:0:74976194><>" changelevel "fy_chavo"
+L 12/29/2024 - 02:07:26: -------- Mapchange to fy_chavo --------
+L 12/29/2024 - 02:07:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 02:07:27: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 02:07:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3750.9ms.
+L 12/29/2024 - 02:07:33: [admin.amxx] Login: "Crash!!<166><STEAM_0:0:74976194><>" became an admin (account "Crash") (access "abcdefghijklmnopqrstu") (address "181.66.150.5")
+L 12/29/2024 - 02:50:32: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 02:50:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 02:50:47: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_titanic
+L 12/29/2024 - 02:50:47: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera gg_dusted_houses
+L 12/29/2024 - 02:50:47: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.0ms.
+L 12/29/2024 - 02:52:41: -------- Mapchange to gg_dusted_houses --------
+L 12/29/2024 - 02:52:41: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 02:52:42: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 02:52:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3736.7ms.
+L 12/29/2024 - 03:35:46: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 03:35:46: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 03:36:01: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jb_xtremer
+L 12/29/2024 - 03:36:01: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 12/29/2024 - 03:36:01: [polymorph.amxx] performance issue. Function checkModVotes executed more than 13.4ms.
+L 12/29/2024 - 03:36:16: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 03:36:31: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera crazycar_v2
+L 12/29/2024 - 03:37:55: -------- Mapchange to crazycar_v2 --------
+L 12/29/2024 - 03:37:56: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 03:38:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3597.4ms.
+L 12/29/2024 - 03:57:01: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 03:57:16: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera crazycar_v2
+L 12/29/2024 - 03:59:11: -------- Mapchange to crazycar_v2 --------
+L 12/29/2024 - 03:59:11: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 03:59:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3688.3ms.
+L 12/29/2024 - 04:18:16: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 04:18:31: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera crazycar_v2
+L 12/29/2024 - 04:20:25: -------- Mapchange to crazycar_v2 --------
+L 12/29/2024 - 04:20:25: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 04:20:30: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3546.6ms.
+L 12/29/2024 - 04:39:30: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 04:39:45: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 12/29/2024 - 04:39:45: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.7ms.
+L 12/29/2024 - 04:40:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 04:40:00: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.1ms.
+L 12/29/2024 - 04:40:16: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_aztec
+L 12/29/2024 - 04:40:16: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 2.9ms.
+L 12/29/2024 - 04:41:39: -------- Mapchange to de_aztec --------
+L 12/29/2024 - 04:41:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 04:41:41: [freeze-tag-bugfix1.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 12/29/2024 - 04:41:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3260.0ms.
+L 12/29/2024 - 05:00:44: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 05:00:59: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_vertigo
+L 12/29/2024 - 05:02:54: -------- Mapchange to de_vertigo --------
+L 12/29/2024 - 05:02:54: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 05:02:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3307.5ms.
+L 12/29/2024 - 05:21:58: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 05:21:58: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.6ms.
+L 12/29/2024 - 05:22:13: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 12/29/2024 - 05:22:13: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 12/29/2024 - 05:22:28: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 05:22:28: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.1ms.
+L 12/29/2024 - 05:22:44: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_aztec
+L 12/29/2024 - 05:24:08: -------- Mapchange to de_aztec --------
+L 12/29/2024 - 05:24:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 05:24:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3480.9ms.
+L 12/29/2024 - 05:42:13: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 05:42:28: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_inferno
+L 12/29/2024 - 05:44:22: -------- Mapchange to de_inferno --------
+L 12/29/2024 - 05:44:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 05:44:26: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3190.8ms.
+L 12/29/2024 - 06:02:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 06:02:42: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_dust2
+L 12/29/2024 - 06:04:36: -------- Mapchange to de_dust2 --------
+L 12/29/2024 - 06:04:36: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 06:04:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3256.6ms.
+L 12/29/2024 - 06:22:41: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 06:22:41: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.1ms.
+L 12/29/2024 - 06:22:56: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 12/29/2024 - 06:22:56: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 12/29/2024 - 06:23:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 06:23:26: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera cs_backalley
+L 12/29/2024 - 06:24:50: -------- Mapchange to cs_backalley --------
+L 12/29/2024 - 06:24:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 06:24:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3198.7ms.
+L 12/29/2024 - 06:41:55: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 06:41:55: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.1ms.
+L 12/29/2024 - 06:42:10: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_chateau
+L 12/29/2024 - 06:44:05: -------- Mapchange to de_chateau --------
+L 12/29/2024 - 06:44:05: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 06:44:06: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 12/29/2024 - 06:44:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3889.8ms.
+L 12/29/2024 - 07:01:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 07:01:25: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_chateau
+L 12/29/2024 - 07:03:19: -------- Mapchange to de_chateau --------
+L 12/29/2024 - 07:03:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 07:03:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3395.1ms.
+L 12/29/2024 - 07:20:24: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 07:20:39: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Plague
+L 12/29/2024 - 07:20:39: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.9ms.
+L 12/29/2024 - 07:20:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 07:21:10: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera zm_toronto
+L 12/29/2024 - 07:22:34: -------- Mapchange to zm_toronto --------
+L 12/29/2024 - 07:22:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 166.6ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.9ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 15.6ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 12.2ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.5ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.1ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 18.1ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 6.2ms.
+L 12/29/2024 - 07:22:34: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 13.9ms.
+L 12/29/2024 - 07:22:35: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 11.2ms.
+L 12/29/2024 - 07:22:38: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3232.6ms.
+L 12/29/2024 - 07:41:39: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 07:41:54: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera zm_toxic_house2
+L 12/29/2024 - 07:43:48: -------- Mapchange to zm_toxic_house2 --------
+L 12/29/2024 - 07:43:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 160.4ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.2ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 14.3ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 12.1ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 9.1ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 8.8ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 17.3ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.7ms.
+L 12/29/2024 - 07:43:49: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 13.3ms.
+L 12/29/2024 - 07:43:50: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 8.9ms.
+L 12/29/2024 - 07:43:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3389.0ms.
+L 12/29/2024 - 08:02:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 08:02:54: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.5ms.
+L 12/29/2024 - 08:03:09: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera zm_tower8
+L 12/29/2024 - 08:05:04: -------- Mapchange to zm_tower8 --------
+L 12/29/2024 - 08:05:04: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 212.1ms.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 11.3ms.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 17.5ms.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 14.1ms.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 10.7ms.
+L 12/29/2024 - 08:05:04: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 21.6ms.
+L 12/29/2024 - 08:05:05: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 20.6ms.
+L 12/29/2024 - 08:05:05: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 6.1ms.
+L 12/29/2024 - 08:05:05: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 17.0ms.
+L 12/29/2024 - 08:05:06: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 12.4ms.
+L 12/29/2024 - 08:05:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4423.1ms.
+L 12/29/2024 - 08:05:33: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.9ms.
+L 12/29/2024 - 08:05:44: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 3.8ms.
+L 12/29/2024 - 08:05:52: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 7.4ms.
+L 12/29/2024 - 08:06:09: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 4.9ms.
+L 12/29/2024 - 08:06:31: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 2.2ms.
+L 12/29/2024 - 08:06:46: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.5ms.
+L 12/29/2024 - 08:06:47: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.1ms.
+L 12/29/2024 - 08:07:19: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.1ms.
+L 12/29/2024 - 08:07:39: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.7ms.
+L 12/29/2024 - 08:07:42: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.6ms.
+L 12/29/2024 - 08:07:49: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.1ms.
+L 12/29/2024 - 08:07:59: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.4ms.
+L 12/29/2024 - 08:08:14: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 4.3ms.
+L 12/29/2024 - 08:08:31: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.1ms.
+L 12/29/2024 - 08:08:39: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 4.6ms.
+L 12/29/2024 - 08:08:42: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.9ms.
+L 12/29/2024 - 08:08:50: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.7ms.
+L 12/29/2024 - 08:08:52: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.6ms.
+L 12/29/2024 - 08:09:15: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.3ms.
+L 12/29/2024 - 08:09:28: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.2ms.
+L 12/29/2024 - 08:10:10: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 3.5ms.
+L 12/29/2024 - 08:10:15: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.8ms.
+L 12/29/2024 - 08:10:23: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.0ms.
+L 12/29/2024 - 08:10:51: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 4.3ms.
+L 12/29/2024 - 08:11:07: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.2ms.
+L 12/29/2024 - 08:12:01: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.3ms.
+L 12/29/2024 - 08:12:41: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.5ms.
+L 12/29/2024 - 08:12:43: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.2ms.
+L 12/29/2024 - 08:13:33: [zombie_plague43.amxx] performance issue. Function fw_GetGameDescription executed more than 2.5ms.
+L 12/29/2024 - 08:13:51: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.6ms.
+L 12/29/2024 - 08:13:56: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.4ms.
+L 12/29/2024 - 08:14:00: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.4ms.
+L 12/29/2024 - 08:14:15: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.7ms.
+L 12/29/2024 - 08:14:26: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.8ms.
+L 12/29/2024 - 08:15:55: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.1ms.
+L 12/29/2024 - 08:15:59: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.3ms.
+L 12/29/2024 - 08:16:31: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.3ms.
+L 12/29/2024 - 08:17:10: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.7ms.
+L 12/29/2024 - 08:17:13: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.1ms.
+L 12/29/2024 - 08:17:19: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.2ms.
+L 12/29/2024 - 08:17:25: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.7ms.
+L 12/29/2024 - 08:17:54: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.4ms.
+L 12/29/2024 - 08:18:15: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.0ms.
+L 12/29/2024 - 08:18:21: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.4ms.
+L 12/29/2024 - 08:18:43: [zombie_plague43.amxx] performance issue. Function fw_GetGameDescription executed more than 1.4ms.
+L 12/29/2024 - 08:18:53: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.4ms.
+L 12/29/2024 - 08:18:54: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 2.1ms.
+L 12/29/2024 - 08:18:57: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 2.1ms.
+L 12/29/2024 - 08:18:58: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.6ms.
+L 12/29/2024 - 08:19:02: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.1ms.
+L 12/29/2024 - 08:19:28: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.1ms.
+L 12/29/2024 - 08:19:37: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.0ms.
+L 12/29/2024 - 08:19:50: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.4ms.
+L 12/29/2024 - 08:20:06: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 2.1ms.
+L 12/29/2024 - 08:20:34: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.1ms.
+L 12/29/2024 - 08:20:35: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 2.8ms.
+L 12/29/2024 - 08:20:40: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.3ms.
+L 12/29/2024 - 08:20:42: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.3ms.
+L 12/29/2024 - 08:21:05: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.4ms.
+L 12/29/2024 - 08:21:26: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.0ms.
+L 12/29/2024 - 08:21:32: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.3ms.
+L 12/29/2024 - 08:21:42: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 4.3ms.
+L 12/29/2024 - 08:21:52: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.1ms.
+L 12/29/2024 - 08:22:07: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.5ms.
+L 12/29/2024 - 08:22:32: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.0ms.
+L 12/29/2024 - 08:22:32: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.0ms.
+L 12/29/2024 - 08:23:03: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.3ms.
+L 12/29/2024 - 08:23:06: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 1.3ms.
+L 12/29/2024 - 08:23:38: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.4ms.
+L 12/29/2024 - 08:23:39: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.9ms.
+L 12/29/2024 - 08:23:55: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.7ms.
+L 12/29/2024 - 08:23:58: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.1ms.
+L 12/29/2024 - 08:24:11: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 08:24:27: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 12/29/2024 - 08:24:27: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 12/29/2024 - 08:24:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 08:24:42: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.2ms.
+L 12/29/2024 - 08:24:50: [zombie_plague43.amxx] performance issue. Function native_get_user_survivor executed more than 3.3ms.
+L 12/29/2024 - 08:24:57: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera hns_floppytown
+L 12/29/2024 - 08:24:57: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.2ms.
+L 12/29/2024 - 08:25:16: [zombie_plague43.amxx] performance issue. Function native_get_user_nemesis executed more than 1.3ms.
+L 12/29/2024 - 08:25:50: [zombie_plague43.amxx] performance issue. Function native_get_user_zombie executed more than 1.2ms.
+L 12/29/2024 - 08:26:20: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.1ms.
+L 12/29/2024 - 08:26:21: -------- Mapchange to hns_floppytown --------
+L 12/29/2024 - 08:26:21: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 08:26:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3463.8ms.
+L 12/29/2024 - 08:26:25: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 12/29/2024 - 08:41:26: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 08:41:26: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 2.1ms.
+L 12/29/2024 - 08:41:41: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera cs_estate
+L 12/29/2024 - 08:43:35: -------- Mapchange to cs_estate --------
+L 12/29/2024 - 08:43:35: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 08:43:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3553.1ms.
+L 12/29/2024 - 08:43:40: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 12/29/2024 - 08:58:41: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 08:58:56: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Surf
+L 12/29/2024 - 08:58:56: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.2ms.
+L 12/29/2024 - 08:59:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 08:59:26: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera surf_ski_2
+L 12/29/2024 - 09:00:50: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.0ms.
+L 12/29/2024 - 09:00:50: -------- Mapchange to surf_ski_2 --------
+L 12/29/2024 - 09:00:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 09:00:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/UltimateSurf.txt
+L 12/29/2024 - 09:00:51: [Ultimatesurf.amxx] UltimateSurf configuration file successfully loaded!
+L 12/29/2024 - 09:00:55: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3303.8ms.
+L 12/29/2024 - 09:18:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 09:19:11: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera surf_iceday_remake
+L 12/29/2024 - 09:21:05: -------- Mapchange to surf_iceday_remake --------
+L 12/29/2024 - 09:21:05: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 09:21:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/UltimateSurf.txt
+L 12/29/2024 - 09:21:07: [Ultimatesurf.amxx] UltimateSurf configuration file successfully loaded!
+L 12/29/2024 - 09:21:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4218.2ms.
+L 12/29/2024 - 09:39:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 09:39:27: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera surf_iceday_remake
+L 12/29/2024 - 09:41:21: -------- Mapchange to surf_iceday_remake --------
+L 12/29/2024 - 09:41:21: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 09:41:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/UltimateSurf.txt
+L 12/29/2024 - 09:41:22: [Ultimatesurf.amxx] UltimateSurf configuration file successfully loaded!
+L 12/29/2024 - 09:41:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3367.5ms.
+L 12/29/2024 - 09:59:26: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 09:59:26: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.6ms.
+L 12/29/2024 - 09:59:41: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Rubaka
+L 12/29/2024 - 09:59:41: [polymorph.amxx] performance issue. Function checkModVotes executed more than 2.1ms.
+L 12/29/2024 - 09:59:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 10:00:11: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera rubaka_orange_x
+L 12/29/2024 - 10:01:35: -------- Mapchange to rubaka_orange_x --------
+L 12/29/2024 - 10:01:35: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 10:01:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3373.3ms.
+L 12/29/2024 - 10:22:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 10:22:55: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera rubaka_arena
+L 12/29/2024 - 10:22:55: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 12/29/2024 - 10:23:22: -------- Mapchange to rubaka_arena --------
+L 12/29/2024 - 10:23:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 10:23:27: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3205.0ms.
+L 12/29/2024 - 10:26:27: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 4.0ms.
+L 12/29/2024 - 10:44:27: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 10:44:27: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.9ms.
+L 12/29/2024 - 10:44:42: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 12/29/2024 - 10:44:42: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 12/29/2024 - 10:44:57: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 10:44:57: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.6ms.
+L 12/29/2024 - 10:45:09: -------- Mapchange to de_dust2 --------
+L 12/29/2024 - 10:45:09: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 10:45:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4050.5ms.
+L 12/29/2024 - 11:04:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 11:04:15: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 2.3ms.
+L 12/29/2024 - 11:04:30: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_train
+L 12/29/2024 - 11:06:24: -------- Mapchange to de_train --------
+L 12/29/2024 - 11:06:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 11:06:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3317.6ms.
+L 12/29/2024 - 11:25:29: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 11:25:44: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be BaseBuilder
+L 12/29/2024 - 11:25:44: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.9ms.
+L 12/29/2024 - 11:25:59: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 11:25:59: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.2ms.
+L 12/29/2024 - 11:26:14: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera bb_tql
+L 12/29/2024 - 11:27:38: -------- Mapchange to bb_tql --------
+L 12/29/2024 - 11:27:38: [AMXX] Plugin "anti-channel.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 12/29/2024 - 11:27:38: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 11:27:39: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 12.7ms.
+L 12/29/2024 - 11:27:39: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 12.5ms.
+L 12/29/2024 - 11:27:39: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 11.5ms.
+L 12/29/2024 - 11:27:39: [basebuilder65.amxx] performance issue. Function native_register_zombie_class executed more than 14.2ms.
+L 12/29/2024 - 11:27:39: [bb_classes65.amxx] performance issue. Function plugin_precache executed more than 51.8ms.
+L 12/29/2024 - 11:27:39: [basebuilder65.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 12/29/2024 - 11:27:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3393.6ms.
+L 12/29/2024 - 11:29:53: [basebuilder65.amxx] performance issue. Function ev_RoundStart executed more than 1.8ms.
+L 12/29/2024 - 11:32:06: [admin.amxx] Login: "Rozskin<173><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 11:32:11: [admin.amxx] Login: "Rozskin<174><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 11:32:23: [basebuilder65.amxx] performance issue. Function task_CountDown executed more than 1.1ms.
+L 12/29/2024 - 11:32:32: [basebuilder65.amxx] performance issue. Function sec_weapons_pushed executed more than 1.1ms.
+L 12/29/2024 - 11:32:39: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.7ms.
+L 12/29/2024 - 11:33:22: [admincmd.amxx] Cmd: "Rozskin<174><STEAM_0:1:85202636><>" ask for players list
+L 12/29/2024 - 11:33:32: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.4ms.
+L 12/29/2024 - 11:34:24: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 2.1ms.
+L 12/29/2024 - 11:35:30: [basebuilder65.amxx] performance issue. Function fw_CmdStart executed more than 2.9ms.
+L 12/29/2024 - 11:35:58: [basebuilder65.amxx] performance issue. Function fw_Traceline executed more than 1.6ms.
+L 12/29/2024 - 11:36:26: [admincmd.amxx] Cmd: "Rozskin<174><STEAM_0:1:85202636><>" set cvar (name "mp_timelimit") (value "5")
+L 12/29/2024 - 11:36:36: [basebuilder65.amxx] performance issue. Function client_disconnect executed more than 1.9ms.
+L 12/29/2024 - 11:36:37: -------- Mapchange to cs_estate --------
+L 12/29/2024 - 11:36:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 11:36:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3584.8ms.
+L 12/29/2024 - 11:36:41: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 12/29/2024 - 11:36:43: [admin.amxx] Login: "Rozskin<174><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 11:36:49: [admin.amxx] Login: "Rozskin<175><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 12/29/2024 - 11:51:42: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 11:51:42: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.8ms.
+L 12/29/2024 - 11:51:57: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 12/29/2024 - 11:51:57: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 12/29/2024 - 11:52:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 11:52:12: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.5ms.
+L 12/29/2024 - 11:52:27: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_inferno2
+L 12/29/2024 - 11:53:51: [polymorph.amxx] performance issue. Function plugin_end executed more than 2.1ms.
+L 12/29/2024 - 11:53:52: -------- Mapchange to de_inferno2 --------
+L 12/29/2024 - 11:53:52: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 11:53:56: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3407.2ms.
+L 12/29/2024 - 12:11:57: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 12:11:57: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 2.2ms.
+L 12/29/2024 - 12:12:12: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_aztec
+L 12/29/2024 - 12:14:06: -------- Mapchange to de_aztec --------
+L 12/29/2024 - 12:14:06: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 12:14:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4369.9ms.
+L 12/29/2024 - 12:32:12: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 12:32:27: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrace
+L 12/29/2024 - 12:32:27: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.5ms.
+L 12/29/2024 - 12:32:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 12:32:57: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera deathrace_brio
+L 12/29/2024 - 12:34:21: -------- Mapchange to deathrace_brio --------
+L 12/29/2024 - 12:34:21: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 12:34:22: [drcshop.amxx] performance issue. Function plugin_init executed more than 3.3ms.
+L 12/29/2024 - 12:34:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3431.7ms.
+L 12/29/2024 - 12:36:02: [drcshop.amxx] performance issue. Function bad_fix2 executed more than 13.7ms.
+L 12/29/2024 - 12:42:09: [drcshop.amxx] performance issue. Function fw_emitsound executed more than 1.1ms.
+L 12/29/2024 - 12:53:26: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 12:53:26: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.2ms.
+L 12/29/2024 - 12:53:41: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera deathrace_sand
+L 12/29/2024 - 12:54:04: [drcshop.amxx] performance issue. Function bad_fix2 executed more than 1.5ms.
+L 12/29/2024 - 12:55:37: -------- Mapchange to deathrace_sand --------
+L 12/29/2024 - 12:55:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 12:55:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3499.0ms.
+L 12/29/2024 - 12:57:02: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.3ms.
+L 12/29/2024 - 13:14:42: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 13:14:42: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.2ms.
+L 12/29/2024 - 13:14:57: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Rubaka
+L 12/29/2024 - 13:14:57: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.5ms.
+L 12/29/2024 - 13:15:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 13:15:27: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera 35hp_gx
+L 12/29/2024 - 13:15:27: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.0ms.
+L 12/29/2024 - 13:16:53: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.9ms.
+L 12/29/2024 - 13:16:53: -------- Mapchange to 35hp_gx --------
+L 12/29/2024 - 13:16:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 13:16:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3615.1ms.
+L 12/29/2024 - 13:37:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 13:37:58: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.9ms.
+L 12/29/2024 - 13:38:13: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera 35hp_gx
+L 12/29/2024 - 13:38:40: -------- Mapchange to 35hp_gx --------
+L 12/29/2024 - 13:38:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 13:38:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3436.3ms.
+L 12/29/2024 - 13:59:45: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 14:00:00: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 12/29/2024 - 14:00:00: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 12/29/2024 - 14:00:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 14:00:15: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.0ms.
+L 12/29/2024 - 14:00:30: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_aztec
+L 12/29/2024 - 14:00:30: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 7.9ms.
+L 12/29/2024 - 14:00:33: -------- Mapchange to de_dust2 --------
+L 12/29/2024 - 14:00:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 14:00:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4194.2ms.
+L 12/29/2024 - 14:18:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 14:18:55: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_inferno
+L 12/29/2024 - 14:18:55: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.3ms.
+L 12/29/2024 - 14:20:49: -------- Mapchange to de_inferno --------
+L 12/29/2024 - 14:20:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 14:20:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3531.0ms.
+L 12/29/2024 - 14:38:54: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 14:38:54: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.6ms.
+L 12/29/2024 - 14:39:09: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Gungame
+L 12/29/2024 - 14:39:09: [polymorph.amxx] performance issue. Function checkModVotes executed more than 2.2ms.
+L 12/29/2024 - 14:39:24: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 14:39:24: [polymorph.amxx] performance issue. Function startMapVote executed more than 1.0ms.
+L 12/29/2024 - 14:39:39: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera fy_pool_suite
+L 12/29/2024 - 14:39:39: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.4ms.
+L 12/29/2024 - 14:41:03: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.1ms.
+L 12/29/2024 - 14:41:03: -------- Mapchange to fy_pool_suite --------
+L 12/29/2024 - 14:41:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 14:41:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 14:41:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3875.6ms.
+L 12/29/2024 - 15:24:10: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 15:24:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 15:24:10: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.4ms.
+L 12/29/2024 - 15:24:25: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_titanic
+L 12/29/2024 - 15:24:25: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera mini_dust_pro
+L 12/29/2024 - 15:24:25: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.3ms.
+L 12/29/2024 - 15:26:19: -------- Mapchange to mini_dust_pro --------
+L 12/29/2024 - 15:26:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 15:26:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 12/29/2024 - 15:26:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3559.0ms.
+L 12/29/2024 - 15:43:30: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 15:43:30: [polymorph.amxx] performance issue. Function _polyn_votemod executed more than 1.4ms.
+L 12/29/2024 - 15:43:45: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 12/29/2024 - 15:44:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 15:44:15: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera deathrun_fuzzy
+L 12/29/2024 - 15:44:30: -------- Mapchange to deathrun_fuzzy --------
+L 12/29/2024 - 15:44:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 15:44:31: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 116.8ms.
+L 12/29/2024 - 15:44:31: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 96.9ms.
+L 12/29/2024 - 15:44:32: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 271.5ms.
+L 12/29/2024 - 15:44:32: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 2.6ms.
+L 12/29/2024 - 15:44:32: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 12/29/2024 - 15:44:32: [deathrun_teleport_spot.amxx] Map doesn't have any teleports.
+L 12/29/2024 - 15:44:32: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 12/29/2024 - 15:44:32: [specteclado.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 12/29/2024 - 15:44:32: [DeathrunMapsFixer.amxx] performance issue. Function plugin_init executed more than 1.2ms.
+L 12/29/2024 - 15:44:33: [respawn.dr1beta.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 12/29/2024 - 15:44:33: [rtd_pg.amxx] performance issue. Function plugin_init executed more than 4.0ms.
+L 12/29/2024 - 15:44:33: [use_buttons.amxx] performance issue. Function plugin_init executed more than 2.2ms.
+L 12/29/2024 - 15:44:36: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3303.9ms.
+L 12/29/2024 - 15:44:55: [team_join.amxx] performance issue. Function task_Autojoin executed more than 1.2ms.
+L 12/29/2024 - 15:44:56: [respawn.dr1beta.amxx] performance issue. Function taskRespawnPlayer executed more than 4.2ms.
+L 12/29/2024 - 15:45:15: [specteclado.amxx] performance issue. Function server_frame executed more than 1.2ms.
+L 12/29/2024 - 15:45:36: [specteclado.amxx] performance issue. Function server_frame executed more than 3.7ms.
+L 12/29/2024 - 15:46:02: [specteclado.amxx] performance issue. Function server_frame executed more than 12.5ms.
+L 12/29/2024 - 15:46:05: [specteclado.amxx] performance issue. Function server_frame executed more than 1.4ms.
+L 12/29/2024 - 15:46:10: [specteclado.amxx] performance issue. Function server_frame executed more than 2.1ms.
+L 12/29/2024 - 15:46:20: [specteclado.amxx] performance issue. Function server_frame executed more than 5.9ms.
+L 12/29/2024 - 15:46:23: [specteclado.amxx] performance issue. Function server_frame executed more than 1.6ms.
+L 12/29/2024 - 15:46:33: [specteclado.amxx] performance issue. Function server_frame executed more than 1.1ms.
+L 12/29/2024 - 15:46:57: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 12/29/2024 - 15:47:05: [specteclado.amxx] performance issue. Function server_frame executed more than 7.4ms.
+L 12/29/2024 - 15:47:13: [specteclado.amxx] performance issue. Function server_frame executed more than 6.5ms.
+L 12/29/2024 - 15:47:14: [specteclado.amxx] performance issue. Function server_frame executed more than 1.6ms.
+L 12/29/2024 - 15:47:14: [specteclado.amxx] performance issue. Function server_frame executed more than 1.6ms.
+L 12/29/2024 - 15:48:12: [specteclado.amxx] performance issue. Function server_frame executed more than 1.8ms.
+L 12/29/2024 - 15:48:15: [specteclado.amxx] performance issue. Function server_frame executed more than 2.3ms.
+L 12/29/2024 - 15:48:51: [specteclado.amxx] performance issue. Function server_frame executed more than 3.7ms.
+L 12/29/2024 - 15:49:15: [specteclado.amxx] performance issue. Function server_frame executed more than 1.8ms.
+L 12/29/2024 - 15:49:33: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 12/29/2024 - 15:50:54: [specteclado.amxx] performance issue. Function server_frame executed more than 2.3ms.
+L 12/29/2024 - 15:52:27: [specteclado.amxx] performance issue. Function server_frame executed more than 2.7ms.
+L 12/29/2024 - 15:52:39: [specteclado.amxx] performance issue. Function server_frame executed more than 3.4ms.
+L 12/29/2024 - 15:54:12: [specteclado.amxx] performance issue. Function server_frame executed more than 4.6ms.
+L 12/29/2024 - 15:57:06: [team_join.amxx] performance issue. Function task_Autojoin executed more than 1.6ms.
+L 12/29/2024 - 15:57:16: [respawn.dr1beta.amxx] performance issue. Function taskRespawnPlayer executed more than 4.1ms.
+L 12/29/2024 - 15:57:30: [respawn.dr1beta.amxx] performance issue. Function taskRespawnPlayer executed more than 3.4ms.
+L 12/29/2024 - 15:57:56: [specteclado.amxx] performance issue. Function server_frame executed more than 2.6ms.
+L 12/29/2024 - 15:58:31: [specteclado.amxx] performance issue. Function server_frame executed more than 1.3ms.
+L 12/29/2024 - 15:58:35: [specteclado.amxx] performance issue. Function server_frame executed more than 1.8ms.
+L 12/29/2024 - 15:58:55: [specteclado.amxx] performance issue. Function server_frame executed more than 1.2ms.
+L 12/29/2024 - 15:59:05: [specteclado.amxx] performance issue. Function server_frame executed more than 1.4ms.
+L 12/29/2024 - 16:01:12: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 12/29/2024 - 16:01:15: [respawn.dr1beta.amxx] performance issue. Function taskRespawnPlayer executed more than 2.7ms.
+L 12/29/2024 - 16:02:57: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 16:03:12: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 12/29/2024 - 16:03:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 16:03:42: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_vertigo
+L 12/29/2024 - 16:05:03: -------- Mapchange to de_vertigo --------
+L 12/29/2024 - 16:05:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 16:05:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4700.2ms.
+L 12/29/2024 - 16:23:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 16:23:10: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 1.2ms.
+L 12/29/2024 - 16:23:25: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_vertigo
+L 12/29/2024 - 16:25:19: -------- Mapchange to de_vertigo --------
+L 12/29/2024 - 16:25:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 16:25:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3849.6ms.
+L 12/29/2024 - 16:43:25: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 16:43:25: [polymorph.amxx] performance issue. Function taskEndofMap executed more than 2.3ms.
+L 12/29/2024 - 16:43:40: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera de_vertigo
+L 12/29/2024 - 16:45:34: -------- Mapchange to de_vertigo --------
+L 12/29/2024 - 16:45:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 16:45:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4015.4ms.
+L 12/29/2024 - 17:03:40: [polymorph.amxx] Vote: Voting for the next mod started
+L 12/29/2024 - 17:03:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 12/29/2024 - 17:03:55: [polymorph.amxx] performance issue. Function checkModVotes executed more than 2.2ms.
+L 12/29/2024 - 17:04:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 12/29/2024 - 17:04:25: [polymorph.amxx] Vote: Voto para el nextmap finalizo. El nextmap sera ze_freezy_xmas_b2
+L 12/29/2024 - 17:04:25: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.0ms.
+L 12/29/2024 - 17:05:49: -------- Mapchange to ze_freezy_xmas_b2 --------
+L 12/29/2024 - 17:05:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 12/29/2024 - 17:05:55: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3555.6ms.

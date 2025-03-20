@@ -1,0 +1,31 @@
+The main purpose of the mod is to bring enemy's flag to your base (but the flag of your own must be at the base). Among weapons there is only knife. At the start of the map
+there is a voting, every player chooses his favourite mod.
+
+[strong]35 HP Mod[/strong]
+Everybody has 35 hp, and a Long-Jump* (but it doesn't work when you carry flag). You can restore your health near the base. Your team's flag is seen on the radar.
+
+[strong]Classes Mod[/strong]
+
+Every player chooses class to play. Now, besides HP (health) everybody has also so-called MP (energy). Energy is needed to activate special skills; some of them
+support accumulation of energy ( you only need to hold down the button, that activates skills ). And about each of the class:
+
+[strong]Experience Mod[/strong]
+Everybody starts with 0 experience and first level. Experience increases for kills (+1), capturing (+5), returning flags (+2), your team's capturing flags(+2). With increasing experience,
+player learns new skills, according to choose available skills change on other levels. The skills' description is inside the choose-menu.
+
+[strong]Control[/strong]
+Special buttons:
+"T"(spray) - call menu, in-game help (english);
+"E"(+use) - activating skills.
+
+[strong]Combo[/strong]
+Long-Jump* (works in 35 HP Mod, some classes can do it and one of the skills in Experience Mod)
+
+[strong]Commands on the server[/strong]
+amx_ip <nickname> - player's IP;
+amx_ips - all players' IP;
+say /spawnme - if you were not spawned.
+
+*Long-Jump - to do it, you should make 2 bhop jumps or jump with hold down strafe-button (without 'W'), it's like a soccerjam's mod LJ.
+
+

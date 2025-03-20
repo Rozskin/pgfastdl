@@ -1,0 +1,962 @@
+L 01/06/2025 - 00:03:53: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 00:03:53: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 00:04:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_brio
+L 01/06/2025 - 00:06:03: -------- Mapchange to deathrace_brio --------
+L 01/06/2025 - 00:06:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 00:06:04: [polymorph.amxx] performance issue. Function plugin_init executed more than 2.2ms.
+L 01/06/2025 - 00:06:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4238.8ms.
+L 01/06/2025 - 00:23:17: [drcshop.amxx] performance issue. Function bad_fix2 executed more than 1.3ms.
+L 01/06/2025 - 00:25:10: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 00:25:34: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/06/2025 - 00:25:34: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.4ms.
+L 01/06/2025 - 00:25:50: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 00:26:14: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/06/2025 - 00:27:20: -------- Mapchange to crazycar_v2 --------
+L 01/06/2025 - 00:27:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 00:27:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3757.8ms.
+L 01/06/2025 - 00:46:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 00:46:51: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 01/06/2025 - 00:48:35: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 00:48:35: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 00:48:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3513.5ms.
+L 01/06/2025 - 01:07:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 01:08:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/06/2025 - 01:09:49: -------- Mapchange to crazycar_v2 --------
+L 01/06/2025 - 01:09:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 01:09:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3321.3ms.
+L 01/06/2025 - 01:28:55: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 01:29:19: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/06/2025 - 01:29:19: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.0ms.
+L 01/06/2025 - 01:29:35: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 01:29:59: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 01:31:03: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 01:31:04: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 01:31:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/06/2025 - 01:31:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/06/2025 - 01:31:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4609.5ms.
+L 01/06/2025 - 01:52:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 01:52:11: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/06/2025 - 01:52:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/06/2025 - 01:54:19: -------- Mapchange to de_aztec --------
+L 01/06/2025 - 01:54:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 01:54:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/06/2025 - 01:54:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/06/2025 - 01:54:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3450.5ms.
+L 01/06/2025 - 02:15:25: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 02:15:25: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 02:15:49: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/06/2025 - 02:15:49: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 01/06/2025 - 02:16:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 02:16:30: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/06/2025 - 02:17:34: -------- Mapchange to cs_estate --------
+L 01/06/2025 - 02:17:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 02:17:38: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3354.2ms.
+L 01/06/2025 - 02:17:38: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 02:32:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 02:32:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 02:33:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/06/2025 - 02:34:48: -------- Mapchange to de_dust --------
+L 01/06/2025 - 02:34:48: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 02:34:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3194.4ms.
+L 01/06/2025 - 02:34:52: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 02:49:54: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 02:49:54: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 02:50:18: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 01/06/2025 - 02:50:34: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 02:50:58: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_minecraft_fg
+L 01/06/2025 - 02:52:03: -------- Mapchange to deathrun_minecraft_fg --------
+L 01/06/2025 - 02:52:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 02:52:04: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 113.0ms.
+L 01/06/2025 - 02:52:04: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 121.0ms.
+L 01/06/2025 - 02:52:04: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 157.3ms.
+L 01/06/2025 - 02:52:04: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.1ms.
+L 01/06/2025 - 02:52:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 02:52:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 02:52:05: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 3.0ms.
+L 01/06/2025 - 02:52:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4330.0ms.
+L 01/06/2025 - 02:55:43: [specteclado.amxx] performance issue. Function server_frame executed more than 6.2ms.
+L 01/06/2025 - 03:08:01: [specteclado.amxx] performance issue. Function server_frame executed more than 1.9ms.
+L 01/06/2025 - 03:10:31: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 03:10:31: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 03:10:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_starwars
+L 01/06/2025 - 03:12:42: -------- Mapchange to deathrun_starwars --------
+L 01/06/2025 - 03:12:42: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 03:12:42: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 60.9ms.
+L 01/06/2025 - 03:12:42: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 53.0ms.
+L 01/06/2025 - 03:12:43: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 117.6ms.
+L 01/06/2025 - 03:12:49: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/06/2025 - 03:12:49: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 03:12:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 03:12:49: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 66.9ms.
+L 01/06/2025 - 03:12:49: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 53.8ms.
+L 01/06/2025 - 03:12:50: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 111.8ms.
+L 01/06/2025 - 03:12:50: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 03:12:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 03:12:50: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.4ms.
+L 01/06/2025 - 03:12:50: [rtd_pg.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 01/06/2025 - 03:12:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3513.2ms.
+L 01/06/2025 - 03:13:04: [specteclado.amxx] performance issue. Function server_frame executed more than 2.1ms.
+L 01/06/2025 - 03:15:01: [specteclado.amxx] performance issue. Function server_frame executed more than 2.2ms.
+L 01/06/2025 - 03:22:40: [specteclado.amxx] performance issue. Function server_frame executed more than 1.4ms.
+L 01/06/2025 - 03:24:20: [specteclado.amxx] performance issue. Function server_frame executed more than 1.3ms.
+L 01/06/2025 - 03:26:02: [specteclado.amxx] performance issue. Function server_frame executed more than 1.6ms.
+L 01/06/2025 - 03:26:14: [specteclado.amxx] performance issue. Function server_frame executed more than 4.1ms.
+L 01/06/2025 - 03:30:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 03:31:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_minecraft_fg
+L 01/06/2025 - 03:33:07: -------- Mapchange to deathrun_minecraft_fg --------
+L 01/06/2025 - 03:33:07: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 03:33:07: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 73.0ms.
+L 01/06/2025 - 03:33:07: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 60.1ms.
+L 01/06/2025 - 03:33:07: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 147.7ms.
+L 01/06/2025 - 03:33:07: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.2ms.
+L 01/06/2025 - 03:33:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 03:33:08: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 03:33:08: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/06/2025 - 03:33:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3510.0ms.
+L 01/06/2025 - 03:48:00: [team_join.amxx] performance issue. Function task_Autojoin executed more than 1.4ms.
+L 01/06/2025 - 03:49:00: [specteclado.amxx] performance issue. Function server_frame executed more than 3.6ms.
+L 01/06/2025 - 03:49:30: [high_ping_kicker.amxx] Highpingkick: "SEÑOR K<3><STEAM_0:0:81953919>" ha sido kickeado por Pornero (Ping Promedio "271")
+L 01/06/2025 - 03:51:06: [specteclado.amxx] performance issue. Function server_frame executed more than 8.3ms.
+L 01/06/2025 - 03:52:51: [specteclado.amxx] performance issue. Function server_frame executed more than 2.7ms.
+L 01/06/2025 - 03:55:02: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 01/06/2025 - 03:55:39: [specteclado.amxx] performance issue. Function server_frame executed more than 5.2ms.
+L 01/06/2025 - 03:55:49: [specteclado.amxx] performance issue. Function server_frame executed more than 7.4ms.
+L 01/06/2025 - 03:58:45: [specteclado.amxx] performance issue. Function server_frame executed more than 1.1ms.
+L 01/06/2025 - 04:01:58: [specteclado.amxx] performance issue. Function server_frame executed more than 5.4ms.
+L 01/06/2025 - 04:02:51: [specteclado.amxx] performance issue. Function server_frame executed more than 1.1ms.
+L 01/06/2025 - 04:06:13: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 04:06:13: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.6ms.
+L 01/06/2025 - 04:06:16: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 04:06:26: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/06/2025 - 04:06:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_surf!
+L 01/06/2025 - 04:07:19: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 01/06/2025 - 04:08:05: [specteclado.amxx] performance issue. Function server_frame executed more than 1.3ms.
+L 01/06/2025 - 04:08:13: -------- Mapchange to deathrun_surf! --------
+L 01/06/2025 - 04:08:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 04:08:14: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 81.2ms.
+L 01/06/2025 - 04:08:14: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 63.9ms.
+L 01/06/2025 - 04:08:14: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 141.4ms.
+L 01/06/2025 - 04:08:14: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.1ms.
+L 01/06/2025 - 04:08:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 04:08:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 04:08:15: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.9ms.
+L 01/06/2025 - 04:08:18: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3259.3ms.
+L 01/06/2025 - 04:26:40: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 04:26:40: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/06/2025 - 04:27:04: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/06/2025 - 04:27:04: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.6ms.
+L 01/06/2025 - 04:27:20: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 04:27:20: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 04:27:44: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/06/2025 - 04:28:50: -------- Mapchange to de_inferno --------
+L 01/06/2025 - 04:28:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 04:28:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3214.5ms.
+L 01/06/2025 - 04:46:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 04:47:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 04:49:04: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 04:49:04: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 04:49:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3690.3ms.
+L 01/06/2025 - 05:07:10: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 05:07:10: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 05:07:34: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 01/06/2025 - 05:07:34: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.2ms.
+L 01/06/2025 - 05:07:50: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 05:08:14: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 05:09:19: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 05:09:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 05:09:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3139.5ms.
+L 01/06/2025 - 05:28:24: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 05:28:48: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/06/2025 - 05:30:33: -------- Mapchange to de_inferno --------
+L 01/06/2025 - 05:30:33: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 05:30:37: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3351.9ms.
+L 01/06/2025 - 05:49:39: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 05:50:03: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/06/2025 - 05:50:03: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.9ms.
+L 01/06/2025 - 05:50:05: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 05:50:19: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 05:50:43: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 05:51:47: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.4ms.
+L 01/06/2025 - 05:51:47: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 05:51:47: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 05:51:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3366.0ms.
+L 01/06/2025 - 06:09:53: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 06:10:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/06/2025 - 06:12:01: -------- Mapchange to surf_iceday_remake --------
+L 01/06/2025 - 06:12:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 06:12:03: [polymorph.amxx] performance issue. Function plugin_init executed more than 2.2ms.
+L 01/06/2025 - 06:12:07: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4424.1ms.
+L 01/06/2025 - 06:30:09: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 06:30:33: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/06/2025 - 06:30:49: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 06:31:13: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 06:31:13: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.5ms.
+L 01/06/2025 - 06:32:17: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 06:32:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 06:32:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3411.5ms.
+L 01/06/2025 - 06:50:23: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 06:50:47: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/06/2025 - 06:52:32: -------- Mapchange to surf_iceday_remake --------
+L 01/06/2025 - 06:52:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 06:52:36: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3671.6ms.
+L 01/06/2025 - 07:10:38: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 07:11:02: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 01/06/2025 - 07:11:02: [polymorph.amxx] performance issue. Function checkModVotes executed more than 2.0ms.
+L 01/06/2025 - 07:11:18: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 07:11:42: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_minecraft_fg
+L 01/06/2025 - 07:12:46: -------- Mapchange to deathrun_minecraft_fg --------
+L 01/06/2025 - 07:12:46: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 07:12:47: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 65.2ms.
+L 01/06/2025 - 07:12:47: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 50.6ms.
+L 01/06/2025 - 07:12:47: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 132.7ms.
+L 01/06/2025 - 07:12:47: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.0ms.
+L 01/06/2025 - 07:12:47: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 07:12:47: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 07:12:47: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.6ms.
+L 01/06/2025 - 07:12:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3153.8ms.
+L 01/06/2025 - 07:14:51: [specteclado.amxx] performance issue. Function keys_update executed more than 2.6ms.
+L 01/06/2025 - 07:23:15: [specteclado.amxx] performance issue. Function server_frame executed more than 1.7ms.
+L 01/06/2025 - 07:31:13: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 07:31:13: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 07:31:37: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_forest
+L 01/06/2025 - 07:33:23: -------- Mapchange to deathrun_forest --------
+L 01/06/2025 - 07:33:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 07:33:24: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 66.7ms.
+L 01/06/2025 - 07:33:24: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 53.3ms.
+L 01/06/2025 - 07:33:24: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 132.9ms.
+L 01/06/2025 - 07:33:25: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 07:33:25: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 07:33:25: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/06/2025 - 07:33:28: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3900.8ms.
+L 01/06/2025 - 07:47:45: [specteclado.amxx] performance issue. Function keys_update executed more than 1.4ms.
+L 01/06/2025 - 07:51:50: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 07:51:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 07:52:14: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_starwars
+L 01/06/2025 - 07:54:01: -------- Mapchange to deathrun_starwars --------
+L 01/06/2025 - 07:54:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 07:54:02: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 185.0ms.
+L 01/06/2025 - 07:54:02: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 66.7ms.
+L 01/06/2025 - 07:54:02: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 133.2ms.
+L 01/06/2025 - 07:54:02: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.1ms.
+L 01/06/2025 - 07:54:09: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/06/2025 - 07:54:09: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 07:54:09: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 07:54:10: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 67.4ms.
+L 01/06/2025 - 07:54:10: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 54.6ms.
+L 01/06/2025 - 07:54:10: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 110.2ms.
+L 01/06/2025 - 07:54:10: [use_buttons.amxx] performance issue. Function plugin_precache executed more than 1.0ms.
+L 01/06/2025 - 07:54:10: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 07:54:10: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 07:54:10: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 4.0ms.
+L 01/06/2025 - 07:54:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3664.7ms.
+L 01/06/2025 - 07:54:24: [specteclado.amxx] performance issue. Function server_frame executed more than 1.8ms.
+L 01/06/2025 - 07:56:01: [specteclado.amxx] performance issue. Function server_frame executed more than 2.8ms.
+L 01/06/2025 - 07:58:03: [specteclado.amxx] performance issue. Function server_frame executed more than 3.0ms.
+L 01/06/2025 - 08:07:34: [specteclado.amxx] performance issue. Function server_frame executed more than 1.4ms.
+L 01/06/2025 - 08:12:17: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 08:12:41: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_minecraft_fg
+L 01/06/2025 - 08:14:27: -------- Mapchange to deathrun_minecraft_fg --------
+L 01/06/2025 - 08:14:27: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 08:14:27: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 69.4ms.
+L 01/06/2025 - 08:14:28: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 56.2ms.
+L 01/06/2025 - 08:14:28: [hatspgeditado1.amxx] performance issue. Function plugin_precache executed more than 132.0ms.
+L 01/06/2025 - 08:14:28: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 08:14:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 08:14:28: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 01/06/2025 - 08:14:32: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3670.7ms.
+L 01/06/2025 - 08:18:49: [specteclado.amxx] performance issue. Function server_frame executed more than 8.1ms.
+L 01/06/2025 - 08:25:34: [specteclado.amxx] performance issue. Function keys_update executed more than 3.3ms.
+L 01/06/2025 - 08:32:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 08:32:54: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.9ms.
+L 01/06/2025 - 08:33:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_colors
+L 01/06/2025 - 08:35:04: -------- Mapchange to deathrun_colors --------
+L 01/06/2025 - 08:35:05: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 08:35:05: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 76.2ms.
+L 01/06/2025 - 08:35:05: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 61.9ms.
+L 01/06/2025 - 08:35:05: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/06/2025 - 08:35:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/06/2025 - 08:35:05: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 2.6ms.
+L 01/06/2025 - 08:35:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4210.4ms.
+L 01/06/2025 - 08:53:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 08:53:31: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.0ms.
+L 01/06/2025 - 08:53:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/06/2025 - 08:54:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 08:54:12: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 08:54:36: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 01/06/2025 - 08:55:42: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 08:55:42: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 08:55:46: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3504.0ms.
+L 01/06/2025 - 09:14:48: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 09:14:48: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 09:15:12: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/06/2025 - 09:16:56: -------- Mapchange to crazycar_v2 --------
+L 01/06/2025 - 09:16:56: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 09:17:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3935.0ms.
+L 01/06/2025 - 09:36:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 09:36:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 01/06/2025 - 09:38:12: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 09:38:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 09:38:16: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3359.8ms.
+L 01/06/2025 - 09:57:18: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 09:57:42: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/06/2025 - 09:57:58: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 09:58:22: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 09:59:26: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 09:59:26: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 09:59:27: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/06/2025 - 09:59:27: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/06/2025 - 09:59:30: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3441.7ms.
+L 01/06/2025 - 10:20:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 10:20:32: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 10:20:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/06/2025 - 10:22:40: -------- Mapchange to de_aztec --------
+L 01/06/2025 - 10:22:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 10:22:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/06/2025 - 10:22:41: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/06/2025 - 10:22:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3704.4ms.
+L 01/06/2025 - 10:43:47: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 10:43:47: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.8ms.
+L 01/06/2025 - 10:44:11: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/06/2025 - 10:44:11: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.0ms.
+L 01/06/2025 - 10:44:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 10:44:51: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 10:45:55: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 10:45:55: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 10:45:59: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3275.2ms.
+L 01/06/2025 - 11:04:01: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 11:04:01: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/06/2025 - 11:04:25: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/06/2025 - 11:06:09: -------- Mapchange to surf_iceday_remake --------
+L 01/06/2025 - 11:06:09: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 11:06:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4140.5ms.
+L 01/06/2025 - 11:24:16: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 11:24:40: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 01/06/2025 - 11:24:57: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 11:25:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/06/2025 - 11:25:21: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 7.0ms.
+L 01/06/2025 - 11:26:25: -------- Mapchange to as_oilrig --------
+L 01/06/2025 - 11:26:25: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 11:26:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3651.6ms.
+L 01/06/2025 - 11:49:31: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 11:49:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/06/2025 - 11:51:39: -------- Mapchange to as_crazytank3 --------
+L 01/06/2025 - 11:51:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 11:51:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3466.5ms.
+L 01/06/2025 - 12:14:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 12:14:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 12:15:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/06/2025 - 12:15:09: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.9ms.
+L 01/06/2025 - 12:16:54: -------- Mapchange to as_oilrig --------
+L 01/06/2025 - 12:16:54: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 12:16:58: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3481.1ms.
+L 01/06/2025 - 12:40:00: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 12:40:24: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrace
+L 01/06/2025 - 12:40:24: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.0ms.
+L 01/06/2025 - 12:40:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 12:41:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_brio
+L 01/06/2025 - 12:42:08: -------- Mapchange to deathrace_brio --------
+L 01/06/2025 - 12:42:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 12:42:09: [polymorph.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/06/2025 - 12:42:09: [drcshop.amxx] performance issue. Function plugin_init executed more than 1.2ms.
+L 01/06/2025 - 12:42:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3853.0ms.
+L 01/06/2025 - 13:01:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 13:01:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_dangerous
+L 01/06/2025 - 13:03:24: -------- Mapchange to deathrace_dangerous --------
+L 01/06/2025 - 13:03:24: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 13:03:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3685.3ms.
+L 01/06/2025 - 13:22:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 13:22:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/06/2025 - 13:22:55: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.6ms.
+L 01/06/2025 - 13:23:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 13:23:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/06/2025 - 13:24:41: -------- Mapchange to ze_deadspace_v2 --------
+L 01/06/2025 - 13:24:41: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 13:24:47: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4188.0ms.
+L 01/06/2025 - 13:42:49: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 13:42:49: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 13:43:13: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_remesa_old_final
+L 01/06/2025 - 13:44:57: -------- Mapchange to ze_remesa_old_final --------
+L 01/06/2025 - 13:44:57: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 13:45:03: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4566.8ms.
+L 01/06/2025 - 14:03:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 14:03:29: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/06/2025 - 14:05:14: -------- Mapchange to ze_deadspace_v2 --------
+L 01/06/2025 - 14:05:14: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 14:05:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4078.5ms.
+L 01/06/2025 - 14:23:22: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 14:23:22: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.6ms.
+L 01/06/2025 - 14:23:46: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Encantados
+L 01/06/2025 - 14:24:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 14:24:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 14:25:30: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 14:25:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 14:25:31: [freeze-tag-bugfix1.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 01/06/2025 - 14:25:35: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3839.2ms.
+L 01/06/2025 - 14:44:36: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 14:44:36: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 14:45:00: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/06/2025 - 14:46:44: -------- Mapchange to de_inferno --------
+L 01/06/2025 - 14:46:44: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 14:46:50: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4055.5ms.
+L 01/06/2025 - 15:05:51: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 15:06:15: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrace
+L 01/06/2025 - 15:06:15: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.2ms.
+L 01/06/2025 - 15:06:31: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 15:06:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_brio
+L 01/06/2025 - 15:07:59: -------- Mapchange to deathrace_brio --------
+L 01/06/2025 - 15:07:59: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 15:08:05: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5190.0ms.
+L 01/06/2025 - 15:27:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 15:27:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_dangerous
+L 01/06/2025 - 15:29:17: -------- Mapchange to deathrace_dangerous --------
+L 01/06/2025 - 15:29:17: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 15:29:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3868.6ms.
+L 01/06/2025 - 15:48:24: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 15:48:48: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/06/2025 - 15:49:03: [polymorph.amxx] performance issue. Function startMapVote executed more than 2.8ms.
+L 01/06/2025 - 15:49:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 15:49:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/06/2025 - 15:50:34: -------- Mapchange to de_dust2 --------
+L 01/06/2025 - 15:50:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 15:50:35: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "en")
+L 01/06/2025 - 15:50:35: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/slender.txt" key "SLENDER_SPAWNSHOW" lang "de")
+L 01/06/2025 - 15:50:39: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3826.3ms.
+L 01/06/2025 - 16:11:03: [admin.amxx] Login: "Ñev<7><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:11:08: [admin.amxx] Login: "Ñev<8><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:11:28: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/06/2025 - 16:11:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 16:11:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 16:11:41: [admincmd.amxx] Cmd: "Ñev<8><STEAM_0:1:458940899><>" changelevel "fy_pool_day"
+L 01/06/2025 - 16:11:42: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 16:11:43: -------- Mapchange to fy_pool_day --------
+L 01/06/2025 - 16:11:44: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/06/2025 - 16:11:48: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3943.2ms.
+L 01/06/2025 - 16:11:50: [admin.amxx] Login: "Ñev<8><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:11:53: [admin.amxx] Login: "Ñev<10><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:11:53: [admin.amxx] Login: "Okz :)<9><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:11:56: [admin.amxx] Login: "Okz :)<11><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:23:21: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/06/2025 - 16:23:37: [admincmd.amxx] Cmd: "Ñev<10><STEAM_0:1:458940899><>" changelevel "awp_india"
+L 01/06/2025 - 16:23:39: -------- Mapchange to awp_india --------
+L 01/06/2025 - 16:23:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 16:23:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3597.3ms.
+L 01/06/2025 - 16:23:45: [admin.amxx] Login: "Okz :)<11><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:23:45: [admin.amxx] Login: "Ñev<10><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:23:48: [admin.amxx] Login: "Okz :)<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:23:50: [admin.amxx] Login: "Ñev<13><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:24:10: [admincmd.amxx] Cmd: "Ñev<13><STEAM_0:1:458940899><>" changelevel "awp_india"
+L 01/06/2025 - 16:24:12: -------- Mapchange to awp_india --------
+L 01/06/2025 - 16:24:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 16:24:17: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3625.1ms.
+L 01/06/2025 - 16:24:18: [admin.amxx] Login: "Okz :)<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:24:18: [admin.amxx] Login: "Ñev<13><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:24:24: [admin.amxx] Login: "Ñev<14><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:34:51: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 01/06/2025 - 16:34:59: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/06/2025 - 16:35:07: [admincmd.amxx] Cmd: "Ñev<14><STEAM_0:1:458940899><>" changelevel "fy_pool_day"
+L 01/06/2025 - 16:35:10: -------- Mapchange to fy_pool_day --------
+L 01/06/2025 - 16:35:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 16:35:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3965.5ms.
+L 01/06/2025 - 16:35:16: [admin.amxx] Login: "Okz :)<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:35:16: [admin.amxx] Login: "Ñev<14><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:35:19: [admin.amxx] Login: "Ñev<15><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:36:49: [admin.amxx] Login: "okazeta<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:37:02: [admin.amxx] Login: "Okz :)<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:47:29: [admincmd.amxx] Cmd: "Ñev<15><STEAM_0:1:458940899><>" changelevel "he_tennis"
+L 01/06/2025 - 16:47:31: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 16:47:31: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 16:47:35: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3602.1ms.
+L 01/06/2025 - 16:47:37: [admin.amxx] Login: "Okz :)<12><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:47:37: [admin.amxx] Login: "Ñev<15><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:47:40: [admin.amxx] Login: "Okz :)<16><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 16:47:40: [admin.amxx] Login: "Ñev<17><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 16:48:07: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:07: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:07: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:07: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:08: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:12: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:19: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:19: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:20: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:21: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:23: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:29: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:29: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:30: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:30: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:30: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:30: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:31: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:31: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:31: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:32: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:40: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:40: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:40: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:40: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:41: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:45: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:46: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 16:48:48: [plmenu.amxx] Cmd: "Ñev<17><STEAM_0:1:458940899><>" slap with 0 damage "Ñev<17><STEAM_0:1:458940899><>"
+L 01/06/2025 - 17:05:57: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 17:05:57: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 17:06:13: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 17:06:16: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 17:06:17: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 17:06:19: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 17:06:21: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/06/2025 - 17:06:22: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 17:06:37: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 17:06:37: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.3ms.
+L 01/06/2025 - 17:06:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 17:06:43: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 17:06:52: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 17:06:57: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 17:07:01: [polymorph.amxx] Vote: Voting for the nextmap finished. Map he_tennis will be extended to next 15 minutes
+L 01/06/2025 - 17:07:01: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 24.9ms.
+L 01/06/2025 - 17:19:15: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 17:19:15: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.8ms.
+L 01/06/2025 - 17:19:17: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 17:19:18: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 17:19:31: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 17:19:39: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Jailbreak
+L 01/06/2025 - 17:19:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 17:19:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.1ms.
+L 01/06/2025 - 17:19:58: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 17:19:59: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:20:03: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 17:20:06: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 01/06/2025 - 17:20:09: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:20:11: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:20:15: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 17:20:17: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:20:19: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/06/2025 - 17:20:20: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 17:20:21: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 17:20:27: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 17:20:28: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/06/2025 - 17:20:40: -------- Mapchange to kz_arsacid --------
+L 01/06/2025 - 17:20:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 17:20:40: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 13.7ms.
+L 01/06/2025 - 17:20:41: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/06/2025 - 17:20:41: [kz_jumpplugin.amxx] performance issue. Function plugin_init executed more than 8.9ms.
+L 01/06/2025 - 17:20:45: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3867.8ms.
+L 01/06/2025 - 17:20:45: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 21.0ms.
+L 01/06/2025 - 17:20:45: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 17:20:47: [admin.amxx] Login: "Ñev<17><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:20:47: [admin.amxx] Login: "Okz :)<16><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:20:50: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Free-For-<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/06/2025 - 17:20:51: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 8.7ms.
+L 01/06/2025 - 17:20:52: [admin.amxx] Login: "Okz :)<19><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:20:54: [admin.amxx] Login: "Ñev<20><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:21:06: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/06/2025 - 17:21:48: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 8.6ms.
+L 01/06/2025 - 17:21:54: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.4ms.
+L 01/06/2025 - 17:22:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 11.4ms.
+L 01/06/2025 - 17:22:05: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.7ms.
+L 01/06/2025 - 17:22:07: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 2.0ms.
+L 01/06/2025 - 17:22:08: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.6ms.
+L 01/06/2025 - 17:22:09: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.6ms.
+L 01/06/2025 - 17:22:10: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.5ms.
+L 01/06/2025 - 17:22:18: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.2ms.
+L 01/06/2025 - 17:22:24: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.0ms.
+L 01/06/2025 - 17:22:30: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.1ms.
+L 01/06/2025 - 17:22:33: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 3.8ms.
+L 01/06/2025 - 17:22:33: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.4ms.
+L 01/06/2025 - 17:22:37: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 7.8ms.
+L 01/06/2025 - 17:22:41: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.5ms.
+L 01/06/2025 - 17:22:45: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 4.3ms.
+L 01/06/2025 - 17:22:46: [kz_jumpplugin.amxx] performance issue. Function DisplayTime executed more than 1.1ms.
+L 01/06/2025 - 17:23:01: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.4ms.
+L 01/06/2025 - 17:23:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 6.7ms.
+L 01/06/2025 - 17:23:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 13.1ms.
+L 01/06/2025 - 17:23:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 5.8ms.
+L 01/06/2025 - 17:23:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.4ms.
+L 01/06/2025 - 17:23:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.4ms.
+L 01/06/2025 - 17:23:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/06/2025 - 17:23:03: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 6.8ms.
+L 01/06/2025 - 17:23:05: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 19.8ms.
+L 01/06/2025 - 17:23:29: [admincmd.amxx] Cmd: "Ñev<20><STEAM_0:1:458940899><>" changelevel "kz_arsacid"
+L 01/06/2025 - 17:23:31: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.2ms.
+L 01/06/2025 - 17:23:32: -------- Mapchange to kz_arsacid --------
+L 01/06/2025 - 17:23:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 17:23:32: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 11.1ms.
+L 01/06/2025 - 17:23:33: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/06/2025 - 17:23:33: [kz_jumpplugin.amxx] performance issue. Function plugin_init executed more than 2.9ms.
+L 01/06/2025 - 17:23:36: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3482.2ms.
+L 01/06/2025 - 17:23:36: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 17.9ms.
+L 01/06/2025 - 17:23:36: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 17:23:38: [admin.amxx] Login: "Okz :)<19><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:23:38: [admin.amxx] Login: "Ñev<20><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:23:40: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.6ms.
+L 01/06/2025 - 17:23:41: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/06/2025 - 17:23:41: [admin.amxx] Login: "Ñev<21><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:23:42: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 6.3ms.
+L 01/06/2025 - 17:23:48: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.1ms.
+L 01/06/2025 - 17:24:02: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 5.8ms.
+L 01/06/2025 - 17:24:03: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.6ms.
+L 01/06/2025 - 17:24:05: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/06/2025 - 17:24:05: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.3ms.
+L 01/06/2025 - 17:24:07: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 2.2ms.
+L 01/06/2025 - 17:24:15: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.0ms.
+L 01/06/2025 - 17:24:21: [kz_jumpplugin.amxx] performance issue. Function addToFullPack executed more than 1.1ms.
+L 01/06/2025 - 17:24:22: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.1ms.
+L 01/06/2025 - 17:24:38: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.1ms.
+L 01/06/2025 - 17:24:39: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.2ms.
+L 01/06/2025 - 17:24:41: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPostThink executed more than 1.1ms.
+L 01/06/2025 - 17:24:42: [kz_jumpplugin.amxx] performance issue. Function FwdPlayerPreThink executed more than 1.9ms.
+L 01/06/2025 - 17:24:44: [kz_jumpplugin.amxx] performance issue. Function DisplayTime executed more than 3.3ms.
+L 01/06/2025 - 17:24:58: [admincmd.amxx] Cmd: "Ñev<21><STEAM_0:1:458940899><>" changelevel "cs_paintball"
+L 01/06/2025 - 17:25:01: -------- Mapchange to cs_paintball --------
+L 01/06/2025 - 17:25:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 17:25:08: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 5330.8ms.
+L 01/06/2025 - 17:25:10: [admin.amxx] Login: "Ñev<21><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:25:10: [admin.amxx] Login: "Okz :)<19><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:25:13: [admin.amxx] Login: "Ñev<23><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:25:17: [admin.amxx] Login: "Okz :)<24><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:48:08: [plmenu.amxx] Cmd: "Ñev<23><STEAM_0:1:458940899><>" transfer "No Love<31><STEAM_0:0:88646784><>" (team "CT")
+L 01/06/2025 - 17:53:29: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 17:53:29: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/06/2025 - 17:53:31: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 17:53:33: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 17:53:38: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 17:53:40: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 17:53:41: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 17:53:44: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 17:53:47: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 17:53:48: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 17:53:49: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 17:53:53: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 17:53:54: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Bomberman
+L 01/06/2025 - 17:53:54: [polymorph.amxx] performance issue. Function checkModVotes executed more than 3.0ms.
+L 01/06/2025 - 17:54:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 17:54:10: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:54:18: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 17:54:26: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 17:54:34: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bomberman_final
+L 01/06/2025 - 17:55:46: [polymorph.amxx] performance issue. Function plugin_end executed more than 1.2ms.
+L 01/06/2025 - 17:55:46: -------- Mapchange to bomberman_final --------
+L 01/06/2025 - 17:55:46: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 17:55:47: [polymorph.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/06/2025 - 17:55:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3606.7ms.
+L 01/06/2025 - 17:55:52: [admin.amxx] Login: "Ñev<23><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:55:52: [admin.amxx] Login: "Okz :)<24><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 17:55:55: [admin.amxx] Login: "Ñev<32><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 17:56:02: [admin.amxx] Login: "Okz :)<34><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:08:15: [adminchat.amxx] Chat: "Okz :)<34><STEAM_0:1:639207163><>" tsay "PTMR JUEGO DE MRD"
+L 01/06/2025 - 18:09:52: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 18:09:53: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 18:09:57: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 18:09:58: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 18:10:03: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 11.2ms.
+L 01/06/2025 - 18:10:17: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:10:17: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/06/2025 - 18:10:17: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.3ms.
+L 01/06/2025 - 18:10:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 18:10:33: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/06/2025 - 18:10:35: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 18:10:37: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 18:10:44: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 18:10:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/06/2025 - 18:10:57: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/06/2025 - 18:12:01: -------- Mapchange to de_dust --------
+L 01/06/2025 - 18:12:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 18:12:09: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4613.8ms.
+L 01/06/2025 - 18:12:09: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 18:12:11: [admin.amxx] Login: "Ñev<32><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 18:12:11: [admin.amxx] Login: "Okz :)<34><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:12:15: [admin.amxx] Login: "Ñev<36><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 18:12:15: [admin.amxx] Login: "Okz :)<37><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:17:55: [adminchat.amxx] Chat: "Ñev<36><STEAM_0:1:458940899><>" say "en consola pon bin "c" +setlaser"
+L 01/06/2025 - 18:18:10: [adminchat.amxx] Chat: "Ñev<36><STEAM_0:1:458940899><>" say "en consola pon bin "v" +dellaser"
+L 01/06/2025 - 18:21:35: [admin.amxx] Login: "Okz :)<39><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:23:20: [admin.amxx] Login: "Okz :)<40><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:28:31: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 18:28:31: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.9ms.
+L 01/06/2025 - 18:28:38: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 18:28:39: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 18:28:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 18:28:49: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 18:28:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 18:28:54: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 18:28:55: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be hns_floppytown
+L 01/06/2025 - 18:28:55: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/06/2025 - 18:28:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 18:30:35: -------- Mapchange to hns_floppytown --------
+L 01/06/2025 - 18:30:36: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 18:30:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3762.5ms.
+L 01/06/2025 - 18:30:41: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 18:30:42: [admin.amxx] Login: "Ñev<36><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 18:30:42: [admin.amxx] Login: "Okz :)<40><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:30:46: [admin.amxx] Login: "Ñev<41><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 18:30:46: [admin.amxx] Login: "Okz :)<42><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:43:02: [admin.amxx] Login: "Okz :)<44><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:44:16: [admin.amxx] Login: "Okz :)<45><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:45:18: [admin.amxx] Login: "Okz :)<48><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:46:02: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 18:46:02: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 18:46:05: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 18:46:09: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 18:46:10: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:46:11: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 18:46:13: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:46:14: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 18:46:16: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 18:46:18: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.6ms.
+L 01/06/2025 - 18:46:19: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 18:46:20: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:46:21: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 18:46:22: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:46:24: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.5ms.
+L 01/06/2025 - 18:46:26: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 18:46:27: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 18:46:43: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 18:46:43: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.6ms.
+L 01/06/2025 - 18:46:44: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 18:46:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 18:46:52: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 18:46:53: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 18:46:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 18:46:58: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 18:46:59: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 18:47:02: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.6ms.
+L 01/06/2025 - 18:47:06: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 18:47:07: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/06/2025 - 18:47:08: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.1ms.
+L 01/06/2025 - 18:48:18: -------- Mapchange to de_dust --------
+L 01/06/2025 - 18:48:18: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 18:48:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3517.1ms.
+L 01/06/2025 - 18:48:23: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 18:48:25: [admin.amxx] Login: "Ñev<41><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 18:48:25: [admin.amxx] Login: "Okz :)<48><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 18:48:30: [admin.amxx] Login: "Ñev<50><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:04:04: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 19:04:04: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.8ms.
+L 01/06/2025 - 19:04:07: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 19:04:07: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 19:04:08: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 2.1ms.
+L 01/06/2025 - 19:04:09: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 19:04:11: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 19:04:12: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 19:04:13: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 19:04:14: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 19:04:14: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 19:04:15: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.7ms.
+L 01/06/2025 - 19:04:16: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 19:04:18: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 19:04:21: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.4ms.
+L 01/06/2025 - 19:04:22: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 19:04:23: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.9ms.
+L 01/06/2025 - 19:04:25: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 19:04:26: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 19:04:27: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 19:04:28: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.2ms.
+L 01/06/2025 - 19:04:28: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.1ms.
+L 01/06/2025 - 19:04:28: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Surf
+L 01/06/2025 - 19:04:28: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 01/06/2025 - 19:04:29: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.0ms.
+L 01/06/2025 - 19:04:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 19:04:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.1ms.
+L 01/06/2025 - 19:04:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 19:04:58: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 19:04:59: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 19:05:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/06/2025 - 19:05:09: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.3ms.
+L 01/06/2025 - 19:06:14: -------- Mapchange to surf_iceday_remake --------
+L 01/06/2025 - 19:06:15: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 19:06:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/UltimateSurf.txt
+L 01/06/2025 - 19:06:16: [Ultimatesurf.amxx] UltimateSurf configuration file successfully loaded!
+L 01/06/2025 - 19:06:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3515.6ms.
+L 01/06/2025 - 19:06:22: [admin.amxx] Login: "Ñev<50><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:06:22: [admin.amxx] Login: "Okz :)<48><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:06:26: [admin.amxx] Login: "Ñev<61><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:06:26: [admin.amxx] Login: "Okz :)<60><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:07:34: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.0ms.
+L 01/06/2025 - 19:07:37: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.0ms.
+L 01/06/2025 - 19:24:41: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 19:24:41: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/06/2025 - 19:24:42: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:24:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:24:46: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:24:47: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:24:48: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 19:24:51: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:24:54: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 19:24:55: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:24:55: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:24:56: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:24:57: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 19:24:59: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 19:25:00: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:25:01: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:25:05: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be hamsters
+L 01/06/2025 - 19:25:05: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/06/2025 - 19:25:35: [polymorph.amxx] performance issue. Function cmdSetNextmod executed more than 1.2ms.
+L 01/06/2025 - 19:25:47: [admincmd.amxx] Cmd: "Ñev<61><STEAM_0:1:458940899><>" changelevel "fy_pool_day"
+L 01/06/2025 - 19:25:50: -------- Mapchange to fy_pool_day --------
+L 01/06/2025 - 19:25:51: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/06/2025 - 19:25:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3597.6ms.
+L 01/06/2025 - 19:25:56: [admin.amxx] Login: "Ñev<61><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:25:56: [admin.amxx] Login: "Okz :)<60><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:25:59: [admin.amxx] Login: "Ñev<75><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:40:11: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/06/2025 - 19:40:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 19:40:12: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.9ms.
+L 01/06/2025 - 19:40:13: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.8ms.
+L 01/06/2025 - 19:40:14: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:40:15: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:40:17: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 19:40:18: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:40:19: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:40:20: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/06/2025 - 19:40:21: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 19:40:22: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 19:40:23: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:40:24: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 19:40:25: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 19:40:26: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:40:27: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:40:28: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.3ms.
+L 01/06/2025 - 19:40:29: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 19:40:30: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.9ms.
+L 01/06/2025 - 19:40:31: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/06/2025 - 19:40:32: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.6ms.
+L 01/06/2025 - 19:40:33: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:40:34: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.0ms.
+L 01/06/2025 - 19:40:35: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.6ms.
+L 01/06/2025 - 19:40:36: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 19:40:36: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_suite
+L 01/06/2025 - 19:40:36: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/06/2025 - 19:40:37: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 19:40:55: -------- Mapchange to fy_pool_suite --------
+L 01/06/2025 - 19:40:56: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/06/2025 - 19:41:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3660.3ms.
+L 01/06/2025 - 19:41:02: [admin.amxx] Login: "Ñev<75><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:41:02: [admin.amxx] Login: "Okz :)<60><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:41:05: [admin.amxx] Login: "Ñev<82><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:41:06: [admin.amxx] Login: "Okz :)<84><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:41:19: [admincmd.amxx] Cmd: "Ñev<82><STEAM_0:1:458940899><>" changelevel "he_tennis"
+L 01/06/2025 - 19:41:21: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 19:41:21: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 19:41:26: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3468.3ms.
+L 01/06/2025 - 19:41:27: [admin.amxx] Login: "Ñev<82><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:41:27: [admin.amxx] Login: "Okz :)<84><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 19:41:30: [admin.amxx] Login: "Ñev<88><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 19:55:27: [adminchat.amxx] Chat: "Okz :)<84><STEAM_0:1:639207163><>" tsay "oe "
+L 01/06/2025 - 19:56:40: [adminchat.amxx] Chat: "Okz :)<84><STEAM_0:1:639207163><>" tsay "solo awp manos"
+L 01/06/2025 - 19:57:50: [admin.amxx] Login: "Kev<88><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 20:00:27: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 20:00:27: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.3ms.
+L 01/06/2025 - 20:00:29: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 20:00:30: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 20:00:31: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 20:00:32: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 20:00:33: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 20:00:35: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 20:00:37: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 20:00:38: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.0ms.
+L 01/06/2025 - 20:00:39: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 20:00:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 20:00:41: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 20:00:42: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 20:00:43: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 20:00:44: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.1ms.
+L 01/06/2025 - 20:00:45: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 2.2ms.
+L 01/06/2025 - 20:00:46: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 20:00:47: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/06/2025 - 20:00:48: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.7ms.
+L 01/06/2025 - 20:00:49: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.2ms.
+L 01/06/2025 - 20:00:50: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.4ms.
+L 01/06/2025 - 20:00:51: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.5ms.
+L 01/06/2025 - 20:00:51: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ka_roadwars_v3
+L 01/06/2025 - 20:00:51: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 2.1ms.
+L 01/06/2025 - 20:02:46: -------- Mapchange to ka_roadwars_v3 --------
+L 01/06/2025 - 20:02:46: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 20:02:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3758.0ms.
+L 01/06/2025 - 20:02:53: [admin.amxx] Login: "Kev<88><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 20:02:53: [admin.amxx] Login: "Okz :)<84><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 20:02:57: [admin.amxx] Login: "Kev<100><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 20:02:59: [admin.amxx] Login: "Okz :)<103><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 20:04:38: [adminchat.amxx] Chat: "Okz :)<103><STEAM_0:1:639207163><>" chat " etiquetas "
+L 01/06/2025 - 20:22:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 20:22:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/06/2025 - 20:24:35: -------- Mapchange to crazycar_v2 --------
+L 01/06/2025 - 20:24:35: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 20:24:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3682.1ms.
+L 01/06/2025 - 20:43:41: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 20:43:41: [polymorph.amxx] performance issue. Function TaskVoteTimer executed more than 1.3ms.
+L 01/06/2025 - 20:44:05: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/06/2025 - 20:44:05: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.1ms.
+L 01/06/2025 - 20:44:21: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 20:44:45: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 01/06/2025 - 20:44:45: [polymorph.amxx] performance issue. Function checkMapVotes executed more than 1.1ms.
+L 01/06/2025 - 20:45:49: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 20:45:49: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 20:45:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3955.5ms.
+L 01/06/2025 - 21:04:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 21:05:20: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/06/2025 - 21:07:04: -------- Mapchange to crazycar_v2 --------
+L 01/06/2025 - 21:07:04: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 21:07:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 4212.8ms.
+L 01/06/2025 - 21:26:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 21:26:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be he_tennis
+L 01/06/2025 - 21:28:19: -------- Mapchange to he_tennis --------
+L 01/06/2025 - 21:28:19: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 21:28:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3660.2ms.
+L 01/06/2025 - 21:47:26: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 21:47:50: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrace
+L 01/06/2025 - 21:47:50: [polymorph.amxx] performance issue. Function checkModVotes executed more than 1.0ms.
+L 01/06/2025 - 21:48:06: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 21:48:30: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_brio
+L 01/06/2025 - 21:49:34: -------- Mapchange to deathrace_brio --------
+L 01/06/2025 - 21:49:34: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 21:49:38: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3527.4ms.
+L 01/06/2025 - 22:08:40: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 22:08:40: [polymorph.amxx] performance issue. Function TaskVoteMapTimer executed more than 1.3ms.
+L 01/06/2025 - 22:09:04: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrace_dangerous
+L 01/06/2025 - 22:10:50: -------- Mapchange to deathrace_dangerous --------
+L 01/06/2025 - 22:10:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 22:10:55: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3740.2ms.
+L 01/06/2025 - 22:29:56: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 22:30:20: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/06/2025 - 22:30:20: [polymorph.amxx] performance issue. Function checkModVotes executed more than 4.8ms.
+L 01/06/2025 - 22:30:36: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 22:31:01: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/06/2025 - 22:32:07: -------- Mapchange to cs_estate --------
+L 01/06/2025 - 22:32:07: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 22:32:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3775.7ms.
+L 01/06/2025 - 22:32:12: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 22:47:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 22:47:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/06/2025 - 22:49:22: -------- Mapchange to de_dust --------
+L 01/06/2025 - 22:49:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 22:49:27: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3515.9ms.
+L 01/06/2025 - 22:49:27: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/06/2025 - 23:04:28: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/06/2025 - 23:04:52: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Escape
+L 01/06/2025 - 23:05:08: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/06/2025 - 23:05:32: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ze_deadspace_v2
+L 01/06/2025 - 23:06:37: -------- Mapchange to ze_deadspace_v2 --------
+L 01/06/2025 - 23:06:37: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/06/2025 - 23:06:42: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3645.7ms.
+L 01/06/2025 - 23:15:30: [admin.amxx] Login: "Kev<107><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:15:50: [admin.amxx] Login: "Kev<108><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:18:01: [admincmd.amxx] Cmd: "PerGAmes # MultiModos - Zombie <0><><>" ask for players list
+L 01/06/2025 - 23:19:36: [admincmd.amxx] Cmd: "PerGAmes # MultiModos - Zombie <0><><>" ask for players list
+L 01/06/2025 - 23:20:27: [admincmd.amxx] Cmd: "PerGAmes # MultiModos - Zombie <0><><>" changelevel "fy_titanic"
+L 01/06/2025 - 23:20:30: -------- Mapchange to fy_titanic --------
+L 01/06/2025 - 23:20:31: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/06/2025 - 23:20:34: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3535.2ms.
+L 01/06/2025 - 23:20:59: [admin.amxx] Login: "Kev<109><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:21:03: [admin.amxx] Login: "Kev<110><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:21:08: [admin.amxx] Login: "Okz :)<111><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 23:21:11: [admin.amxx] Login: "Okz :)<112><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 23:21:31: [admincmd.amxx] Cmd: "Kev<110><STEAM_0:1:458940899><>" changelevel "fy_pool_day"
+L 01/06/2025 - 23:21:33: -------- Mapchange to fy_pool_day --------
+L 01/06/2025 - 23:21:34: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/06/2025 - 23:21:38: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 3463.3ms.
+L 01/06/2025 - 23:21:39: [admin.amxx] Login: "Okz :)<112><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")
+L 01/06/2025 - 23:21:39: [admin.amxx] Login: "Kev<110><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:21:42: [admin.amxx] Login: "Kev<113><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "38.43.130.212")
+L 01/06/2025 - 23:21:42: [admin.amxx] Login: "Okz :)<114><STEAM_0:1:639207163><>" became an admin (account "STEAM_0:1:639207163") (access "abi") (address "201.240.161.89")

@@ -1,0 +1,897 @@
+L 01/14/2025 - 00:09:25: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 00:09:49: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be 35hp_gx
+L 01/14/2025 - 00:10:06: -------- Mapchange to 35hp_gx --------
+L 01/14/2025 - 00:10:06: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 00:10:07: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1130.2ms.
+L 01/14/2025 - 00:31:08: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 00:31:32: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Bomberman
+L 01/14/2025 - 00:31:48: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 00:31:48: -------- Mapchange to bomberman_final --------
+L 01/14/2025 - 00:31:48: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 00:31:50: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1142.5ms.
+L 01/14/2025 - 00:45:50: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 00:46:14: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 01/14/2025 - 00:46:30: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 00:46:54: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 00:47:58: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 00:47:58: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 00:48:00: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1118.6ms.
+L 01/14/2025 - 01:06:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 01:06:24: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/14/2025 - 01:08:08: -------- Mapchange to de_inferno --------
+L 01/14/2025 - 01:08:08: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 01:08:10: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1129.6ms.
+L 01/14/2025 - 01:26:10: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 01:26:34: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 01:28:18: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 01:28:18: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 01:28:19: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.5ms.
+L 01/14/2025 - 01:45:42: [admin.amxx] Login: "Frost<72><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 01:46:20: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 01:46:44: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Gungame
+L 01/14/2025 - 01:47:00: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 01:47:24: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_day
+L 01/14/2025 - 01:48:28: -------- Mapchange to fy_pool_day --------
+L 01/14/2025 - 01:48:28: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 01:48:29: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1126.1ms.
+L 01/14/2025 - 01:48:30: [admin.amxx] Login: "Frost<72><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 01:48:34: [admin.amxx] Login: "Frost<73><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 01:55:32: [admin.amxx] Login: "_M_<74><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 01:55:35: [admin.amxx] Login: "_M_<75><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:00:27: [admin.amxx] Login: "MegaXZero<78><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "161.132.49.188")
+L 01/14/2025 - 02:00:32: [admin.amxx] Login: "MegaXZero<79><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "161.132.49.188")
+L 01/14/2025 - 02:02:25: [admincmd.amxx] Cmd: "_M_<75><STEAM_0:1:106132448><>" set cvar (name "sys_ticrate") (value "1000")
+L 01/14/2025 - 02:06:51: [admin.amxx] Login: "andleo<82><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:06:53: [admin.amxx] Login: "andleo<83><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:10:24: [admin.amxx] Login: "andleo<84><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:13:16: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/14/2025 - 02:13:17: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 02:13:41: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be gg_dust_2_vk
+L 01/14/2025 - 02:14:14: [adminchat.amxx] Chat: "Frost<73><STEAM_0:1:167856899><>" tsay "XD"
+L 01/14/2025 - 02:21:42: -------- Mapchange to gg_dust_2_vk --------
+L 01/14/2025 - 02:21:42: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 02:21:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1117.7ms.
+L 01/14/2025 - 02:21:44: [admin.amxx] Login: "_M_<75><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:21:44: [admin.amxx] Login: "Frost<73><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:21:48: [admin.amxx] Login: "Frost<86><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:21:54: [admin.amxx] Login: "_M_<87><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:23:00: [admin.amxx] Login: "andleo<88><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:23:03: [admin.amxx] Login: "andleo<89><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:23:26: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 02:23:50: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Deathrun
+L 01/14/2025 - 02:24:06: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 02:24:30: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be deathrun_c00l_f
+L 01/14/2025 - 02:24:50: -------- Mapchange to deathrun_c00l_f --------
+L 01/14/2025 - 02:24:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 02:24:51: [plugin_trail.amxx] performance issue. Function plugin_precache executed more than 124.9ms.
+L 01/14/2025 - 02:24:51: [rtd_pg.amxx] performance issue. Function plugin_precache executed more than 82.9ms.
+L 01/14/2025 - 02:24:51: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/deathrun.txt" key "Zabi nepriatela pre ziskanie jedneho." lang "sk")
+L 01/14/2025 - 02:24:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/DeathrunShopLang.txt
+L 01/14/2025 - 02:24:51: [plugin_trail.amxx] performance issue. Function plugin_init executed more than 15.1ms.
+L 01/14/2025 - 02:24:51: [specteclado.amxx] performance issue. Function plugin_init executed more than 11.1ms.
+L 01/14/2025 - 02:24:51: [rtd_pg.amxx] performance issue. Function plugin_init executed more than 1.5ms.
+L 01/14/2025 - 02:24:51: [use_buttons.amxx] performance issue. Function plugin_init executed more than 7.0ms.
+L 01/14/2025 - 02:24:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.7ms.
+L 01/14/2025 - 02:24:53: [admin.amxx] Login: "_M_<87><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:24:53: [admin.amxx] Login: "andleo<89><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:24:53: [admin.amxx] Login: "Frost<86><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:24:56: [admin.amxx] Login: "andleo<92><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:24:58: [admin.amxx] Login: "Frost<94><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:25:11: [team_join.amxx] performance issue. Function task_Autoswitch executed more than 1.7ms.
+L 01/14/2025 - 02:29:38: [admincmd.amxx] Cmd: "_M_<87><STEAM_0:1:106132448><>" changelevel "dm_afhs_pg"
+L 01/14/2025 - 02:29:40: -------- Mapchange to dm_afhs_pg --------
+L 01/14/2025 - 02:29:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 02:29:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1107.8ms.
+L 01/14/2025 - 02:29:42: [admin.amxx] Login: "_M_<87><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:29:42: [admin.amxx] Login: "Frost<94><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:29:42: [admin.amxx] Login: "andleo<92><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:29:42: [admin.amxx] Login: "andleo<97><STEAM_0:1:106638094><>" became an admin (account "STEAM_0:1:106638094") (access "abcdefijmnopqrst") (address "38.250.131.81")
+L 01/14/2025 - 02:29:42: [admin.amxx] Login: "Frost<98><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:29:48: [admin.amxx] Login: "Frost<100><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:32:13: [admin.amxx] Login: "MegaXZero<101><STEAM_0:0:66435771><>" became an admin (account "megaxzero") (access "abi") (address "161.132.49.188")
+L 01/14/2025 - 02:34:00: [admin.amxx] Login: "Narco$$$<102><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:34:16: [admin.amxx] Login: "Narco$$$<103><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:38:58: [admincmd.amxx] Cmd: "_M_<87><STEAM_0:1:106132448><>" changelevel "sj_trix_zone"
+L 01/14/2025 - 02:39:00: -------- Mapchange to sj_trix_zone --------
+L 01/14/2025 - 02:39:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 02:39:00: [soccerjam.amxx] performance issue. Function plugin_precache executed more than 22.7ms.
+L 01/14/2025 - 02:39:00: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 6.7ms.
+L 01/14/2025 - 02:39:00: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 15.9ms.
+L 01/14/2025 - 02:39:00: [soccerjam.amxx] performance issue. Function pfn_keyvalue executed more than 15.8ms.
+L 01/14/2025 - 02:39:01: [soccerjam.amxx] performance issue. Function plugin_init executed more than 30.8ms.
+L 01/14/2025 - 02:39:02: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.4ms.
+L 01/14/2025 - 02:39:02: [admin.amxx] Login: "_M_<87><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:39:02: [admin.amxx] Login: "Frost<100><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:39:02: [admin.amxx] Login: "Narco$$$<103><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:39:05: [soccerjam.amxx] performance issue. Function client_putinserver executed more than 1.5ms.
+L 01/14/2025 - 02:39:15: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 33.9ms.
+L 01/14/2025 - 02:39:15: [soccerjam.amxx] performance issue. Function VerificarExist executed more than 30.8ms.
+L 01/14/2025 - 02:44:27: [soccerjam.amxx] performance issue. Function PostPostSetupRound executed more than 1.4ms.
+L 01/14/2025 - 02:45:22: [soccerjam.amxx] performance issue. Function mascot_think executed more than 2.5ms.
+L 01/14/2025 - 02:58:16: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 02:58:40: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/14/2025 - 02:58:40: [admin.amxx] Login: "Kev<105><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:58:56: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 02:59:12: [admincmd.amxx] Cmd: "Frost<100><STEAM_0:1:167856899><>" changelevel "de_aztec"
+L 01/14/2025 - 02:59:14: [soccerjam.amxx] performance issue. Function client_disconnect executed more than 17.4ms.
+L 01/14/2025 - 02:59:14: -------- Mapchange to de_aztec --------
+L 01/14/2025 - 02:59:14: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 02:59:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1111.6ms.
+L 01/14/2025 - 02:59:16: [admin.amxx] Login: "_M_<87><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:59:16: [admin.amxx] Login: "Frost<100><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:16: [admin.amxx] Login: "Kev<105><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:16: [admin.amxx] Login: "Narco$$$<103><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:16: [admin.amxx] Login: "Narco$$$<107><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:19: [admin.amxx] Login: "_M_<108><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 02:59:19: [admin.amxx] Login: "Kev<109><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:19: [admin.amxx] Login: "Narco$$$<111><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 02:59:21: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:03:35: [admincmd.amxx] Cmd: "_M_<108><STEAM_0:1:106132448><>" set cvar (name "slender_damage") (value "1")
+L 01/14/2025 - 03:06:31: [admincmd.amxx] Cmd: "_M_<108><STEAM_0:1:106132448><>" set cvar (name "slender_damage") (value "2")
+L 01/14/2025 - 03:11:29: [admin.amxx] Login: "Kev<115><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:11:33: [admin.amxx] Login: "Kev<116><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:11:54: [plmenu.amxx] Cmd: "Kev<116><STEAM_0:1:458940899><>" transfer "Kev<116><STEAM_0:1:458940899><>" (team "TERRORIST")
+L 01/14/2025 - 03:17:05: [admincmd.amxx] Cmd: "_M_<108><STEAM_0:1:106132448><>" set cvar (name "slender_damage") (value "1")
+L 01/14/2025 - 03:19:58: [admincmd.amxx] Cmd: "Kev<116><STEAM_0:1:458940899><>" changelevel "fy_pool_day"
+L 01/14/2025 - 03:20:00: -------- Mapchange to fy_pool_day --------
+L 01/14/2025 - 03:20:01: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 03:20:02: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1134.3ms.
+L 01/14/2025 - 03:20:02: [admin.amxx] Login: "_M_<108><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:20:02: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:20:02: [admin.amxx] Login: "Kev<116><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:20:02: [admin.amxx] Login: "Narco$$$<111><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:20:05: [admin.amxx] Login: "Kev<119><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:20:08: [admin.amxx] Login: "Narco$$$<120><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:20:29: [admin.amxx] Login: "perrito<108><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:26:15: [plmenu.amxx] Cmd: "Frost<112><STEAM_0:1:167856899><>" transfer "BANEADO DE CHORRILLOS<122><STEAM_0:0:222971911><>" (team "TERRORIST")
+L 01/14/2025 - 03:29:28: [plmenu.amxx] Cmd: "Kev<119><STEAM_0:1:458940899><>" transfer "GatoVolador<126><STEAM_0:1:866477172><>" (team "CT")
+L 01/14/2025 - 03:33:19: [adminchat.amxx] Chat: "Frost<112><STEAM_0:1:167856899><>" tsay "xd"
+L 01/14/2025 - 03:35:18: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/14/2025 - 03:35:20: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 03:35:44: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be gg_dusted_houses
+L 01/14/2025 - 03:38:22: -------- Mapchange to gg_dusted_houses --------
+L 01/14/2025 - 03:38:22: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 03:38:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1096.0ms.
+L 01/14/2025 - 03:38:24: [admin.amxx] Login: "perrito<108><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:38:24: [admin.amxx] Login: "Kev<119><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:38:24: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:38:24: [admin.amxx] Login: "Narco$$$<120><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:38:27: [admin.amxx] Login: "Kev<129><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:38:28: [admin.amxx] Login: "perrito<131><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:38:31: [admin.amxx] Login: "Narco$$$<132><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 03:38:35: [admin.amxx] Login: "Narco$$$<133><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 03:38:47: [adminchat.amxx] Chat: "Frost<112><STEAM_0:1:167856899><>" tsay "1"
+L 01/14/2025 - 03:39:11: [admincmd.amxx] Cmd: "Frost<112><STEAM_0:1:167856899><>" changelevel "mini_dust_pro"
+L 01/14/2025 - 03:39:13: -------- Mapchange to mini_dust_pro --------
+L 01/14/2025 - 03:39:13: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 03:39:14: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1107.9ms.
+L 01/14/2025 - 03:39:15: [admin.amxx] Login: "perrito<131><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:39:15: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:39:15: [admin.amxx] Login: "Narco$$$<133><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 03:39:15: [admin.amxx] Login: "Kev<129><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:39:41: [plmenu.amxx] Cmd: "Frost<112><STEAM_0:1:167856899><>" transfer "BANEADO DE CHORRILLOS<130><STEAM_0:0:222971911><>" (team "TERRORIST")
+L 01/14/2025 - 03:45:28: [admincmd.amxx] Cmd: "perrito<131><STEAM_0:1:106132448><>" set cvar (name "gg_teamplay") (value "1")
+L 01/14/2025 - 03:45:30: [gungame.amxx] MISSYNCH -- id: 5, value: 1, just_joined: 0, show_message: 1, always_score: 0, play_sounds: 1, effect_team: 1, team: 1, level: 8, teamlevel: 0, usertime: 115, score: 1, teamscore: 1, lvlweapon: xm1014, teamlvlweapon: 
+L 01/14/2025 - 03:50:01: [plmenu.amxx] Cmd: "Kev<129><STEAM_0:1:458940899><>" transfer "001<137><STEAM_0:0:157216188><>" (team "CT")
+L 01/14/2025 - 03:53:06: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/14/2025 - 03:53:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 03:53:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be mini_dust2
+L 01/14/2025 - 03:54:28: [adminchat.amxx] Chat: "Kev<129><STEAM_0:1:458940899><>" tsay "xd"
+L 01/14/2025 - 03:54:32: -------- Mapchange to mini_dust2 --------
+L 01/14/2025 - 03:54:32: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 03:54:34: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1126.0ms.
+L 01/14/2025 - 03:54:34: [admin.amxx] Login: "perrito<131><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 03:54:34: [admin.amxx] Login: "Kev<129><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:54:34: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 03:54:34: [admin.amxx] Login: "Narco$$$<133><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 03:54:34: [admin.amxx] Login: "Narco$$$<138><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 04:14:25: [gungame.amxx] Starting a map vote from Polymorph: Mod Manager
+L 01/14/2025 - 04:14:26: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 04:14:50: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_chavo
+L 01/14/2025 - 04:17:28: -------- Mapchange to fy_chavo --------
+L 01/14/2025 - 04:17:29: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/gungame.txt" key "// For GunGame 2.13 - last updated 10:58 PM 1/2/2013" lang "")
+L 01/14/2025 - 04:17:30: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1146.5ms.
+L 01/14/2025 - 04:17:30: [admin.amxx] Login: "Kev<129><STEAM_0:1:458940899><>" became an admin (account "STEAM_0:1:458940899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 04:17:30: [admin.amxx] Login: "Frost<112><STEAM_0:1:167856899><>" became an admin (account "STEAM_0:1:167856899") (access "abcdefijmnopqrst") (address "161.132.49.188")
+L 01/14/2025 - 04:17:30: [admin.amxx] Login: "perrito<131><STEAM_0:1:106132448><>" became an admin (account "STEAM_0:1:106132448") (access "abcdefghijklmnopqrstuv") (address "161.132.49.188")
+L 01/14/2025 - 04:17:30: [admin.amxx] Login: "Narco$$$<138><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 04:17:31: [admin.amxx] Login: "Narco$$$<142><STEAM_0:0:88013412><>" became an admin (account "STEAM_0:0:88013412") (access "abcdefijmnopqrst") (address "181.65.63.21")
+L 01/14/2025 - 05:01:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 05:01:50: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 05:01:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 05:02:14: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 01/14/2025 - 05:02:30: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 05:02:54: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 05:03:50: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 05:03:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 05:03:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1139.5ms.
+L 01/14/2025 - 05:21:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 05:22:16: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/14/2025 - 05:24:00: -------- Mapchange to de_inferno --------
+L 01/14/2025 - 05:24:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 05:24:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1123.9ms.
+L 01/14/2025 - 05:42:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 05:42:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 05:44:10: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 05:44:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 05:44:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1105.8ms.
+L 01/14/2025 - 06:02:11: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 06:02:35: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/14/2025 - 06:02:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 06:03:16: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 06:04:19: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 06:04:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 06:04:21: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.4ms.
+L 01/14/2025 - 06:25:21: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 06:25:45: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/14/2025 - 06:27:29: -------- Mapchange to de_aztec --------
+L 01/14/2025 - 06:27:29: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 06:27:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1108.7ms.
+L 01/14/2025 - 06:48:31: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 06:48:55: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/14/2025 - 06:49:11: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 06:49:35: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 06:50:39: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 06:50:39: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 06:50:40: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1105.2ms.
+L 01/14/2025 - 07:05:27: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 07:05:51: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasFruta
+L 01/14/2025 - 07:06:07: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 07:06:31: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be skariz_brainhard7
+L 01/14/2025 - 07:06:51: -------- Mapchange to skariz_brainhard7 --------
+L 01/14/2025 - 07:06:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 07:06:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1126.5ms.
+L 01/14/2025 - 07:25:53: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 07:26:17: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be skariz_brainhard6
+L 01/14/2025 - 07:28:03: -------- Mapchange to skariz_brainhard6 --------
+L 01/14/2025 - 07:28:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 07:28:05: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1115.8ms.
+L 01/14/2025 - 07:47:05: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 07:47:45: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 07:48:09: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be skariz_brainhard8
+L 01/14/2025 - 07:49:13: -------- Mapchange to skariz_brainhard8 --------
+L 01/14/2025 - 07:49:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 07:49:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1112.9ms.
+L 01/14/2025 - 08:08:15: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 08:08:39: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/14/2025 - 08:08:55: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 08:09:19: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 08:10:23: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 08:10:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 08:10:24: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1120.8ms.
+L 01/14/2025 - 08:31:25: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 08:31:49: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/14/2025 - 08:33:33: -------- Mapchange to de_aztec --------
+L 01/14/2025 - 08:33:33: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 08:33:34: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.7ms.
+L 01/14/2025 - 08:54:34: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 08:54:58: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 01/14/2025 - 08:55:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 08:55:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 08:56:42: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 08:56:43: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 08:56:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1128.5ms.
+L 01/14/2025 - 09:14:44: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 09:15:08: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/14/2025 - 09:16:52: -------- Mapchange to de_inferno --------
+L 01/14/2025 - 09:16:52: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 09:16:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.2ms.
+L 01/14/2025 - 09:34:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 09:35:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 09:37:02: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 09:37:02: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 09:37:03: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.5ms.
+L 01/14/2025 - 09:55:03: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 09:55:27: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/14/2025 - 09:55:44: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 09:56:08: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/14/2025 - 09:57:12: -------- Mapchange to cs_estate --------
+L 01/14/2025 - 09:57:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 09:57:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1114.5ms.
+L 01/14/2025 - 09:57:13: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 10:12:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 10:12:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/14/2025 - 10:14:22: -------- Mapchange to de_dust --------
+L 01/14/2025 - 10:14:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 10:14:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1123.7ms.
+L 01/14/2025 - 10:14:23: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 10:29:24: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 10:29:48: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 01/14/2025 - 10:30:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 10:30:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 01/14/2025 - 10:31:32: -------- Mapchange to cs_assault --------
+L 01/14/2025 - 10:31:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 10:31:33: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1110.0ms.
+L 01/14/2025 - 10:48:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 10:48:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 01/14/2025 - 10:50:41: -------- Mapchange to de_chateau --------
+L 01/14/2025 - 10:50:41: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 10:50:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1114.8ms.
+L 01/14/2025 - 11:07:43: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 11:08:07: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 01/14/2025 - 11:09:51: -------- Mapchange to cs_assault --------
+L 01/14/2025 - 11:09:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 11:09:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1099.0ms.
+L 01/14/2025 - 11:26:53: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 11:27:17: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Vip
+L 01/14/2025 - 11:27:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 11:27:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/14/2025 - 11:29:01: -------- Mapchange to as_oilrig --------
+L 01/14/2025 - 11:29:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 11:29:02: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1124.6ms.
+L 01/14/2025 - 11:52:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 11:52:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_crazytank3
+L 01/14/2025 - 11:54:10: -------- Mapchange to as_crazytank3 --------
+L 01/14/2025 - 11:54:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 11:54:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1117.8ms.
+L 01/14/2025 - 12:17:12: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 12:17:36: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 01/14/2025 - 12:19:20: -------- Mapchange to as_oilrig --------
+L 01/14/2025 - 12:19:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 12:19:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1121.6ms.
+L 01/14/2025 - 12:42:22: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 12:42:46: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/14/2025 - 12:43:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 12:43:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/14/2025 - 12:44:30: -------- Mapchange to cs_estate --------
+L 01/14/2025 - 12:44:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 12:44:31: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1109.4ms.
+L 01/14/2025 - 12:44:31: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 12:59:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 12:59:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/14/2025 - 13:01:40: -------- Mapchange to de_dust --------
+L 01/14/2025 - 13:01:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 13:01:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.7ms.
+L 01/14/2025 - 13:01:41: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 13:16:42: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 13:17:06: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 01/14/2025 - 13:17:22: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 13:17:46: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 01/14/2025 - 13:18:50: -------- Mapchange to kz_arsacid --------
+L 01/14/2025 - 13:18:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 13:18:50: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.1ms.
+L 01/14/2025 - 13:18:50: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 13:18:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1118.9ms.
+L 01/14/2025 - 13:18:51: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 01/14/2025 - 13:18:51: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 13:18:55: [admincmd.amxx] Cmd: "PerGAmes MultiModos - HideN-See<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 13:18:56: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.5ms.
+L 01/14/2025 - 13:36:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 13:37:16: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_xj_brickjump
+L 01/14/2025 - 13:39:00: -------- Mapchange to kz_xj_brickjump --------
+L 01/14/2025 - 13:39:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 13:39:00: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.3ms.
+L 01/14/2025 - 13:39:00: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 13:39:00: [kz_jumpplugin.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/14/2025 - 13:39:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1137.0ms.
+L 01/14/2025 - 13:39:01: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 01/14/2025 - 13:39:01: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 13:39:05: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 13:39:06: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.4ms.
+L 01/14/2025 - 13:57:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 13:57:26: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bkz_goldbhop
+L 01/14/2025 - 13:59:10: -------- Mapchange to bkz_goldbhop --------
+L 01/14/2025 - 13:59:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 13:59:10: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.3ms.
+L 01/14/2025 - 13:59:10: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 13:59:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1121.9ms.
+L 01/14/2025 - 13:59:11: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 01/14/2025 - 13:59:11: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 13:59:15: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 13:59:16: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.4ms.
+L 01/14/2025 - 14:17:12: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 14:17:36: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Jailbreak
+L 01/14/2025 - 14:17:52: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 14:18:16: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_dustluna
+L 01/14/2025 - 14:19:20: -------- Mapchange to jail_dustluna --------
+L 01/14/2025 - 14:19:20: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 14:19:20: [jbextreme1.amxx] performance issue. Function plugin_precache executed more than 131.1ms.
+L 01/14/2025 - 14:19:20: [pisspg.amxx] performance issue. Function plugin_precache executed more than 75.7ms.
+L 01/14/2025 - 14:19:20: [re_dookie.amxx] performance issue. Function plugin_precache executed more than 48.2ms.
+L 01/14/2025 - 14:19:21: [jbextreme1.amxx] performance issue. Function plugin_init executed more than 60.6ms.
+L 01/14/2025 - 14:19:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/cachear.txt
+L 01/14/2025 - 14:19:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1114.4ms.
+L 01/14/2025 - 14:42:22: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 14:42:46: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be jb_xtremer
+L 01/14/2025 - 14:44:31: -------- Mapchange to jb_xtremer --------
+L 01/14/2025 - 14:44:31: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 14:44:31: [jbextreme1.amxx] performance issue. Function plugin_precache executed more than 9.4ms.
+L 01/14/2025 - 14:44:31: [pisspg.amxx] performance issue. Function plugin_precache executed more than 5.0ms.
+L 01/14/2025 - 14:44:31: [re_dookie.amxx] performance issue. Function plugin_precache executed more than 3.6ms.
+L 01/14/2025 - 14:44:31: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/cachear.txt
+L 01/14/2025 - 14:44:32: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1106.2ms.
+L 01/14/2025 - 14:54:54: [admin.amxx] Login: "Speed<155><STEAM_0:0:147512526><>" became an admin (account "Speed") (access "abcdefijmnopqrs") (address "161.132.49.188")
+L 01/14/2025 - 14:54:58: [admin.amxx] Login: "Speed<156><STEAM_0:0:147512526><>" became an admin (account "Speed") (access "abcdefijmnopqrs") (address "161.132.49.188")
+L 01/14/2025 - 14:56:49: [admincmd.amxx] Cmd: "Speed<156><STEAM_0:0:147512526><>" changelevel "surf_ski2"
+L 01/14/2025 - 14:56:51: -------- Mapchange to surf_ski2 --------
+L 01/14/2025 - 14:56:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 14:56:52: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1116.7ms.
+L 01/14/2025 - 14:56:53: [admin.amxx] Login: "Speed<156><STEAM_0:0:147512526><>" became an admin (account "Speed") (access "abcdefijmnopqrs") (address "161.132.49.188")
+L 01/14/2025 - 14:56:58: [admin.amxx] Login: "Speed<157><STEAM_0:0:147512526><>" became an admin (account "Speed") (access "abcdefijmnopqrs") (address "161.132.49.188")
+L 01/14/2025 - 14:57:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:47: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:47: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:57:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:15: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:15: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:15: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:15: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:23: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:23: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:23: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:23: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:24: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:24: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:24: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:24: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:24: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:25: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:26: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:26: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:26: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:26: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:26: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:27: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:28: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:29: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:29: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:32: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:32: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:32: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:32: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:33: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:34: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:34: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:34: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:34: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:46: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:47: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:52: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:52: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:52: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:52: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:52: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:53: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:54: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:55: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:58:55: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:12: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:13: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:14: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:35: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:36: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:37: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:39: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:48: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:48: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:48: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:48: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:48: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:50: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 14:59:51: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:10: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:11: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:31: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:38: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:39: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:40: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:41: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:42: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:43: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:44: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:00:45: [admincmd.amxx] Cmd: "Speed<157><STEAM_0:0:147512526><>" slap with 0 damage "Speed<157><STEAM_0:0:147512526><>"
+L 01/14/2025 - 15:17:53: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 15:18:17: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Zombie-Plague
+L 01/14/2025 - 15:18:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 15:18:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 01/14/2025 - 15:20:03: -------- Mapchange to zm_ice_attack --------
+L 01/14/2025 - 15:20:03: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 55.1ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.4ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.9ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 4.6ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.2ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.4ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 6.1ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 2.0ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.1ms.
+L 01/14/2025 - 15:20:03: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 3.4ms.
+L 01/14/2025 - 15:20:04: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1103.7ms.
+L 01/14/2025 - 15:39:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 15:39:29: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_toronto
+L 01/14/2025 - 15:41:13: -------- Mapchange to zm_toronto --------
+L 01/14/2025 - 15:41:13: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 55.7ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.4ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.9ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 4.7ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.2ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.3ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 6.2ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 2.0ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.1ms.
+L 01/14/2025 - 15:41:13: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 3.4ms.
+L 01/14/2025 - 15:41:15: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1112.0ms.
+L 01/14/2025 - 16:00:15: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 16:00:39: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_ice_attack
+L 01/14/2025 - 16:02:23: -------- Mapchange to zm_ice_attack --------
+L 01/14/2025 - 16:02:23: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function plugin_precache executed more than 56.2ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.4ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.9ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 4.7ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.2ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 3.3ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 6.1ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 2.0ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function native_register_zombie_class executed more than 5.0ms.
+L 01/14/2025 - 16:02:23: [zombie_plague43.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 01/14/2025 - 16:02:25: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1129.1ms.
+L 01/14/2025 - 16:21:25: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 16:21:49: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/14/2025 - 16:22:05: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 16:22:29: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 16:23:33: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 16:23:33: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 16:23:35: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1116.9ms.
+L 01/14/2025 - 16:44:35: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 16:44:59: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/14/2025 - 16:46:43: -------- Mapchange to de_aztec --------
+L 01/14/2025 - 16:46:43: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 16:46:44: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1131.5ms.
+L 01/14/2025 - 17:07:45: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 17:08:09: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 01/14/2025 - 17:08:25: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 17:08:49: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 17:09:53: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 17:09:53: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 17:09:54: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1116.5ms.
+L 01/14/2025 - 17:27:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 17:28:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/14/2025 - 17:30:02: -------- Mapchange to de_inferno --------
+L 01/14/2025 - 17:30:02: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 17:30:04: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1118.0ms.
+L 01/14/2025 - 17:48:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 17:48:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 17:50:12: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 17:50:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 17:50:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.9ms.
+L 01/14/2025 - 18:08:14: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 18:08:38: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Kreedz-Kz
+L 01/14/2025 - 18:08:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 18:09:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 01/14/2025 - 18:10:22: -------- Mapchange to kz_arsacid --------
+L 01/14/2025 - 18:10:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 18:10:22: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.2ms.
+L 01/14/2025 - 18:10:22: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 18:10:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1104.6ms.
+L 01/14/2025 - 18:10:23: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 01/14/2025 - 18:10:23: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 18:10:27: [admincmd.amxx] Cmd: "PerGAmes MultiModos - CScout MO<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 18:10:28: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.4ms.
+L 01/14/2025 - 18:28:24: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 18:28:48: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be bkz_goldbhop
+L 01/14/2025 - 18:30:32: -------- Mapchange to bkz_goldbhop --------
+L 01/14/2025 - 18:30:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 18:30:32: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.2ms.
+L 01/14/2025 - 18:30:32: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 18:30:33: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1122.6ms.
+L 01/14/2025 - 18:30:33: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.6ms.
+L 01/14/2025 - 18:30:33: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 18:30:37: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 18:30:38: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.4ms.
+L 01/14/2025 - 18:48:34: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 18:48:58: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be kz_arsacid
+L 01/14/2025 - 18:50:42: -------- Mapchange to kz_arsacid --------
+L 01/14/2025 - 18:50:42: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 18:50:42: [kz_jumpplugin.amxx] performance issue. Function plugin_precache executed more than 5.2ms.
+L 01/14/2025 - 18:50:42: New section, unterminated block (file "cstrike/addons/amxmodx/data/lang/kz_jumpplugin.txt" key "// Languages in this ML File:" lang "")
+L 01/14/2025 - 18:50:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1102.8ms.
+L 01/14/2025 - 18:50:43: [kz_jumpplugin.amxx] performance issue. Function plugin_cfg executed more than 6.4ms.
+L 01/14/2025 - 18:50:43: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 18:50:46: [admincmd.amxx] Cmd: "PerGAmes MultiModos - Kreedz by<0><><>" set cvar (name "kz_uq_airaccelerate") (value "100")
+L 01/14/2025 - 18:50:47: [kz_jumpplugin.amxx] performance issue. Function createbot executed more than 1.4ms.
+L 01/14/2025 - 19:08:43: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 19:09:07: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be MapasRaros
+L 01/14/2025 - 19:09:24: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 19:09:48: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be ka_roadwars_v3
+L 01/14/2025 - 19:10:52: -------- Mapchange to ka_roadwars_v3 --------
+L 01/14/2025 - 19:10:52: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 19:10:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1111.8ms.
+L 01/14/2025 - 19:29:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 19:30:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be crazycar_v2
+L 01/14/2025 - 19:32:02: -------- Mapchange to crazycar_v2 --------
+L 01/14/2025 - 19:32:02: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 19:32:03: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1113.4ms.
+L 01/14/2025 - 19:44:12: [admin.amxx] Login: "Rozskin<163><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "161.132.49.188")
+L 01/14/2025 - 19:44:14: [admin.amxx] Login: "Rozskin<164><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "161.132.49.188")
+L 01/14/2025 - 19:45:24: [admin.amxx] Login: "Rozskin<165><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "192.168.18.10")
+L 01/14/2025 - 19:48:17: [admin.amxx] Login: "Rozskin<166><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "38.25.66.109")
+L 01/14/2025 - 19:48:30: [admin.amxx] Login: "Rozskin<167><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "161.132.49.188")
+L 01/14/2025 - 19:51:04: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 19:51:28: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be carros-chocones_pg2
+L 01/14/2025 - 19:53:12: -------- Mapchange to carros-chocones_pg2 --------
+L 01/14/2025 - 19:53:12: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 19:53:13: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1119.0ms.
+L 01/14/2025 - 19:53:14: [admin.amxx] Login: "Rozskin<167><STEAM_0:1:85202636><>" became an admin (account "STEAM_0:1:85202636") (access "abcdefghijklmnopqrstu") (address "161.132.49.188")
+L 01/14/2025 - 20:12:14: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 20:12:38: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be HideN-Seek
+L 01/14/2025 - 20:12:54: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 20:13:18: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 01/14/2025 - 20:14:22: -------- Mapchange to cs_estate --------
+L 01/14/2025 - 20:14:22: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 20:14:23: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1122.1ms.
+L 01/14/2025 - 20:14:23: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 20:29:23: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 20:29:47: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/14/2025 - 20:31:32: -------- Mapchange to de_dust --------
+L 01/14/2025 - 20:31:32: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 20:31:33: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1086.8ms.
+L 01/14/2025 - 20:31:33: [uq_jumpstats.amxx] Can't find uq_jumpstats_tops.amxx
+L 01/14/2025 - 20:46:33: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 20:46:57: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Slender
+L 01/14/2025 - 20:47:14: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 20:47:38: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 20:48:41: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 20:48:41: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 20:48:43: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1117.2ms.
+L 01/14/2025 - 21:09:43: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 21:10:07: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 01/14/2025 - 21:11:51: -------- Mapchange to de_aztec --------
+L 01/14/2025 - 21:11:51: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 21:11:53: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1139.8ms.
+L 01/14/2025 - 21:32:53: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 21:33:17: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be CScout
+L 01/14/2025 - 21:33:33: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 21:33:57: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 21:35:01: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 21:35:01: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 21:35:02: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1122.4ms.
+L 01/14/2025 - 21:53:03: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 21:53:27: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 01/14/2025 - 21:55:11: -------- Mapchange to de_inferno --------
+L 01/14/2025 - 21:55:11: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 21:55:12: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1125.0ms.
+L 01/14/2025 - 22:13:13: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 22:13:37: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 22:15:21: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 22:15:21: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 22:15:22: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1121.5ms.
+L 01/14/2025 - 22:33:22: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 22:33:46: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Free-For-All
+L 01/14/2025 - 22:34:02: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 22:34:27: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 01/14/2025 - 22:35:30: -------- Mapchange to cs_assault --------
+L 01/14/2025 - 22:35:30: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 22:35:32: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1100.7ms.
+L 01/14/2025 - 22:52:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 22:52:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 01/14/2025 - 22:54:40: -------- Mapchange to de_chateau --------
+L 01/14/2025 - 22:54:40: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 22:54:41: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1108.6ms.
+L 01/14/2025 - 23:11:42: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 23:12:06: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 01/14/2025 - 23:13:50: -------- Mapchange to cs_assault --------
+L 01/14/2025 - 23:13:50: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 23:13:51: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1102.8ms.
+L 01/14/2025 - 23:30:51: [polymorph.amxx] Vote: Voting for the next mod started
+L 01/14/2025 - 23:31:16: [polymorph.amxx] Vote: Voting for the next mod finished. The nextmod will be Banderas
+L 01/14/2025 - 23:31:32: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 23:31:56: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 01/14/2025 - 23:32:59: -------- Mapchange to de_dust2 --------
+L 01/14/2025 - 23:33:00: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 23:33:01: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1111.7ms.
+L 01/14/2025 - 23:51:01: [polymorph.amxx] Vote: Voting for the nextmap started
+L 01/14/2025 - 23:51:25: [polymorph.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_iceday_remake
+L 01/14/2025 - 23:53:10: -------- Mapchange to surf_iceday_remake --------
+L 01/14/2025 - 23:53:10: [AMXX] Plugin "poly_csdm_off.amxx" failed to load: Plugin uses an unknown function (name "csdm_set_active") - check your modules.ini.
+L 01/14/2025 - 23:53:11: [polymorph.amxx] performance issue. Function plugin_cfg executed more than 1108.0ms.
